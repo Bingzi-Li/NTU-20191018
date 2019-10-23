@@ -1,5 +1,5 @@
 # NTU-20191018
-## Data mining on TMDB 500 movie dataset
+## NTU CZ4032 Data Analytics & Mining Assignment
 ### Authors: Li Bingzi, Wu Ziang, Zhang Shengjing, and Zhang Yuehan
 
 Project Objective
