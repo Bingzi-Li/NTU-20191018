@@ -1,1597 +1,1597 @@
-language,cast_num,cast_0,crew_num,director,genre_0,company_0,country
-en,83,Sam Worthington,153,James Cameron,Action,Ingenious Film Partners,US
-en,34,Johnny Depp,32,Gore Verbinski,Adventure,Walt Disney Pictures,US
-en,83,Daniel Craig,155,Sam Mendes,Action,Columbia Pictures,GB
-en,158,Christian Bale,217,Christopher Nolan,Action,Legendary Pictures,US
-en,27,Taylor Kitsch,132,Andrew Stanton,Action,Walt Disney Pictures,US
-en,143,Tobey Maguire,56,Sam Raimi,Fantasy,Columbia Pictures,US
-en,13,Zachary Levi,79,Byron Howard,Animation,Walt Disney Pictures,US
-en,72,Robert Downey Jr.,74,Joss Whedon,Action,Marvel Studios,US
-en,49,Daniel Radcliffe,27,David Yates,Adventure,Warner Bros.,GB
-en,152,Ben Affleck,111,Zack Snyder,Action,DC Comics,US
-en,18,Brandon Routh,24,Bryan Singer,Adventure,DC Comics,US
-en,32,Daniel Craig,17,Marc Forster,Adventure,Eon Productions,GB
-en,33,Johnny Depp,23,Gore Verbinski,Adventure,Walt Disney Pictures,JM
-en,60,Johnny Depp,35,Gore Verbinski,Action,Walt Disney Pictures,US
-en,33,Henry Cavill,48,Zack Snyder,Action,Legendary Pictures,GB
-en,21,Ben Barnes,83,Andrew Adamson,Adventure,Walt Disney,CZ
-en,115,Robert Downey Jr.,147,Joss Whedon,Science Fiction,Paramount Pictures,US
-en,35,Johnny Depp,39,Rob Marshall,Adventure,Walt Disney Pictures,US
-en,18,Will Smith,21,Barry Sonnenfeld,Action,Amblin Entertainment,US
-en,42,Martin Freeman,127,Peter Jackson,Action,WingNut Films,NZ
-en,57,Andrew Garfield,106,Marc Webb,Action,Columbia Pictures,US
-en,34,Russell Crowe,18,Ridley Scott,Action,Imagine Entertainment,GB
-en,32,Martin Freeman,108,Peter Jackson,Adventure,WingNut Films,NZ
-en,29,Dakota Blue Richards,32,Chris Weitz,Adventure,New Line Cinema,GB
-en,33,Naomi Watts,38,Peter Jackson,Adventure,WingNut Films,NZ
-en,136,Kate Winslet,65,James Cameron,Drama,Paramount Pictures,US
-en,100,Chris Evans,119,Anthony Russo,Adventure,Studio Babelsberg,US
-en,46,Taylor Kitsch,122,Peter Berg,Thriller,Universal Pictures,US
-en,28,Chris Pratt,435,Colin Trevorrow,Action,Universal Studios,US
-en,24,Daniel Craig,30,Sam Mendes,Action,Columbia Pictures,GB
-en,76,Tobey Maguire,128,Sam Raimi,Action,Columbia Pictures,US
-en,107,Robert Downey Jr.,29,Shane Black,Action,Marvel Studios,CN
-en,35,Mia Wasikowska,24,Tim Burton,Family,Walt Disney Pictures,US
-en,32,Hugh Jackman,39,Brett Ratner,Adventure,Ingenious Film Partners,CA
-en,24,Billy Crystal,13,Dan Scanlon,Animation,Walt Disney Pictures,US
-en,37,Shia LaBeouf,55,Michael Bay,Science Fiction,Paramount Pictures,US
-en,41,Mark Wahlberg,86,Michael Bay,Science Fiction,Paramount Pictures,US
-en,159,James Franco,31,Sam Raimi,Fantasy,Walt Disney Pictures,US
-en,65,Andrew Garfield,102,Marc Webb,Action,Columbia Pictures,US
-en,23,Garrett Hedlund,27,Joseph Kosinski,Adventure,Walt Disney Pictures,US
-en,47,Owen Wilson,40,John Lasseter,Animation,Walt Disney Pictures,US
-en,23,Ryan Reynolds,47,Martin Campbell,Adventure,De Line Pictures,US
-en,45,Tom Hanks,38,Lee Unkrich,Animation,Walt Disney Pictures,US
-en,15,Christian Bale,55,McG,Action,Columbia Pictures,DE
-en,52,Vin Diesel,98,James Wan,Action,Universal Pictures,JP
-en,22,Brad Pitt,31,Marc Forster,Action,Paramount Pictures,US
-en,65,Hugh Jackman,86,Bryan Singer,Action,Twentieth Century Fox Film Corporation,GB
-en,98,Chris Pine,107,J.J. Abrams,Action,Paramount Pictures,US
-en,23,Nicholas Hoult,43,Bryan Singer,Action,New Line Cinema,US
-en,31,Leonardo DiCaprio,18,Baz Luhrmann,Drama,Village Roadshow Pictures,US
-en,13,Jake Gyllenhaal,46,Mike Newell,Adventure,Walt Disney Pictures,US
-en,43,Idris Elba,27,Guillermo del Toro,Action,Legendary Pictures,US
-en,39,Shia LaBeouf,29,Michael Bay,Action,Paramount Pictures,US
-en,38,Harrison Ford,14,Steven Spielberg,Adventure,Lucasfilm,US
-en,19,Raymond Ochoa,11,Peter Sohn,Adventure,Walt Disney Pictures,US
-en,15,Kelly Macdonald,44,Brenda Chapman,Animation,Walt Disney Pictures,US
-en,33,Chris Pine,108,Justin Lin,Action,Paramount Pictures,US
-en,29,Ben Burtt,52,Andrew Stanton,Animation,Walt Disney Pictures,US
-en,18,Chris Tucker,18,Brett Ratner,Action,New Line Cinema,US
-en,52,John Cusack,115,Roland Emmerich,Action,Columbia Pictures,CA
-en,18,Gary Oldman,9,Robert Zemeckis,Animation,Walt Disney,US
-en,66,Mila Kunis,103,Lilly Wachowski,Science Fiction,Village Roadshow Pictures,US
-en,34,Alexander Skarsgård,12,David Yates,Action,Village Roadshow Pictures,CA
-en,24,William Moseley,29,Andrew Adamson,Adventure,Walt Disney,GB
-en,95,James McAvoy,96,Bryan Singer,Science Fiction,Twentieth Century Fox Film Corporation,US
-en,134,Christian Bale,81,Christopher Nolan,Drama,DC Comics,GB
-en,16,Ed Asner,91,Pete Docter,Animation,Pixar Animation Studios,US
-en,28,Seth Rogen,11,Conrad Vernon,Animation,DreamWorks Animation,US
-en,87,Robert Downey Jr.,21,Jon Favreau,Action,Marvel Studios,US
-en,28,Ben Kingsley,77,Martin Scorsese,Adventure,Paramount Pictures,FR
-en,29,Will Smith,12,Barry Sonnenfeld,Action,"Todman, Simon, LeMasters Productions",US
-en,15,Brendan Fraser,17,Rob Cohen,Adventure,Universal Pictures,DE
-en,128,Will Smith,104,David Ayer,Action,DC Comics,US
-en,18,Steve Carell,27,Tom Shadyac,Fantasy,Columbia Pictures,US
-en,40,Tom Cruise,111,Doug Liman,Action,Village Roadshow Pictures,AU
-en,15,Kevin Costner,57,Kevin Reynolds,Adventure,Universal Pictures,US
-en,23,Dennis Quaid,23,Stephen Sommers,Adventure,Paramount Pictures,CZ
-en,65,Amy Poehler,50,Pete Docter,Drama,Walt Disney Pictures,US
-en,30,Neel Sethi,25,Jon Favreau,Family,Walt Disney Pictures,GB
-en,115,Robert Downey Jr.,33,Jon Favreau,Adventure,Marvel Studios,US
-en,36,Kristen Stewart,56,Rupert Sanders,Adventure,Universal Pictures,US
-en,82,Angelina Jolie,14,Robert Stromberg,Fantasy,Walt Disney Pictures,US
-en,33,Andy Serkis,148,Matt Reeves,Science Fiction,Ingenious Media,US
-en,19,Josh Hartnett,79,Roland Joffé,Action,Corsan,AU
-en,24,Keanu Reeves,81,Carl Rinsch,Drama,Mid Atlantic Films,US
-en,70,Chris Evans,41,Anthony Russo,Action,Marvel Studios,US
-en,35,Mike Myers,6,Mike Mitchell,Comedy,DreamWorks Animation,US
-en,52,Britt Robertson,93,Brad Bird,Adventure,Walt Disney Pictures,US
-en,46,Scott Adsit,39,Chris Williams,Adventure,Walt Disney Pictures,US
-en,66,John C. Reilly,38,Rich Moore,Family,Walt Disney Animation Studios,US
-en,10,Tom Hanks,147,Robert Zemeckis,Adventure,Golden Mean,US
-en,67,Liam Hemsworth,109,Roland Emmerich,Action,Twentieth Century Fox Film Corporation,US
-en,13,Jay Baruchel,42,Chris Sanders,Fantasy,DreamWorks Animation,US
-en,14,Arnold Schwarzenegger,144,Jonathan Mostow,Action,Columbia Pictures,DE
-en,80,Chris Pratt,105,James Gunn,Action,Marvel Studios,GB
-en,36,Matthew McConaughey,120,Christopher Nolan,Adventure,Paramount Pictures,CA
-en,29,Leonardo DiCaprio,18,Christopher Nolan,Action,Legendary Pictures,GB
-ja,49,Hiroki Hasegawa,27,Hideaki Anno,Action,Cine Bazar,JP
-en,30,Ian McKellen,50,Peter Jackson,Adventure,WingNut Films,NZ
-en,30,Paul Walker,141,Rob Cohen,Action,Universal Pictures,DE
-en,37,Cate Blanchett,155,David Fincher,Fantasy,Paramount Pictures,US
-en,41,James McAvoy,45,Matthew Vaughn,Action,Ingenious Film Partners,US
-en,51,Jennifer Lawrence,114,Francis Lawrence,Action,Studio Babelsberg,DE
-en,14,Nicolas Cage,5,Jon Turteltaub,Fantasy,Walt Disney Pictures,US
-en,14,Kurt Russell,29,Wolfgang Petersen,Adventure,Virtual Studios,US
-en,98,Johnny Depp,102,James Bobin,Fantasy,Walt Disney Pictures,GB
-en,41,Mike Myers,15,Chris Miller,Fantasy,DreamWorks SKG,US
-en,47,Paula Patton,129,Duncan Jones,Action,Universal Pictures,CA
-en,32,Arnold Schwarzenegger,145,Alan Taylor,Science Fiction,Paramount Pictures,US
-en,19,Skandar Keynes,31,Michael Apted,Adventure,Dune Entertainment,US
-en,101,Ben Affleck,114,Michael Bay,History,Jerry Bruckheimer Films,US
-en,38,Shia LaBeouf,41,Michael Bay,Adventure,Paramount Pictures,US
-en,51,Colin Farrell,167,Oliver Stone,War,France 3 Cinéma,FR
-en,80,Daniel Radcliffe,22,David Yates,Adventure,Warner Bros.,GB
-en,65,Daniel Radcliffe,30,Mike Newell,Adventure,Patalex IV Productions Limited,GB
-en,33,Will Smith,27,Peter Berg,Fantasy,Columbia Pictures,US
-en,13,Will Smith,23,Francis Lawrence,Drama,Village Roadshow Pictures,US
-en,32,Johnny Depp,115,Tim Burton,Adventure,Village Roadshow Pictures,AU
-en,23,Patton Oswalt,56,Jan Pinkava,Animation,Walt Disney Pictures,US
-en,113,Christian Bale,137,Christopher Nolan,Action,DC Comics,GB
-en,42,Ben Stiller,6,Eric Darnell,Family,DreamWorks Animation,US
-en,42,Ben Stiller,16,Shawn Levy,Adventure,Twentieth Century Fox Film Corporation,US
-en,63,Hugh Jackman,8,Gavin Hood,Adventure,Ingenious Film Partners,US
-en,22,Keanu Reeves,25,Lilly Wachowski,Adventure,Village Roadshow Pictures,US
-en,56,Kristen Bell,25,Chris Buck,Animation,Walt Disney Pictures,US
-en,74,Keanu Reeves,23,Lilly Wachowski,Adventure,Village Roadshow Pictures,AU
-en,43,Chris Hemsworth,40,Alan Taylor,Action,Marvel Studios,US
-en,60,Tom Hardy,76,George Miller,Action,Village Roadshow Pictures,AU
-en,47,Tom Hanks,107,Ron Howard,Thriller,Columbia Pictures,IT
-en,32,Chris Hemsworth,30,Kenneth Branagh,Adventure,Marvel Studios,US
-en,16,John Travolta,156,Chris Williams,Animation,Walt Disney Animation Studios,US
-en,21,Sam Rockwell,15,Hoyt Yeatman,Fantasy,Walt Disney Pictures,US
-en,18,Sam Worthington,31,Jonathan Liebesman,Adventure,Legendary Pictures,ES
-en,25,Johnny Depp,18,Tim Burton,Comedy,Village Roadshow Pictures,AU
-en,75,Tom Cruise,112,Christopher McQuarrie,Action,Paramount Pictures,CN
-en,14,Benicio del Toro,47,Joe Johnston,Drama,Universal Pictures,US
-en,25,Jerry Seinfeld,21,Steve Hickner,Family,Pacific Data Images (PDI),US
-en,32,Jack Black,23,Jennifer Yuh Nelson,Animation,DreamWorks Animation,US
-en,21,Noah Ringer,3,M. Night Shyamalan,Action,Paramount Pictures,US
-en,13,Tom Cruise,26,J.J. Abrams,Adventure,Paramount Pictures,CN
-en,21,Channing Tatum,22,Roland Emmerich,Action,Columbia Pictures,US
-en,12,Seth Green,7,Simon Wells,Adventure,Walt Disney Animation Studios,US
-en,15,Hugh Jackman,34,David Bowers,Adventure,Aardman Animations,GB
-en,19,Levi Miller,22,Joe Wright,Adventure,Warner Bros.,US
-en,51,Ty Burrell,11,Rob Minkoff,Animation,Pacific Data Images (PDI),US
-en,20,Brad Pitt,124,Wolfgang Petersen,Adventure,Plan B Entertainment,US
-en,12,Ben Stiller,15,Conrad Vernon,Animation,DreamWorks Animation,US
-en,21,Pierce Brosnan,7,Lee Tamahori,Adventure,Eon Productions,GB
-en,75,Melissa McCarthy,100,Paul Feig,Action,Columbia Pictures,US
-en,67,Bruce Willis,108,Michael Bay,Action,Jerry Bruckheimer Films,US
-en,23,Tommy Lee Jones,147,Barry Sonnenfeld,Action,Columbia Pictures,US
-en,30,Ray Winstone,60,Robert Zemeckis,Adventure,Paramount Pictures,US
-en,34,Jack Black,34,Jennifer Yuh Nelson,Action,Twentieth Century Fox Film Corporation,CN
-en,16,Tom Cruise,28,Brad Bird,Action,Paramount Pictures,CZ
-en,16,Chris Pine,10,Peter Ramsey,Fantasy,DreamWorks Animation,US
-en,15,Jim Carrey,38,Dean Parisot,Comedy,Imagine Entertainment,US
-en,47,Tom Cruise,21,Edward Zwick,Drama,Cruise/Wagner Productions,JP
-en,24,Christian Bale,155,Ridley Scott,Adventure,Scott Free Productions,ES
-en,168,Chris Pine,24,J.J. Abrams,Science Fiction,Paramount Pictures,DE
-en,71,Tobey Maguire,126,Sam Raimi,Fantasy,Columbia Pictures,US
-en,17,Jay Baruchel,29,Dean DeBlois,Fantasy,DreamWorks Animation,US
-en,41,Brenton Thwaites,71,Alex Proyas,Fantasy,Summit Entertainment,AU
-en,23,Josh Lucas,24,Rob Cohen,Action,Laura Ziskin Productions,US
-en,35,Malin Åkerman,24,Zack Snyder,Action,Paramount Pictures,US
-en,21,Mel Gibson,101,Richard Donner,Action,Silver Pictures,US
-en,16,Eric Bana,145,Ang Lee,Drama,Universal Pictures,US
-en,20,Dwayne Johnson,28,Jon M. Chu,Adventure,Paramount Pictures,US
-en,16,Matthew McConaughey,107,Breck Eisner,Action,Paramount Pictures,DE
-en,9,Donald Sutherland,44,Hironobu Sakaguchi,Adventure,Columbia Pictures,JP
-en,56,Chris Evans,135,Joe Johnston,Action,Marvel Studios,US
-en,20,Pierce Brosnan,29,Michael Apted,Adventure,Eon Productions,GB
-en,26,Russell Crowe,168,Peter Weir,Adventure,Universal Pictures,US
-en,56,Kristen Stewart,113,Bill Condon,Adventure,Summit Entertainment,US
-en,26,Elijah Wood,22,George Miller,Animation,Village Roadshow Pictures,AU
-en,68,Edward Norton,24,Louis Leterrier,Science Fiction,Universal Pictures,US
-en,23,Ruby Barnhill,17,Steven Spielberg,Adventure,Walt Disney Pictures,IN
-en,19,Leonardo DiCaprio,124,Alejandro González Iñárritu,Western,Regency Enterprises,CA
-en,12,Ryan Reynolds,11,David Soren,Animation,DreamWorks Animation,US
-en,17,Johnny Depp,14,Gore Verbinski,Animation,Paramount Pictures,US
-en,16,Tom McGrath,4,Eric Darnell,Family,DreamWorks Animation,US
-en,46,Matt Damon,135,Paul Greengrass,Action,Universal Pictures,DE
-en,26,Jack Black,12,Mark Osborne,Adventure,DreamWorks Animation,US
-en,65,Paul Rudd,165,Peyton Reed,Science Fiction,Marvel Studios,US
-en,52,Jennifer Lawrence,48,Francis Lawrence,Adventure,Lionsgate,US
-en,11,Jim Parsons,35,Tim Johnson,Fantasy,Twentieth Century Fox Film Corporation,US
-en,29,Tom Cruise,164,Steven Spielberg,Adventure,Paramount Pictures,US
-en,21,Martin Lawrence,163,Michael Bay,Adventure,Columbia Pictures Corporation,US
-en,25,Antonio Banderas,21,Chris Miller,Action,DreamWorks,US
-en,42,Angelina Jolie,14,Phillip Noyce,Action,Columbia Pictures,US
-en,18,Russell Crowe,75,Darren Aronofsky,Drama,Paramount Pictures,US
-en,16,Jamie Bell,47,Steven Spielberg,Adventure,Paramount Pictures,NZ
-en,51,Daniel Radcliffe,147,Alfonso Cuarón,Adventure,1492 Pictures,GB
-en,45,Nicole Kidman,101,Baz Luhrmann,Drama,Bazmark Films,AU
-en,19,Jaden Smith,86,M. Night Shyamalan,Science Fiction,Columbia Pictures,US
-en,10,D. B. Sweeney,18,Ralph Zondag,Animation,Walt Disney Pictures,US
-en,26,Ben Stiller,108,Shawn Levy,Adventure,Twentieth Century Fox Film Corporation,GB
-en,23,Will Ferrell,14,Tom McGrath,Animation,DreamWorks Animation,US
-en,58,Daniel Radcliffe,134,Chris Columbus,Adventure,1492 Pictures,GB
-en,35,Jeff Bridges,33,Robert Schwentke,Fantasy,Universal Pictures,US
-en,70,Johnny Depp,128,Gore Verbinski,Adventure,Walt Disney Pictures,US
-en,54,Jennifer Lawrence,134,Francis Lawrence,Science Fiction,Lionsgate,US
-en,18,Tom Hanks,108,Ron Howard,Thriller,Columbia Pictures,US
-en,21,Jesse Eisenberg,22,Carlos Saldanha,Animation,Blue Sky Studios,US
-en,31,Patrick Stewart,28,Bryan Singer,Adventure,Twentieth Century Fox Film Corporation,US
-en,36,Vin Diesel,146,Justin Lin,Action,Universal Pictures,US
-en,25,Robert Downey Jr.,34,Guy Ritchie,Adventure,Village Roadshow Pictures,US
-en,35,Sam Worthington,123,Louis Leterrier,Adventure,The Zanuck Company,US
-en,21,Arnold Schwarzenegger,24,Paul Verhoeven,Action,TriStar Pictures,US
-en,19,Antonio Banderas,17,John McTiernan,Adventure,Touchstone Pictures,US
-en,31,Jeremy Renner,102,Tony Gilroy,Action,Universal Pictures,US
-en,14,George Clooney,105,Joel Schumacher,Action,PolyGram Filmed Entertainment,GB
-en,17,Jim Carrey,18,Ron Howard,Family,Imagine Entertainment,DE
-en,27,Dennis Quaid,228,Roland Emmerich,Action,Lions Gate Films,US
-en,17,Tom Cruise,123,John Woo,Adventure,Paramount Pictures,DE
-en,28,George Clooney,16,Wolfgang Petersen,Drama,Warner Bros.,US
-en,18,Ioan Gruffudd,32,Tim Story,Adventure,Ingenious Film Partners,DE
-en,21,Suraj Sharma,27,Ang Lee,Adventure,Ingenious Film Partners,US
-en,19,Nicolas Cage,58,Mark Steven Johnson,Thriller,Columbia Pictures Corporation,US
-en,208,Matt Damon,119,Paul Greengrass,Action,The Kennedy/Marshall Company,GB
-en,24,Cameron Diaz,13,McG,Action,Columbia Pictures,US
-en,26,Noomi Rapace,81,Ridley Scott,Science Fiction,Twentieth Century Fox Film Corporation,GB
-en,14,Michael J. Fox,10,Rob Minkoff,Family,Columbia Pictures,US
-en,24,Matt Damon,118,Neill Blomkamp,Science Fiction,TriStar Pictures,US
-en,19,Vin Diesel,193,David Twohy,Action,One Race Films,US
-en,16,Joel Kinnaman,27,José Padilha,Action,Columbia Pictures,CA
-en,26,Emile Hirsch,26,Lilly Wachowski,Action,Village Roadshow Pictures,AU
-en,16,Reese Witherspoon,19,James L. Brooks,Comedy,Columbia Pictures,US
-en,19,Tom Cruise,109,James Mangold,Action,Tree Line Films,US
-en,15,Tom Cruise,31,Joseph Kosinski,Action,Universal Pictures,US
-en,60,Ewan McGregor,15,George Lucas,Science Fiction,Lucasfilm,US
-en,42,Ewan McGregor,20,George Lucas,Adventure,Lucasfilm,US
-en,53,John Goodman,242,Pete Docter,Animation,Walt Disney Pictures,US
-en,22,Hugh Jackman,82,James Mangold,Action,Twentieth Century Fox Film Corporation,GB
-en,58,Liam Neeson,14,George Lucas,Adventure,Lucasfilm,US
-en,8,Nicolas Cage,14,Chris Sanders,Adventure,DreamWorks Animation,US
-fr,26,Clovis Cornillac,23,Thomas Langmann,Fantasy,Constantin Film,BE
-en,10,Nicolas Cage,35,John Woo,Drama,Lion Rock Productions,US
-en,42,Chris Hemsworth,7,Cedric Nicolas-Troyan,Action,Universal Pictures,US
-en,28,Megan Fox,54,Jonathan Liebesman,Science Fiction,Paramount Pictures,US
-en,7,Sandra Bullock,81,Alfonso Cuarón,Science Fiction,Warner Bros.,GB
-en,16,Pierce Brosnan,107,Roger Donaldson,Action,Universal Pictures,US
-en,25,Megan Fox,14,Dave Green,Fantasy,Paramount Pictures,CN
-en,28,Miles Teller,119,Josh Trank,Action,Twentieth Century Fox Film Corporation,US
-en,21,Ben Stiller,19,Shawn Levy,Action,Ingenious Film Partners,US
-en,45,Dwayne Johnson,82,Brad Peyton,Action,New Line Cinema,CA
-en,34,Pierce Brosnan,20,Roger Spottiswoode,Adventure,Eon Productions,GB
-en,21,Mel Gibson,129,Roland Emmerich,Drama,Centropolis Entertainment,DE
-en,27,George Clooney,109,Steven Soderbergh,Thriller,Village Roadshow Pictures,US
-en,15,Angelina Jolie,19,Doug Liman,Action,Weed Road Pictures,US
-en,24,Shailene Woodley,71,Robert Schwentke,Adventure,Summit Entertainment,US
-en,65,Leonardo DiCaprio,149,Martin Scorsese,Drama,Miramax Films,US
-en,16,Jack Black,22,Rob Letterman,Comedy,Twentieth Century Fox Film Corporation,US
-en,13,Seth Rogen,15,Michel Gondry,Action,Original Film,US
-en,42,Sullivan Stapleton,89,Noam Murro,Action,Legendary Pictures,US
-en,29,Hank Azaria,25,Raja Gosnell,Animation,Columbia Pictures,US
-en,21,Roseanne Barr,76,Will Finn,Animation,Walt Disney Pictures,US
-en,34,Shailene Woodley,109,Robert Schwentke,Adventure,Summit Entertainment,US
-en,172,Hugh Jackman,46,Shawn Levy,Action,DreamWorks SKG,IN
-en,32,Hank Azaria,12,Raja Gosnell,Fantasy,Columbia Pictures,US
-en,16,Sandra Bullock,103,Jan de Bont,Action,Twentieth Century Fox Film Corporation,US
-en,20,Asa Butterfield,127,Gavin Hood,Science Fiction,Summit Entertainment,US
-en,23,Bruce Willis,108,Len Wiseman,Action,Ingenious Film Partners,GB
-en,26,Elijah Wood,30,Peter Jackson,Adventure,WingNut Films,NZ
-en,26,Jackie Chan,135,Frank Coraci,Action,Studio Babelsberg,DE
-en,56,Will Smith,32,Michael Mann,Drama,Columbia Pictures Corporation,US
-en,11,Mike Myers,16,Bo Welch,Comedy,Imagine Entertainment,US
-en,21,Will Smith,138,Alex Proyas,Action,Twentieth Century Fox Film Corporation,US
-en,20,Orlando Bloom,114,Ridley Scott,Drama,Studio Babelsberg,DE
-en,18,Michael J. Fox,9,Rob Minkoff,Animation,Columbia Pictures Corporation,DE
-en,23,Anika Noni Rose,99,Ron Clements,Romance,Walt Disney Pictures,US
-en,51,Matt Damon,105,Ridley Scott,Drama,Twentieth Century Fox Film Corporation,US
-en,41,Ewan McGregor,55,Michael Bay,Action,DreamWorks SKG,US
-en,10,Warren Beatty,3,Peter Chelsom,Comedy,New Line Cinema,
-en,23,Nicolas Cage,34,Dominic Sena,Action,Jerry Bruckheimer Films,US
-en,38,Russell Crowe,101,Ridley Scott,Action,DreamWorks SKG,GB
-en,23,Tom Cruise,156,Steven Spielberg,Action,DreamWorks SKG,US
-en,61,Daniel Radcliffe,141,Chris Columbus,Adventure,1492 Pictures,DE
-en,79,Daniel Craig,126,Martin Campbell,Adventure,Eon Productions,IT
-en,23,Mark Wahlberg,20,Tim Burton,Thriller,Twentieth Century Fox Film Corporation,US
-en,42,Arnold Schwarzenegger,58,James Cameron,Action,Lightstorm Entertainment,FR
-en,49,Christian Bale,108,Michael Mann,History,Universal Pictures,US
-en,110,Denzel Washington,60,Ridley Scott,Drama,Imagine Entertainment,GB
-en,10,Arnold Schwarzenegger,23,James Cameron,Action,Twentieth Century Fox Film Corporation,US
-en,22,Denzel Washington,19,Tony Scott,Thriller,Columbia Pictures,US
-en,18,Robert De Niro,9,Paul Weitz,Comedy,Paramount Pictures,US
-en,29,Will Ferrell,10,Adam McKay,Action,Columbia Pictures,US
-en,18,Arnold Schwarzenegger,77,Chuck Russell,Action,Kopelson Entertainment,CA
-en,115,Jamie Foxx,88,Quentin Tarantino,Drama,Columbia Pictures,US
-en,17,Tom Hulce,35,Gary Trousdale,Drama,Walt Disney Pictures,US
-en,11,David Spade,27,Mark Dindal,Adventure,Walt Disney Pictures,US
-en,17,Sylvester Stallone,106,Simon West,Action,Nu Image Films,US
-en,38,Nicolas Cage,125,Jon Turteltaub,Adventure,Walt Disney Pictures,US
-en,15,Ed Speleers,26,Stefen Fangmeier,Fantasy,Ingenious Film Partners,GB
-en,17,Max Records,9,Spike Jonze,Family,Village Roadshow Pictures,US
-en,25,Josh Hutcherson,23,Chris Wedge,Animation,Blue Sky Studios,US
-en,46,Johnny Depp,30,Florian Henckel von Donnersmarck,Action,Columbia Pictures,GB
-en,13,Arnold Schwarzenegger,139,Peter Hyams,Action,Beacon Communications,US
-en,22,Leonardo DiCaprio,87,Edward Zwick,Drama,Bedford Falls Productions,DE
-en,140,Leonardo DiCaprio,244,Martin Scorsese,Crime,Paramount Pictures,US
-en,17,Val Kilmer,18,Joel Schumacher,Action,Warner Bros.,GB
-en,20,Casper Van Dien,46,Paul Verhoeven,Adventure,TriStar Pictures,US
-en,30,Tom Hanks,149,Tom Tykwer,Drama,Anarchos Productions,DE
-en,22,Emily Barclay,13,Zack Snyder,Animation,Village Roadshow Pictures,AU
-en,58,Halle Berry,162,Pitof,Action,Village Roadshow Pictures,US
-en,26,Dwayne Johnson,77,Brett Ratner,Action,Paramount Pictures,US
-en,28,Joseph Gordon-Levitt,39,Ron Clements,Adventure,Walt Disney Pictures,US
-en,18,Will Ferrell,27,Brad Silberling,Adventure,Universal Pictures,US
-en,31,Sylvester Stallone,85,Patrick Hughes,Action,Davis-Films,FR
-en,14,Edgar Ramírez,144,Ericson Core,Action,Studio Babelsberg,DE
-en,7,Jamie Kennedy,13,Lawrence Guterman,Fantasy,New Line Cinema,DE
-en,26,Chris Hemsworth,110,Ron Howard,Thriller,Imagine Entertainment,US
-en,14,Eddie Murphy,9,Ron Underwood,Action,Village Roadshow Pictures,AU
-en,88,Matt Damon,81,Paul Greengrass,War,Universal Pictures,ES
-en,14,Noah Schnapp,16,Steve Martino,Animation,Blue Sky Studios,US
-en,6,Steve Martin,18,David Mamet,Crime,Jean Doumanian Productions,US
-en,19,Brendan Fraser,11,Stephen Sommers,Adventure,Universal Pictures,US
-en,29,Leonardo DiCaprio,38,Martin Scorsese,Drama,Miramax Films,US
-zh,8,Christian Bale,45,Zhang Yimou,Drama,Beijing New Picture Film Co. Ltd.,CN
-en,15,Shia LaBeouf,19,Ash Brannon,Animation,Columbia Pictures,US
-en,22,Nicole Kidman,19,Frank Oz,Action,Paramount Pictures,US
-en,34,Josh Hartnett,156,Ridley Scott,Action,Jerry Bruckheimer Films,GB
-en,21,Will Ferrell,12,Jay Roach,Comedy,Everyman Pictures,US
-en,115,Bruce Willis,134,Luc Besson,Adventure,Columbia Pictures,FR
-en,32,Sarah Jessica Parker,14,Michael Patrick King,Comedy,New Line Cinema,US
-en,12,Kenneth Branagh,37,Don Michael Paul,Adventure,DreamWorks SKG,US
-en,37,John Leguizamo,13,Steve Martino,Animation,Blue Sky Studios,US
-en,78,Lily James,80,Kenneth Branagh,Romance,Walt Disney Pictures,GB
-en,17,Rachel Weisz,27,Peter Jackson,Fantasy,WingNut Films,GB
-en,24,Albert Brooks,104,Andrew Stanton,Animation,Pixar Animation Studios,US
-en,29,Elijah Wood,29,Peter Jackson,Adventure,WingNut Films,NZ
-en,34,Elijah Wood,36,Peter Jackson,Adventure,WingNut Films,NZ
-en,35,Jeff Bridges,55,Sergei Bodrov,Adventure,Legendary Pictures,CN
-en,23,Angelina Jolie,41,Simon West,Adventure,Paramount Pictures,US
-en,41,Johnny Depp,67,Wally Pfister,Thriller,Alcon Entertainment,CN
-en,15,Sam Neill,100,Joe Johnston,Adventure,Universal Studios,US
-en,28,James Franco,110,Rupert Wyatt,Thriller,Ingenious Film Partners,US
-en,9,Freddie Highmore,99,Mark Waters,Adventure,Paramount Pictures,US
-en,20,Bruce Willis,109,John Moore,Action,Ingenious Media,US
-en,20,Dennis Quaid,145,John Lee Hancock,Western,Imagine Entertainment,US
-en,44,Craig T. Nelson,85,Brad Bird,Action,Walt Disney Pictures,US
-en,31,Geena Davis,16,Renny Harlin,Action,Le Studio Canal+,FR
-en,91,Logan Lerman,48,Chris Columbus,Adventure,Ingenious Film Partners,CA
-en,18,Tommy Lee Jones,122,Barry Sonnenfeld,Action,Amblin Entertainment,US
-en,24,Tom Hanks,172,John Lasseter,Animation,Pixar Animation Studios,US
-en,20,Denzel Washington,27,Tony Scott,Action,Twentieth Century Fox Film Corporation,US
-en,16,Chris Tucker,10,Brett Ratner,Action,New Line Cinema,US
-en,15,Harrison Ford,111,Robert Zemeckis,Drama,DreamWorks SKG,US
-en,41,Bill Hader,21,Phil Lord,Animation,Columbia Pictures,US
-en,27,Ray Romano,8,Carlos Saldanha,Animation,Blue Sky Studios,US
-en,13,Ben Stiller,21,Ben Stiller,Adventure,New Line Cinema,US
-en,16,Cameron Diaz,38,McG,Action,Columbia Pictures,US
-en,71,Leonardo DiCaprio,71,Martin Scorsese,Drama,Vertigo Entertainment,HK
-en,21,Eddie Murphy,27,Tony Bancroft,Animation,Walt Disney Pictures,US
-en,74,Ben Stiller,36,Ben Stiller,Action,DreamWorks SKG,US
-en,59,Daniel Craig,149,David Fincher,Thriller,Columbia Pictures,NO
-en,17,Bruce Willis,49,John McTiernan,Action,Twentieth Century Fox Film Corporation,US
-en,55,Robert Downey Jr.,25,Guy Ritchie,Action,Village Roadshow Pictures,DE
-en,19,Jack Huston,8,Timur Bekmambetov,Drama,Paramount Pictures,US
-en,15,Michael J. Fox,68,Gary Trousdale,Animation,Walt Disney Pictures,US
-en,27,Jason Lee,12,Walt Becker,Adventure,Regency Enterprises,US
-en,35,Tom Cruise,27,Bryan Singer,Drama,United Artists,DE
-en,183,Adam Sandler,37,Dennis Dugan,Comedy,Columbia Pictures,US
-en,72,Adam Sandler,40,Chris Columbus,Action,Columbia Pictures,US
-en,23,Haley Joel Osment,146,Steven Spielberg,Drama,DreamWorks SKG,US
-en,25,Eddie Murphy,12,Rob Minkoff,Thriller,Walt Disney Pictures,US
-en,108,Jodie Foster,172,Robert Zemeckis,Drama,Warner Bros.,US
-en,10,Kevin Bacon,13,Paul Verhoeven,Action,Columbia Pictures Corporation,DE
-en,21,Nicole Kidman,107,Sydney Pollack,Crime,Universal Pictures,FR
-en,22,Logan Lerman,29,Thor Freudenthal,Adventure,1492 Pictures,US
-en,13,Angelina Jolie,12,Jan de Bont,Action,Paramount Pictures,US
-en,141,Jesse Eisenberg,92,Jon M. Chu,Action,Summit Entertainment,CA
-en,28,Val Kilmer,18,Phillip Noyce,Thriller,Paramount Pictures,US
-en,14,Robert Redford,32,Tony Scott,Action,Universal Pictures,GB
-en,17,Gary Sinise,35,Brian De Palma,Science Fiction,Spyglass Entertainment,US
-en,13,Jesse Eisenberg,16,Carlos Saldanha,Animation,Blue Sky Studios,US
-en,17,Robin Williams,10,Chris Columbus,Comedy,Laurence Mark Productions,DE
-en,16,Tommy Lee Jones,10,Mick Jackson,Science Fiction,Twentieth Century Fox Film Corporation,US
-en,17,Harrison Ford,17,Alan J. Pakula,Crime,Columbia Pictures,US
-en,29,Harrison Ford,15,Kathryn Bigelow,Drama,Paramount Pictures,CA
-en,17,Arnold Schwarzenegger,77,John Milius,Adventure,Universal Pictures,US
-en,68,Russell Crowe,45,Ron Howard,Romance,Miramax Films,US
-en,12,Elle Fanning,3,Andrei Konchalovsky,Fantasy,Vnesheconombank,GB
-en,12,Jeff Bridges,60,Gary Ross,Drama,Universal Pictures,US
-en,16,Helen Hunt,90,Jan de Bont,Action,Universal Pictures,US
-en,14,Tom Hanks,13,Robert Zemeckis,Adventure,DreamWorks SKG,US
-en,20,Elijah Wood,69,George Miller,Animation,Kennedy Miller Productions,AU
-en,46,Matt Damon,160,Paul Greengrass,Action,Universal Pictures,DE
-en,38,Harrison Ford,100,Wolfgang Petersen,Action,Columbia Pictures Corporation,DE
-en,23,George Clooney,121,Steven Soderbergh,Thriller,Village Roadshow Pictures,US
-en,15,Milla Jovovich,31,Paul W.S. Anderson,Adventure,Impact Pictures,US
-en,24,Adam Sandler,13,Genndy Tartakovsky,Animation,Columbia Pictures,US
-en,15,Amy Adams,24,Kevin Lima,Comedy,Walt Disney Pictures,US
-en,17,Denzel Washington,20,Daniel Espinosa,Action,Universal Pictures,US
-en,5,Glenn Close,13,Kevin Lima,Comedy,Walt Disney Pictures,US
-en,55,Ben Stiller,19,Brett Ratner,Action,Universal Pictures,US
-en,21,Cameron Diaz,10,Nancy Meyers,Comedy,Columbia Pictures,GB
-en,44,Will Smith,18,Tony Scott,Action,Jerry Bruckheimer Films,US
-en,25,Meryl Streep,13,Nancy Meyers,Comedy,Universal Pictures,US
-en,25,George Clooney,45,Steven Soderbergh,Crime,Village Roadshow Pictures,US
-en,17,Martin Lawrence,14,Jill Culton,Adventure,Sony Pictures Animation,US
-en,21,Shailene Woodley,95,Neil Burger,Adventure,Summit Entertainment,US
-en,16,Jude Law,77,Jean-Jacques Annaud,War,Paramount Pictures,IE
-en,21,Dwayne Johnson,34,Peter Berg,Adventure,Columbia Pictures,US
-en,22,Arnold Schwarzenegger,97,John McTiernan,Adventure,Columbia Pictures Corporation,US
-en,21,Zhang Ziyi,15,Rob Marshall,Drama,DreamWorks SKG,US
-en,56,Lucas Black,57,Justin Lin,Action,Universal Pictures,JP
-en,48,James McAvoy,32,Barry Cook,Drama,Columbia Pictures,US
-en,11,Brad Pitt,83,Martin Brest,Fantasy,Universal Pictures,US
-en,21,Arnold Schwarzenegger,151,Andrew Davis,Action,David Foster Productions,US
-en,24,Roy Scheider,15,Bob Fosse,Drama,Twentieth Century Fox Film Corporation,US
-en,33,Julia Roberts,33,Tarsem Singh,Adventure,Relativity Media,US
-en,30,Michael Cera,7,Edgar Wright,Action,Universal Pictures,US
-en,54,Aaron Eckhart,222,Jon Amiel,Action,Paramount Pictures,US
-en,19,Eddie Murphy,14,Peter Segal,Fantasy,Imagine Entertainment,US
-en,11,Freddie Prinze Jr.,118,Raja Gosnell,Mystery,Atlas Entertainment,US
-en,15,Karl Urban,82,Pete Travis,Action,DNA Films,ZA
-en,24,Adam Sandler,15,Frank Coraci,Comedy,Original Film,US
-en,21,Hal Holbrook,15,George A. Romero,Horror,Warner Bros.,US
-en,18,James Marsden,10,Brad Peyton,Comedy,Village Roadshow Pictures,US
-en,21,Hayden Christensen,89,Doug Liman,Adventure,Dune Entertainment,CA
-en,11,Ron Perlman,14,Guillermo del Toro,Adventure,Universal Pictures,DE
-en,26,Jake Gyllenhaal,43,David Fincher,Crime,Paramount Pictures,US
-en,12,Arnold Schwarzenegger,56,Roger Spottiswoode,Science Fiction,Phoenix Pictures,US
-en,11,Jim Carrey,124,Tom Shadyac,Fantasy,Universal Pictures,US
-en,22,Sylvester Stallone,111,Sylvester Stallone,Thriller,Millennium Films,US
-en,30,Tom Cruise,91,Brian De Palma,Adventure,Paramount Pictures,US
-en,48,Jennifer Lawrence,61,Gary Ross,Science Fiction,Lionsgate,US
-en,24,Bradley Cooper,4,Todd Phillips,Comedy,Legendary Pictures,US
-en,11,Michael Keaton,16,Tim Burton,Action,PolyGram Filmed Entertainment,GB
-en,17,Bruce Willis,13,Karey Kirkpatrick,Comedy,Pacific Data Images (PDI),US
-en,11,Chris Sanders,33,Chris Sanders,Animation,Walt Disney Pictures,US
-en,45,Julia Roberts,26,Gary Winick,Comedy,Paramount Pictures,DE
-en,26,Robert Duvall,113,Mimi Leder,Action,Paramount Pictures,US
-en,61,Bruce Willis,14,Dean Parisot,Action,DC Comics,CA
-en,32,Adam Sandler,19,Peter Segal,Comedy,Paramount Pictures,US
-en,11,Jason Lee,13,Mike Mitchell,Comedy,Fox 2000 Pictures,US
-en,55,Adam Sandler,17,Dennis Dugan,Comedy,Columbia Pictures,US
-en,15,Steve Carell,14,Peter Segal,Action,Village Roadshow Pictures,CA
-en,11,Jack Nicholson,7,Nancy Meyers,Drama,Columbia Pictures Corporation,US
-en,26,Leonardo DiCaprio,29,Martin Scorsese,Drama,Paramount Pictures,US
-en,25,Vince Vaughn,20,Seth Gordon,Comedy,New Line Cinema,US
-en,20,Robin Williams,58,Chris Wedge,Animation,Blue Sky Studios,US
-en,22,John Travolta,54,John Woo,Action,Paramount Pictures,US
-en,71,Adam Sandler,4,Adam Shankman,Fantasy,Walt Disney Pictures,US
-en,32,Tom Hanks,117,Sam Mendes,Thriller,DreamWorks SKG,US
-en,21,Adam Sandler,49,Dennis Dugan,Romance,Columbia Pictures,US
-en,44,Nicolas Cage,37,Simon West,Action,Jerry Bruckheimer Films,US
-en,20,Shia LaBeouf,111,D.J. Caruso,Mystery,DreamWorks SKG,US
-en,23,Jude Law,89,Anthony Minghella,Drama,Miramax Films,US
-en,45,Denzel Washington,85,Albert Hughes,Action,Alcon Entertainment,US
-en,16,Robin Williams,12,Les Mayfield,Comedy,Walt Disney Pictures,US
-en,21,Liam Neeson,108,Jan de Bont,Horror,DreamWorks,US
-en,28,Michael Jordan,116,Joe Pytka,Animation,Warner Bros. Family Entertainment,US
-en,22,Steve Martin,23,Shawn Levy,Action,Columbia Pictures,US
-en,18,Keanu Reeves,72,Scott Derrickson,Drama,Twentieth Century Fox Film Corporation,CA
-en,17,Mel Gibson,17,Richard Donner,Action,Silver Pictures,US
-en,20,Brad Pitt,92,David Ayer,War,Columbia Pictures,GB
-en,62,Harrison Ford,33,Ivan Reitman,Action,Caravan Pictures,US
-en,14,Dan Aykroyd,8,Eric Brevig,Comedy,De Line Pictures,US
-en,15,Matt Damon,25,Kelly Asbury,Western,DreamWorks SKG,US
-en,22,Kevin James,6,Frank Coraci,Comedy,Columbia Pictures,US
-en,20,Gary Oldman,105,Stephen Hopkins,Adventure,New Line Cinema,US
-en,29,Denzel Washington,97,Jonathan Demme,Drama,Paramount Pictures,US
-en,11,Stephen Dillane,3,Henry Jaglom,Romance,"Rainbow Film Company, The",US
-en,22,Adam Sandler,9,Genndy Tartakovsky,Animation,Columbia Pictures,US
-en,12,Steve Martin,46,James Algar,Animation,Walt Disney Pictures,US
-en,27,Guy Pearce,19,Simon Wells,Science Fiction,DreamWorks SKG,US
-en,16,Charlize Theron,20,Ron Underwood,Action,Walt Disney Pictures,US
-en,53,John Travolta,10,Dominic Sena,Action,Village Roadshow Pictures,AU
-en,17,Antonio Banderas,19,Martin Campbell,Action,Amblin Entertainment,MX
-en,18,Robin Williams,16,Vincent Ward,Drama,PolyGram Filmed Entertainment,NZ
-en,20,Adam Sandler,9,Steven Brill,Comedy,New Line Cinema,US
-en,20,Heath Ledger,110,Terry Gilliam,Adventure,The Weinstein Company,CZ
-en,22,Jack Nicholson,21,Tim Burton,Comedy,Tim Burton Productions,US
-fr,7,Max Brebant,19,Lucile Hadzihalilovic,Mystery,Ex Nihilo,BE
-en,6,Alec Baldwin,7,Lee Tamahori,Action,Art Linson Productions,US
-en,44,Bruce Willis,25,Jonathan Mostow,Action,Touchstone Pictures,US
-en,6,Kevin Costner,36,Roger Donaldson,Drama,New Line Cinema,US
-en,18,Sylvester Stallone,93,Rob Cohen,Action,Universal Pictures,US
-en,12,Charlie Rowe,12,Barry Cook,Animation,BBC Worldwide,AU
-en,16,John Travolta,12,Roger Christian,Action,Franchise Pictures,US
-en,58,Brendan Fraser,63,Joe Dante,Animation,Lonely Film Productions GmbH & Co. KG.,DE
-en,14,Judi Dench,4,Rob Marshall,Drama,The Weinstein Company,IT
-en,16,Paul Walker,114,Richard Donner,Action,Paramount Pictures,US
-en,25,Kevin Costner,13,Kevin Costner,Drama,Tig Productions,US
-en,21,James Cromwell,13,George Miller,Adventure,Kennedy Miller Productions,AU
-en,22,Vin Diesel,92,Breck Eisner,Fantasy,Summit Entertainment,US
-en,9,Val Kilmer,93,Antony Hoffman,Thriller,Village Roadshow Pictures,AU
-en,27,Freddie Highmore,27,Luc Besson,Adventure,Canal Plus,FR
-en,8,Pierce Brosnan,28,Jacques Perrin,Documentary,Pathé Films,FR
-en,20,Heike Makatsch,31,Peter Hyams,Thriller,Epsilon Motion Pictures,CZ
-en,36,Kit Harington,43,Paul W.S. Anderson,Action,Impact Pictures,CA
-es,6,Jason Harris,4,Andrés Couturier,Comedy,Anima Estudios,IN
-en,38,Russell Crowe,60,Ron Howard,Drama,Imagine Entertainment,US
-en,28,Jonathan Taylor Thomas,33,Roger Allers,Family,Walt Disney Pictures,US
-en,10,Dwayne Johnson,86,Brad Peyton,Adventure,New Line Cinema,US
-en,15,Bill Hader,29,Cody Cameron,Animation,Columbia Pictures,US
-en,14,Anthony Hopkins,9,Brett Ratner,Crime,Universal Pictures,DE
-en,16,Viggo Mortensen,123,Joe Johnston,Western,Casey Silver Productions,US
-en,21,Adam Sandler,12,Dennis Dugan,Comedy,Columbia Pictures,US
-en,40,Paul Walker,105,John Singleton,Action,Mikona Productions GmbH & Co. KG,US
-en,20,Jeff Bridges,7,Mark Osborne,Adventure,Onyx Films,FR
-en,17,Nicole Kidman,21,Oliver Hirschbiegel,Science Fiction,Village Roadshow Pictures,US
-en,20,Rene Russo,9,Des McAnuff,Action,Universal Pictures,DE
-en,31,Louis C.K.,53,Chris Renaud,Animation,Universal Pictures,US
-en,33,Sean Connery,150,Stephen Norrington,Fantasy,Twentieth Century Fox Film Corporation,CZ
-en,39,Steve Carell,31,Pierre Coffin,Animation,Universal Pictures,US
-en,69,Will Smith,63,Roland Emmerich,Action,Twentieth Century Fox Film Corporation,US
-en,23,Jeff Goldblum,97,Steven Spielberg,Adventure,Universal Pictures,US
-en,21,Ben Stiller,55,Eric Darnell,Family,DreamWorks SKG,US
-en,73,Clive Owen,102,Alfonso Cuarón,Drama,Universal Pictures,GB
-en,19,Patrick Stewart,23,Bryan Singer,Adventure,Twentieth Century Fox Film Corporation,US
-en,18,Angelina Jolie,27,Timur Bekmambetov,Action,Universal Pictures,DE
-en,25,Sean Connery,30,Michael Bay,Action,Hollywood Pictures,US
-en,42,Ray Romano,10,Carlos Saldanha,Animation,Blue Sky Studios,US
-en,55,Adam Sandler,108,Peter Segal,Comedy,Columbia Pictures Corporation,US
-en,152,John Travolta,23,Adam Shankman,Family,New Line Cinema,GB
-en,26,Stellan Skarsgård,13,Renny Harlin,Horror,Morgan Creek Productions,US
-en,16,Matthew Broderick,7,David Kellogg,Action,Walt Disney Pictures,US
-en,18,Jesse Eisenberg,34,Louis Leterrier,Thriller,Summit Entertainment,US
-en,20,Adam Sandler,3,Dennis Dugan,Comedy,Columbia Pictures,US
-en,23,Tom Hanks,68,Steven Spielberg,Comedy,DreamWorks SKG,US
-en,16,Emma Roberts,6,Thor Freudenthal,Comedy,DreamWorks SKG,US
-en,18,Chris O'Donnell,21,Martin Campbell,Action,Columbia Pictures Corporation,NZ
-en,17,Tom Hanks,10,Mike Nichols,Comedy,Universal Pictures,US
-en,16,Will Smith,76,Vicky Jenson,Animation,DreamWorks SKG,US
-en,23,Jamie Foxx,86,Bill Condon,Drama,Paramount Pictures,US
-en,59,John Travolta,18,F. Gary Gray,Comedy,Double Feature Films,US
-en,19,Eric Bana,22,Steven Spielberg,Drama,DreamWorks SKG,CA
-en,31,Bruce Willis,138,Antoine Fuqua,Action,Columbia Pictures,US
-en,34,Katherine Heigl,17,Robert Luketic,Action,Katalyst Films,US
-en,27,Henry Cavill,105,Guy Ritchie,Comedy,Davis Entertainment,US
-en,14,Adam Sandler,109,James L. Brooks,Comedy,Gracie Films,US
-en,17,Ryan Newman,93,Gil Kenan,Animation,Columbia Pictures,US
-en,10,Bruce Willis,104,Barry Levinson,Action,Cheyenne Enterprises,US
-en,16,Sean Connery,16,Jerry Zucker,Action,Columbia Pictures Corporation,US
-en,32,Jodie Foster,15,Andy Tennant,Drama,Fox 2000 Pictures,MY
-en,26,Mickey Rourke,29,Tarsem Singh,Fantasy,Virgin Produced,US
-en,14,Bruce Willis,24,Florent-Emilio Siri,Mystery,Miramax Films,DE
-en,8,Matt Damon,42,Gary Goldman,Animation,Twentieth Century Fox Film Corporation,US
-en,35,Harrison Ford,16,Ron Shelton,Action,Columbia Pictures,US
-en,19,Kurt Russell,49,Paul W.S. Anderson,Action,Impact Pictures,US
-en,13,Lou Taylor Pucci,12,Àlex Pastor,Action,Paramount Vantage,US
-en,100,Brendan Fraser,31,Henry Selick,Adventure,Twentieth Century Fox Film Corporation,US
-en,16,Dennis Quaid,120,John Moore,Action,Twentieth Century Fox Film Corporation,US
-en,40,Bruce Willis,56,M. Night Shyamalan,Science Fiction,Limited Edition Productions Inc.,US
-en,17,Sandra Bullock,12,Kyle Balda,Family,Universal Pictures,US
-en,35,Emily Browning,46,Zack Snyder,Action,Legendary Pictures,US
-en,23,Nicolas Cage,78,Brian De Palma,Crime,Paramount Pictures,CA
-en,12,Dustin Hoffman,71,Barry Levinson,Science Fiction,Punch Productions,US
-en,32,Jason Sudeikis,6,Fergal Reilly,Family,Columbia Pictures,FI
-en,17,Matthew McConaughey,25,Andy Tennant,Romance,De Line Pictures,US
-en,78,Adam Sandler,17,Judd Apatow,Comedy,Columbia Pictures,US
-en,19,Jamie Foxx,22,Peter Berg,Thriller,Universal Pictures,DE
-en,24,Will Ferrell,14,Adam McKay,Comedy,Columbia Pictures,US
-en,48,Eddie Murphy,74,Steve Carr,Comedy,Twentieth Century Fox Film Corporation,US
-en,55,Mel Gibson,67,Mel Gibson,Action,Icon Entertainment International,US
-en,20,Jamie Foxx,10,Sam Mendes,Drama,Universal Pictures,DE
-en,21,Dan Castellaneta,66,David Silverman,Animation,Gracie Films,US
-en,17,Jim Carrey,28,Frank Darabont,Drama,Village Roadshow Pictures,US
-en,17,Kip Pardue,9,Renny Harlin,Action,Epsilon Motion Pictures,AU
-en,15,Maï Anh Le,11,Jean-Jacques Annaud,Adventure,Pathé Renn Productions,FR
-en,16,Bryce Dallas Howard,121,M. Night Shyamalan,Drama,Scott Rudin Productions,US
-en,12,Eddie Murphy,11,Betty Thomas,Comedy,Twentieth Century Fox Film Corporation,US
-en,15,Mel Gibson,88,M. Night Shyamalan,Drama,"Kennedy/Marshall Company, The",US
-en,25,Mike Myers,72,Andrew Adamson,Adventure,DreamWorks SKG,US
-en,48,Owen Wilson,40,John Lasseter,Animation,Walt Disney Pictures,US
-en,18,Julia Roberts,32,Garry Marshall,Comedy,Paramount Pictures,US
-en,20,Vin Diesel,139,Rob Cohen,Action,Columbia Pictures,US
-en,61,Tom Kenny,98,Paul Tibbitt,Animation,Paramount Pictures,US
-en,38,Mel Gibson,16,Ron Howard,Action,Touchstone Pictures,US
-en,71,Brad Pitt,42,Quentin Tarantino,Drama,Universal Pictures,DE
-en,30,Robin Williams,22,Steven Spielberg,Adventure,Amblin Entertainment,US
-en,44,Bruce Willis,73,Renny Harlin,Action,Twentieth Century Fox Film Corporation,US
-en,16,Samuel L. Jackson,100,Clark Johnson,Action,Original Film,US
-en,14,Tom Cruise,15,Cameron Crowe,Drama,Paramount Pictures,US
-en,15,Paul Giamatti,39,M. Night Shyamalan,Drama,Legendary Pictures,US
-en,25,Sanaa Lathan,137,Paul W.S. Anderson,Adventure,Impact Pictures,CA
-en,17,Zachary Levi,16,Betty Thomas,Comedy,Regency Enterprises,US
-en,54,Mel Gibson,132,Randall Wallace,Action,Icon Entertainment International,DE
-en,22,Gerard Butler,26,Antoine Fuqua,Action,Nu Image Films,US
-en,11,Patrick Stewart,20,Jonathan Frakes,Science Fiction,Paramount Pictures,US
-en,62,Aaron Eckhart,95,Jonathan Liebesman,Action,Columbia Pictures,US
-en,43,Ewan McGregor,137,Tim Burton,Adventure,Columbia Pictures,US
-en,15,Jack Nicholson,36,Mike Nichols,Fantasy,Columbia Pictures,US
-en,32,Tom Hiddleston,48,Steven Spielberg,Drama,DreamWorks SKG,US
-en,22,Matt Damon,21,George Clooney,War,Columbia Pictures,DE
-en,20,Ed Harris,107,James Cameron,Adventure,Twentieth Century Fox Film Corporation,US
-en,20,Michael Douglas,5,Oliver Stone,Drama,Twentieth Century Fox Film Corporation,US
-en,23,Luke Evans,112,Gary Shore,Horror,Universal Pictures,US
-en,14,Denzel Washington,87,Edward Zwick,Drama,Twentieth Century Fox Film Corporation,US
-en,44,Claire Danes,70,Matthew Vaughn,Adventure,Paramount Pictures,IS
-en,10,Brad Pitt,14,Jean-Jacques Annaud,Adventure,TriStar Pictures,US
-en,110,Kevin James,36,Ron Howard,Comedy,Imagine Entertainment,US
-en,17,Anthony Hopkins,24,Joel Schumacher,Action,Jerry Bruckheimer Films,US
-en,15,Dwayne Johnson,76,Andrzej Bartkowiak,Adventure,Di Bonaventura Pictures,CZ
-en,9,Eddie Murphy,10,Betty Thomas,Action,Columbia Pictures Corporation,US
-en,31,Kate Beckinsale,41,Måns Mårlind,Fantasy,Lakeshore Entertainment,US
-en,224,Julianne Hough,15,Adam Shankman,Comedy,New Line Cinema,US
-en,20,Bruce Willis,20,Gregory Hoblit,Drama,David Foster Productions,US
-en,18,Jason Statham,26,Gary McKendry,Action,Current Entertainment,AU
-en,100,Chris Klein,15,John McTiernan,Action,Atlas Entertainment,DE
-en,5,Antonio Banderas,15,Wych Kaosayananda,Action,Epsilon Motion Pictures,DE
-en,10,Morgan Freeman,82,Mikael Salomon,Thriller,Paramount Pictures,DK
-en,8,Chris Rock,65,Bobby Farrelly,Adventure,Conundrum Entertainment,US
-en,12,Lea Michele,29,Dan St. Pierre,Animation,Prana Animation Studios,IN
-en,19,Chris Hemsworth,54,Michael Mann,Crime,Universal Pictures,US
-en,11,Jude Law,105,Kerry Conran,Mystery,Paramount Pictures,GB
-en,37,Sharon Stone,14,Michael Caton-Jones,Crime,Intermedia Films,DE
-en,36,Sylvester Stallone,100,Mikael Håfström,Action,Summit Entertainment,US
-en,19,Kellan Lutz,54,Renny Harlin,Action,Millennium Films,US
-en,21,Ben Affleck,108,Phil Alden Robinson,Thriller,Paramount Pictures,US
-en,42,Kristen Stewart,39,David Slade,Adventure,Summit Entertainment,US
-en,24,Robert De Niro,13,Frank Oz,Action,Paramount Pictures,DE
-en,33,Steve Carell,25,Pierre Coffin,Animation,Universal Pictures,US
-en,15,Wesley Snipes,44,Joseph Ruben,Action,Columbia Pictures,US
-en,105,Mark Wahlberg,76,Seth MacFarlane,Comedy,Universal Pictures,US
-en,73,Rachel Weisz,51,Alejandro Amenábar,Adventure,Himenóptero,ES
-en,26,Ben Stiller,13,Kinka Usher,Adventure,Universal Pictures,US
-en,13,Owen Wilson,43,Bobby Farrelly,Comedy,New Line Cinema,US
-en,56,Al Pacino,42,Michael Mann,Drama,Spyglass Entertainment,US
-en,22,Chris Pine,92,Craig Gillespie,Action,Walt Disney Pictures,US
-en,19,Leonardo DiCaprio,85,Ridley Scott,Action,Scott Free Productions,US
-en,20,Steve Carell,6,Jay Roach,Comedy,Paramount Pictures,US
-en,36,Benjamin Walker,24,Timur Bekmambetov,Action,Twentieth Century Fox Film Corporation,US
-en,21,Sean Connery,105,Jon Amiel,Romance,Fountainbridge Films,GB
-en,46,David Duchovny,17,Rob Bowman,Mystery,Twentieth Century Fox Film Corporation,CA
-en,16,Colin Firth,10,Doug Lefler,Action,Ingenious Film Partners,GB
-en,38,Tom Hanks,95,Steven Spielberg,Drama,Paramount Pictures,US
-en,46,Aaron Paul,69,Scott Waugh,Action,DreamWorks SKG,PH
-en,110,Helen Hunt,95,Nancy Meyers,Comedy,Paramount Pictures,US
-en,18,Ray Romano,58,Chris Wedge,Animation,Twentieth Century Fox Film Corporation,US
-en,16,Morgan Freeman,88,Lawrence Kasdan,Drama,Village Roadshow Pictures,US
-en,71,Daniel Day-Lewis,21,Steven Spielberg,History,DreamWorks,IN
-en,36,Keanu Reeves,71,Lilly Wachowski,Action,Village Roadshow Pictures,AU
-en,27,Tom Hanks,110,Ron Howard,Drama,Imagine Entertainment,US
-en,13,Tim Allen,37,Michael Lembeck,Fantasy,Walt Disney Pictures,US
-en,208,Hugh Jackman,46,Tom Hooper,Drama,Universal Pictures,GB
-en,16,Tom Hanks,32,Nora Ephron,Comedy,Warner Bros.,US
-en,16,Will Ferrell,23,Adam McKay,Comedy,Columbia Pictures,US
-en,24,Antonio Banderas,16,Martin Campbell,Action,Amblin Entertainment,US
-en,18,Robert Downey Jr.,57,Todd Phillips,Comedy,Legendary Pictures,US
-en,79,Jack O'Connell,92,Angelina Jolie,Drama,Legendary Pictures,US
-en,16,Clint Eastwood,28,Clint Eastwood,Action,Village Roadshow Pictures,US
-en,15,Sylvester Stallone,29,Renny Harlin,Action,TriStar Pictures,FR
-en,15,John Travolta,17,John Woo,Action,Twentieth Century Fox Film Corporation,US
-en,57,Bruce Willis,21,Jon Turteltaub,Fantasy,Walt Disney Pictures,US
-en,22,Nicolas Cage,31,Oliver Stone,Drama,Paramount Pictures,US
-en,22,Julia Roberts,22,Mike Newell,Drama,Columbia Pictures,US
-en,15,Sacha Baron Cohen,11,Larry Charles,Comedy,Paramount Pictures,US
-en,17,Tom Cruise,18,Stanley Kubrick,Mystery,Hobby Films,GB
-en,40,Quvenzhané Wallis,60,Will Gluck,Comedy,Columbia Pictures,US
-en,37,Will Smith,48,Glenn Ficarra,Romance,Kramer & Sigman Films,US
-en,42,Reese Witherspoon,40,McG,Action,Dune Entertainment,US
-en,20,Wesley Snipes,155,David S. Goyer,Science Fiction,New Line Cinema,US
-en,18,Patrick Swayze,10,John Milius,Action,United Artists,US
-en,17,John Travolta,8,Mike Nichols,Comedy,Universal Pictures,FR
-en,26,Milla Jovovich,19,Paul W.S. Anderson,Action,Davis-Films,CA
-en,13,Jason Statham,57,Paul W.S. Anderson,Action,Universal Pictures,GB
-en,15,Geena Davis,10,Renny Harlin,Crime,New Line Cinema,US
-en,9,Meg Ryan,9,Taylor Hackford,Action,Castle Rock Entertainment,US
-en,11,Jonah Bobo,24,Jon Favreau,Family,Columbia Pictures Corporation,US
-en,77,Edward Norton,107,David Fincher,Drama,Regency Enterprises,DE
-en,8,Matthew McConaughey,13,McG,Drama,Legendary Pictures,US
-en,8,Bruce Willis,12,Michael Lehmann,Action,TriStar Pictures,US
-en,15,John Travolta,8,Nora Ephron,Action,Paramount Pictures,FR
-en,22,Aaron Eckhart,87,Stuart Beattie,Horror,Lakeshore Entertainment,US
-en,34,Barney Clark,16,Roman Polanski,Crime,R.P. Productions,CZ
-en,20,Jennifer Garner,111,Rob Bowman,Action,Twentieth Century Fox Film Corporation,CA
-en,50,Mickey Rourke,68,Robert Rodriguez,Crime,Miramax Films,US
-en,24,Harrison Ford,10,Sydney Pollack,Drama,Columbia Pictures,US
-en,36,Jason Clarke,113,Baltasar Kormákur,Adventure,Universal Pictures,IS
-en,24,Ben Whishaw,29,Tom Tykwer,Crime,Davis-Films,ES
-en,114,Mike Myers,144,Jay Roach,Comedy,New Line Cinema,US
-en,15,Nicolas Cage,9,David Bowers,Animation,The Weinstein Company,HK
-en,27,Sam Neill,105,Steven Spielberg,Adventure,Universal Pictures,US
-en,24,Kevin Costner,18,Lawrence Kasdan,Drama,Tig Productions,US
-en,18,Harrison Ford,13,Phillip Noyce,Action,Paramount Pictures,US
-zh,37,Jackie Chan,10,Daniel Lee,Action,Shanghai Film Group,HK
-en,6,Marlon Wayans,36,Keenen Ivory Wayans,Comedy,Revolution Studios,US
-en,11,Matthew McConaughey,19,Jonathan Mostow,Action,Universal Pictures,FR
-en,18,Michael Douglas,6,Rob Reiner,Comedy,Columbia Pictures,US
-en,19,Mike Myers,17,Marco Schnabel,Comedy,Paramount Pictures,US
-en,13,Kurt Russell,15,Demian Lichtenstein,Action,Franchise Pictures,US
-en,18,Samuel L. Jackson,77,Quentin Tarantino,Crime,Double Feature Films,US
-en,29,Will Ferrell,25,Josh Gordon,Action,DreamWorks,US
-en,11,Russell Brand,21,Tim Hill,Animation,Universal Pictures,GB
-en,87,Gerard Butler,87,Zack Snyder,Action,Virtual Studios,US
-en,19,Ben Stiller,99,Jay Roach,Comedy,DreamWorks SKG,US
-en,36,Owen Wilson,75,David Frankel,Comedy,Sunswept Entertainment,US
-en,33,Tom Hanks,48,Frank Darabont,Fantasy,Castle Rock Entertainment,US
-en,17,Tim Allen,12,Walt Becker,Action,Wild Hogs Productions,US
-en,24,Zach Braff,65,Mark Dindal,Animation,Walt Disney Pictures,US
-en,72,Ben Affleck,82,David Fincher,Mystery,Twentieth Century Fox Film Corporation,US
-en,51,Matt Damon,147,Doug Liman,Action,Universal Pictures,US
-en,20,Pierce Brosnan,46,Martin Campbell,Adventure,United Artists,GB
-en,16,John Travolta,23,Simon West,Crime,Paramount Pictures,DE
-en,25,Jim Carrey,29,Peter Weir,Comedy,Paramount Pictures,US
-en,22,Val Kilmer,27,Simon Wells,Adventure,DreamWorks SKG,US
-en,52,Eddie Murphy,32,Steve Carr,Comedy,Columbia Pictures,US
-en,44,Denzel Washington,33,Baltasar Kormákur,Action,Universal Studios,US
-en,8,Jeff Goldblum,10,Lawrence Guterman,Comedy,Village Roadshow Pictures,US
-en,22,Mark Wahlberg,115,F. Gary Gray,Action,De Line Pictures,GB
-en,26,Sandra Bullock,7,Marc Lawrence,Romance,Village Roadshow Pictures,AU
-en,18,Woody Allen,66,Eric Darnell,Adventure,DreamWorks SKG,US
-en,18,Vince Vaughn,6,Peter Billingsley,Comedy,Universal Pictures,US
-en,12,Tom Cruise,17,Tony Scott,Adventure,Paramount Pictures,US
-en,22,Steve Martin,11,Adam Shankman,Comedy,Twentieth Century Fox Film Corporation,US
-en,37,Dylan O'Brien,99,Wes Ball,Action,Gotham Group,US
-en,19,Julia Roberts,16,Ryan Murphy,Drama,Columbia Pictures,US
-en,11,Nicolas Cage,10,Brett Ratner,Comedy,Universal Pictures,US
-en,29,Bruce Willis,13,Robert Schwentke,Action,DC Comics,US
-en,66,Al Pacino,44,Oliver Stone,Drama,Donners' Company,US
-en,21,Robert Redford,26,Robert Redford,Drama,Wildwood Enterprises,US
-en,20,Tom Cruise,142,Michael Mann,Drama,Paramount Pictures,US
-en,18,Dwayne Johnson,22,Chuck Russell,Action,Universal Pictures,US
-en,10,Joaquin Phoenix,101,Jay Russell,Drama,Casey Silver Productions,US
-en,47,Tom Cruise,35,Christopher McQuarrie,Crime,Paramount Pictures,US
-en,18,Thomas Jane,148,Renny Harlin,Action,Village Roadshow Pictures,AU
-en,10,Michael Jackson,6,Kenny Ortega,Music,Columbia Pictures,US
-en,18,Matt Damon,51,Steven Soderbergh,Drama,Double Feature Films,US
-en,7,Jerry O'Connell,19,David McNally,Comedy,Castle Rock Entertainment,AU
-en,8,Dakota Fanning,79,Henry Selick,Animation,Focus Features,US
-en,22,Mark Wahlberg,19,M. Night Shyamalan,Thriller,Spyglass Entertainment,US
-en,12,Denzel Washington,147,Tony Scott,Action,Regency Enterprises,GB
-en,21,Tim Allen,26,Brian Robbins,Comedy,Walt Disney Pictures,US
-en,84,Ben Stiller,109,Todd Phillips,Comedy,Weed Road Pictures,US
-en,20,Arnold Schwarzenegger,12,Brian Levant,Family,Twentieth Century Fox Film Corporation,US
-en,21,Ron Perlman,111,Guillermo del Toro,Fantasy,Revolution Studios,US
-en,19,John Travolta,15,Steven Zaillian,Drama,Paramount Pictures,US
-en,21,Kodi Smit-McPhee,73,Sam Fell,Family,Focus Features,US
-en,50,Bruce Willis,92,Michael Caton-Jones,Action,Universal Pictures,US
-en,46,Ben Affleck,102,John Woo,Action,Paramount Pictures,CA
-en,12,Robert Redford,8,Jon Avnet,Drama,Cinergi Pictures Entertainment,US
-en,18,Matthew Broderick,76,Robert Stevenhagen,Adventure,Larger Than Life Productions,GB
-en,15,Jackie Chan,36,Kevin Donovan,Thriller,DreamWorks SKG,US
-en,12,Steven Seagal,20,Geoff Murphy,Action,Regency Enterprises,US
-en,29,Chris Pine,31,Kenneth Branagh,Action,Paramount Pictures,RU
-en,67,Jennifer Lawrence,89,David O. Russell,Drama,Fox 2000 Pictures,US
-en,29,Gerard Butler,101,Babak Najafi,Action,Millennium Films,BG
-en,26,Sigourney Weaver,91,Jean-Pierre Jeunet,Science Fiction,Twentieth Century Fox Film Corporation,US
-en,16,Mark Wahlberg,10,Antoine Fuqua,Action,Paramount Pictures,US
-en,18,Ben Kingsley,74,Anthony Stacchi,Animation,Laika Entertainment,US
-en,11,Sandra Bullock,35,Griffin Dunne,Drama,Village Roadshow Pictures,US
-en,35,Chris Pratt,82,Phil Lord,Adventure,Village Roadshow Pictures,US
-en,14,Sandra Bullock,13,John Pasquin,Action,Village Roadshow Pictures,US
-en,15,Christian Bale,122,Rob Bowman,Adventure,The Zanuck Company,IE
-en,40,Josh Brolin,81,Ruben Fleischer,Crime,Village Roadshow Pictures,US
-en,24,Jack Black,12,Harold Ramis,Comedy,Columbia Pictures,US
-en,46,Morgan Freeman,37,Clint Eastwood,Drama,Spyglass Entertainment,US
-en,22,Russell Crowe,25,Kevin Macdonald,Action,Universal Pictures,FR
-en,33,Clive Owen,8,Tony Gilroy,Romance,Universal Pictures,DE
-en,8,Jeff Daniels,6,Donald Petrie,Comedy,Walt Disney Pictures,US
-en,15,Michael Douglas,25,Clark Johnson,Action,Twentieth Century Fox Film Corporation,US
-en,18,Dwayne Johnson,15,Jorge Blanco,Science Fiction,TriStar Pictures,ES
-en,18,Patrick Stewart,19,Stuart Baird,Science Fiction,Paramount Pictures,US
-en,42,George Clooney,46,Joel Coen,Crime,Imagine Entertainment,US
-en,46,Clint Eastwood,19,Robert Lorenz,Drama,Malpaso Productions,US
-en,20,Mel Gibson,80,Martin Campbell,Crime,Icon Productions,GB
-en,27,Penelope Ann Miller,87,Peter Hyams,Horror,Paramount Pictures,DE
-en,10,Robert De Niro,15,Harold Ramis,Comedy,Village Roadshow Pictures,AU
-en,33,Robert De Niro,2,Jon Avnet,Action,Grosvenor Park Media Ltd.,US
-en,25,Bruce Willis,90,Harold Becker,Action,Imagine Entertainment,US
-en,12,Robert Downey Jr.,21,Joe Wright,Drama,DreamWorks,US
-en,13,Matt Damon,34,Robert Redford,Fantasy,DreamWorks SKG,US
-en,45,Kate Hudson,16,Cameron Crowe,Drama,Columbia Pictures,US
-en,20,Bill Murray,11,Tim Hill,Animation,Twentieth Century Fox Film Corporation,GB
-en,15,Ice Cube,111,Lee Tamahori,Action,Original Film,US
-en,11,Paul Bettany,17,Scott Stewart,Action,Screen Gems,US
-en,13,Brad Pitt,30,Tim Johnson,Family,DreamWorks Animation,US
-en,15,Laurence Fishburne,59,Paul W.S. Anderson,Horror,Paramount Pictures,GB
-en,23,Kevin Costner,67,Tom Shadyac,Drama,Universal Pictures,DE
-en,19,Josh Hartnett,72,Brian De Palma,Drama,Universal Pictures,FR
-en,16,James Franco,81,Tony Bill,Action,Ingenious Film Partners,GB
-en,11,Robert Redford,15,Rod Lurie,Action,DreamWorks SKG,US
-en,12,James Spader,59,Walter Hill,Horror,United Artists,CH
-en,33,Colin Farrell,12,Akiva Goldsman,Drama,Village Roadshow Pictures,US
-en,22,Lily Collins,12,Harald Zwart,Action,Constantin Film Produktion,US
-en,16,Eddie Murphy,38,Brian Robbins,Comedy,Twentieth Century Fox Film Corporation,US
-en,12,Jennifer Connelly,17,Walter Salles,Drama,Vertigo Entertainment,US
-en,51,Matthew McConaughey,12,Ron Howard,Comedy,Imagine Entertainment,US
-en,20,Brendan Fraser,27,Iain Softley,Adventure,New Line Cinema,DE
-en,15,Gabriel Macht,24,Frank Miller,Action,DC Comics,US
-en,14,Johnny Depp,61,David Koepp,Comedy,Lionsgate,US
-en,19,Jason Statham,28,Uwe Boll,Adventure,Boll Kino Beteiligungs GmbH & Co. KG,CA
-en,50,Angelina Jolie,31,Martin Campbell,Drama,Mandalay Pictures,DE
-zh,11,Aaron Kwok,3,Soi Cheang,Action,Filmko Pictures,HK
-en,56,Benjamin Bratt,116,John Dahl,Action,Lawrence Bender Productions,US
-en,47,Ryan Reynolds,88,Tim Miller,Action,Twentieth Century Fox Film Corporation,US
-en,5,Eddie Murphy,7,Stephen Herek,Drama,Caravan Pictures,US
-en,81,Bradley Cooper,74,Clint Eastwood,War,Village Roadshow Pictures,US
-en,54,Jack Black,26,Rob Letterman,Adventure,Columbia Pictures,AU
-en,42,Reese Witherspoon,64,Mark Waters,Comedy,DreamWorks SKG,US
-en,14,Mark Addy,18,Brian Levant,Science Fiction,Universal Pictures,US
-en,16,Sylvester Stallone,25,Peter MacDonald,Action,TriStar Pictures,US
-en,14,George Clooney,29,George Clooney,Comedy,Universal Pictures,DE
-en,68,Adam Sandler,14,Frank Coraci,Comedy,Happy Madison Productions,US
-en,16,Hugh Grant,12,Marc Lawrence,Comedy,Columbia Pictures,US
-en,117,Owen Wilson,20,Shawn Levy,Comedy,Twentieth Century Fox Film Corporation,US
-en,15,Milla Jovovich,33,Paul W.S. Anderson,Action,Impact Pictures,DE
-en,16,Bryan Cranston,88,Anthony Hemingway,Drama,Lucasfilm,US
-en,47,Keanu Reeves,17,Taylor Hackford,Drama,Regency Enterprises,DE
-en,28,Adam Sandler,5,Sean Anders,Comedy,Columbia Pictures,US
-en,18,Dennis Quaid,18,Rob Cohen,Fantasy,Universal Pictures,US
-en,35,Pierce Brosnan,23,Brett Ratner,Action,New Line Cinema,US
-en,11,Nicolas Cage,35,Brian Taylor,Action,Columbia Pictures,AE
-en,13,Nicolas Cage,12,John Madden,Drama,Miramax Films,GB
-en,76,Vin Diesel,14,Adam Shankman,Action,Walt Disney Pictures,CA
-en,49,Dwayne Johnson,34,Kevin Bray,Adventure,Metro-Goldwyn-Mayer (MGM),US
-en,66,Tom Hanks,93,Robert Zemeckis,Comedy,Paramount Pictures,US
-en,16,Jason Lee,24,Tim Hill,Comedy,Dune Entertainment,US
-en,19,Ben Stiller,84,Jay Roach,Comedy,DreamWorks SKG,US
-en,16,Irene Bedard,31,Mike Gabriel,Adventure,Walt Disney Pictures,US
-en,92,Christopher Reeve,19,Richard Donner,Action,Warner Bros.,GB
-en,21,Eddie Murphy,11,Tom Shadyac,Fantasy,Imagine Entertainment,US
-en,17,Will Smith,8,Andy Tennant,Comedy,Columbia Pictures Corporation,US
-en,49,Brendan Fraser,11,Sam Weisman,Adventure,Walt Disney Pictures,US
-en,15,Jason Biggs,110,Jesse Dylan,Comedy,Universal Pictures,US
-en,17,Tom Hanks,85,Paul Greengrass,Action,Columbia Pictures,US
-en,29,Tina Fey,21,Shawn Levy,Comedy,Twentieth Century Fox Film Corporation,US
-en,34,Christina Ricci,22,Brad Silberling,Fantasy,Universal Pictures,US
-en,38,Denzel Washington,82,Antoine Fuqua,Thriller,Columbia Pictures,US
-en,18,Jennifer Lopez,82,Wayne Wang,Comedy,Red Om Films,US
-en,18,Denzel Washington,32,Tony Scott,Action,Hollywood Pictures,US
-en,49,Will Smith,34,Gabriele Muccino,Drama,Columbia Pictures Corporation,US
-en,15,Jodie Foster,12,Robert Schwentke,Thriller,Imagine Entertainment,US
-en,12,Michael Douglas,6,Barry Levinson,Drama,Warner Bros.,US
-en,16,Nicolas Cage,14,Brad Silberling,Drama,Atlas Entertainment,US
-en,36,Uma Thurman,161,Quentin Tarantino,Action,Miramax Films,US
-en,43,Steve Martin,136,Frank Oz,Comedy,Universal Pictures,US
-en,27,Uma Thurman,130,Quentin Tarantino,Action,Miramax Films,US
-en,16,Sylvester Stallone,7,Andrei Konchalovsky,Action,Warner Bros.,US
-en,20,Meryl Streep,8,Robert Zemeckis,Fantasy,Universal Pictures,US
-en,22,Jackie Chan,13,Tom Dey,Adventure,Spyglass Entertainment,HK
-en,18,Kurt Russell,22,Stuart Baird,Action,Silver Pictures,US
-en,17,Jim Carrey,10,Mark Waters,Comedy,Twentieth Century Fox Film Corporation,US
-en,15,Jackie Chan,25,Rob Minkoff,Action,Casey Silver Productions,CN
-en,17,Owen Wilson,13,Jimmy Hayward,Animation,Reel FX Creative Studios,US
-en,25,Sigourney Weaver,47,David Fincher,Science Fiction,Twentieth Century Fox Film Corporation,GB
-en,12,Madonna,9,Alan Parker,History,Hollywood Pictures,US
-en,33,Robert De Niro,75,John Frankenheimer,Action,United Artists,FR
-en,15,Michael Douglas,11,Stephen Hopkins,Adventure,Constellation Films,DE
-en,68,Nicole Kidman,8,Paul King,Family,The Weinstein Company,GB
-en,19,Ben Stiller,14,Akiva Schaffer,Comedy,Ingenious Film Partners,US
-en,5,Tommy Lee Jones,53,William Friedkin,Drama,Lakeshore Entertainment,US
-en,27,Anthony Hopkins,40,Jon Turteltaub,Drama,Spyglass Entertainment,US
-en,40,Matt Damon,14,Bobby Farrelly,Comedy,Twentieth Century Fox Film Corporation,US
-en,16,Will Ferrell,3,Kent Alterman,Comedy,New Line Cinema,US
-en,13,Hugh Grant,57,Peter Lord,Animation,Columbia Pictures,GB
-en,74,Angelina Jolie,32,Clint Eastwood,Crime,Imagine Entertainment,US
-en,75,Keanu Reeves,23,Andrew Davis,Action,Twentieth Century Fox Film Corporation,US
-en,10,Robert De Niro,21,Tony Scott,Drama,TriStar Pictures,US
-en,9,Gerard Butler,22,Joel Schumacher,Thriller,Odyssey Entertainment,GB
-en,22,Cate Blanchett,71,Shekhar Kapur,Drama,Universal Pictures,GB
-en,52,Charlize Theron,21,Karyn Kusama,Action,Paramount Pictures,US
-en,21,Stephen Lang,72,Ronald F. Maxwell,Drama,Warner Bros. Pictures,US
-en,45,Ray Liotta,32,Robert Butler,Action,Metro-Goldwyn-Mayer (MGM),US
-en,21,Eddie Murphy,11,Karey Kirkpatrick,Comedy,Paramount Pictures,US
-en,66,Ricky Gervais,7,James Bobin,Comedy,Buena Vista,US
-en,28,Brady Corbet,20,Jonathan Frakes,Action,Studio Canal,GB
-en,33,Cher,19,Steve Antin,Drama,Bedford Falls Productions,US
-fr,69,Audrey Tautou,8,Jean-Pierre Jeunet,Drama,Gerber Pictures,FR
-en,11,James Mason,9,Stanley Kubrick,Drama,Seven Arts Productions,GB
-en,12,Sylvester Stallone,15,Jim Gillespie,Action,Universal Pictures,US
-en,48,Wesley Snipes,167,Guillermo del Toro,Fantasy,New Line Cinema,DE
-en,17,Will Smith,21,Gabriele Muccino,Drama,Columbia Pictures,US
-en,19,Sylvester Stallone,84,Walter Hill,Action,Dark Castle Entertainment,CH
-en,38,Al Pacino,24,Francis Ford Coppola,Crime,Paramount Pictures,IT
-en,13,Orlando Bloom,6,Cameron Crowe,Comedy,Paramount Pictures,US
-en,14,Kate Hudson,17,Anthony Russo,Comedy,Universal Pictures,US
-en,50,Gene Hackman,60,Richard Lester,Action,Warner Bros.,GB
-en,18,Ben Affleck,27,Martin Brest,Drama,City Light Films,US
-en,12,Sean Penn,23,Steven Zaillian,Drama,Columbia Pictures Corporation,US
-en,12,Samuel L. Jackson,16,John Singleton,Action,Paramount Pictures,DE
-en,12,Meg Ryan,63,Gary Goldman,Animation,Twentieth Century Fox Film Corporation,US
-en,100,Nicole Kidman,19,Baz Luhrmann,Drama,Bazmark Films,AU
-en,9,John Travolta,8,Harold Becker,Mystery,Paramount Pictures,US
-en,65,Johnny Depp,79,Scott Cooper,Crime,Infinitum Nihil,GB
-en,28,Ryan Phillippe,60,Clint Eastwood,War,DreamWorks SKG,US
-en,20,Jamie Foxx,46,F. Gary Gray,Drama,"Film Department, The",US
-en,32,Kurt Russell,54,Robert Rodriguez,Thriller,Big Talk Productions,US
-en,9,Oprah Winfrey,10,Jonathan Demme,Drama,Harpo Films,US
-en,8,Eric Bana,48,Curtis Hanson,Drama,Village Roadshow Pictures,US
-en,123,Leonardo DiCaprio,103,Steven Spielberg,Drama,Kemp Company,US
-en,31,Jessica Chastain,19,Kathryn Bigelow,Thriller,Columbia Pictures,US
-en,16,Vince Vaughn,18,Peyton Reed,Romance,Universal Pictures,US
-en,26,Meryl Streep,14,Phyllida Lloyd,Comedy,Universal Pictures,DE
-en,23,Jessica Alba,14,Garry Marshall,Comedy,New Line Cinema,US
-en,22,Johnny Knoxville,72,Jay Chandrasekhar,Action,Village Roadshow Pictures,US
-en,26,Sean Penn,20,Terrence Malick,Drama,Fox 2000 Pictures,CA
-en,19,Olivia Wilde,41,David Dobkin,Comedy,Universal Pictures,US
-en,17,Jim Carrey,19,Miloš Forman,Comedy,Mutual Film Company,US
-en,45,Robert De Niro,10,Martin Scorsese,Drama,Universal Pictures,FR
-en,25,John Travolta,67,Pierre Morel,Action,Apipoulaï,GB
-en,15,Seann William Scott,11,Paul Hunter,Action,Metro-Goldwyn-Mayer (MGM),US
-en,16,Jim Carrey,103,Bobby Farrelly,Comedy,Twentieth Century Fox Film Corporation,US
-en,20,Courteney Cox,20,Steve Oedekerk,Animation,Paramount Pictures,DE
-en,21,Danny DeVito,20,John Whitesell,Comedy,Regency Enterprises,US
-en,37,Kristen Stewart,26,Chris Weitz,Adventure,Summit Entertainment,US
-en,29,Mike Myers,76,Andrew Adamson,Adventure,DreamWorks SKG,US
-en,20,Matt Damon,64,George Nolfi,Science Fiction,Universal Pictures,US
-en,35,Kevin Costner,9,Kevin Reynolds,Adventure,Warner Bros.,US
-en,23,Tom Cruise,9,Cameron Crowe,Comedy,Gracie Films,US
-en,50,Mark Wahlberg,83,Seth MacFarlane,Comedy,Universal Pictures,US
-en,56,Jack Nicholson,35,James L. Brooks,Comedy,Gracie Films,US
-en,28,Robin Williams,54,Tom Shadyac,Comedy,Universal Pictures,US
-en,27,Will Ferrell,8,Adam McKay,Comedy,Paramount Pictures,US
-en,13,Adam Sandler,12,Steven Brill,Comedy,New Line Cinema,US
-en,24,Joel Courtney,18,J.J. Abrams,Thriller,Paramount Pictures,US
-en,10,Julia Roberts,98,Steven Soderbergh,Drama,Jersey Films,US
-en,22,Kate Hudson,11,Donald Petrie,Comedy,Paramount Pictures,DE
-en,25,Jonah Hill,34,Phil Lord,Crime,Columbia Pictures,US
-en,15,Brad Pitt,18,Neil Jordan,Horror,Geffen Pictures,US
-en,20,Jim Carrey,39,Peyton Reed,Comedy,Village Roadshow Pictures,US
-en,37,Dwayne Johnson,64,Rawson Marshall Thurber,Action,New Line Cinema,US
-en,10,Julia Roberts,36,Chris Columbus,Drama,Columbia Pictures,US
-en,21,Will Ferrell,24,Sean Anders,Comedy,Paramount Pictures,US
-en,19,Meryl Streep,76,Rob Marshall,Fantasy,Walt Disney Pictures,US
-en,64,Denzel Washington,26,Spike Lee,Crime,Imagine Entertainment,US
-en,14,Mel Gibson,75,Brian Helgeland,Drama,Paramount Pictures,US
-en,21,Laura Linney,9,Frank Marshall,Action,Paramount Pictures,US
-en,15,Matt Damon,3,Cameron Crowe,Drama,Twentieth Century Fox Film Corporation,US
-en,17,Nicolas Cage,23,Alex Proyas,Action,Summit Entertainment,GB
-en,12,Matthew McConaughey,8,Tom Dey,Comedy,Paramount Pictures,US
-en,17,Naomi Watts,106,Hideo Nakata,Drama,DreamWorks,US
-en,28,Steve Carell,41,Glenn Ficarra,Comedy,Warner Bros.,US
-en,14,Bill Murray,12,Peter Hewitt,Animation,Twentieth Century Fox Film Corporation,US
-en,17,Tim Allen,12,Joe Roth,Comedy,Columbia Pictures,US
-en,67,Brad Pitt,49,Bennett Miller,Drama,Columbia Pictures,US
-en,14,Dustin Hoffman,13,Wolfgang Petersen,Action,Kopelson Entertainment,US
-en,28,Liam Neeson,33,Jaume Collet-Serra,Action,StudioCanal,FR
-en,45,Dwayne Johnson,10,Andy Fickman,Adventure,Walt Disney Pictures,US
-en,77,Natalie Portman,194,James McTeigue,Action,Studio Babelsberg,DE
-en,47,Jackie Chan,15,David Dobkin,Action,Spyglass Entertainment,HK
-en,23,Will Ferrell,52,Matthew O'Callaghan,Adventure,Imagine Entertainment,US
-en,16,Lindsay Lohan,109,Angela Robinson,Comedy,Walt Disney Pictures,US
-en,16,Michael Douglas,107,Gary Fleder,Thriller,Village Roadshow Pictures,AU
-en,23,Jeremy Renner,24,Tommy Wirkola,Fantasy,Paramount Pictures,US
-en,12,Richard Gere,26,Adrian Lyne,Thriller,Regency Enterprises,US
-en,49,Alex Pettyfer,22,D.J. Caruso,Action,DreamWorks SKG,US
-en,31,George Clooney,48,Stephen Gaghan,Drama,Section Eight,US
-en,33,James Badge Dale,80,Michael Bay,Action,Paramount Pictures,MT
-en,28,Diego Luna,16,Jorge R. Gutierrez,Romance,Twentieth Century Fox Film Corporation,MX
-en,19,Harrison Ford,9,Richard Loncraine,Thriller,Village Roadshow Pictures,US
-en,11,Clint Eastwood,18,Clint Eastwood,Crime,Columbia Pictures,US
-en,14,Demi Moore,16,Ridley Scott,Action,Caravan Pictures,US
-en,46,Michael Douglas,11,David Fincher,Drama,PolyGram Filmed Entertainment,US
-en,16,Radha Mitchell,38,Christophe Gans,Horror,Silent Hill DCP Inc.,CA
-en,15,Keanu Reeves,6,Howard Deutch,Comedy,Warner Bros.,US
-en,22,Jason Biggs,11,Jon Hurwitz,Comedy,Universal Pictures,US
-en,47,Samuel L. Jackson,31,F. Gary Gray,Action,Regency Enterprises,DE
-en,98,Richard Armitage,81,Steven Quale,Action,New Line Cinema,US
-en,23,Eddie Murphy,14,John Landis,Action,Paramount Pictures,US
-en,27,Zach Galligan,17,Joe Dante,Comedy,Amblin Entertainment,US
-en,16,Robert Duvall,39,David Dobkin,Drama,Village Roadshow Pictures,US
-en,23,George Clooney,92,Mimi Leder,Action,DreamWorks SKG,US
-en,87,Milla Jovovich,94,Alexander Witt,Horror,Impact Pictures,GB
-en,43,Renée Zellweger,86,Beeban Kidron,Comedy,Miramax Films,FR
-en,12,Denzel Washington,109,Carl Franklin,Thriller,Original Film,US
-en,10,Steven Seagal,12,Steven Seagal,Action,Warner Bros.,US
-en,8,Taylor Lautner,64,Robert Rodriguez,Adventure,Troublemaker Studios,US
-en,16,Leonardo DiCaprio,10,Danny Boyle,Drama,Figment Films,GB
-en,28,Kate Hudson,63,Garry Marshall,Drama,Touchstone Pictures,US
-en,38,Rain,24,James McTeigue,Action,Studio Babelsberg,DE
-en,7,Kevin Costner,6,Sam Raimi,Drama,Universal Pictures,US
-en,18,Demi Moore,28,Andrew Bergman,Drama,Columbia Pictures,US
-en,18,Owen Wilson,19,Tom Dey,Family,Twentieth Century Fox Film Corporation,US
-en,26,Matt Damon,2,Clint Eastwood,Drama,Amblin Entertainment,US
-en,26,Sandra Bullock,30,Barbet Schroeder,Crime,Castle Rock Entertainment,US
-en,17,Sylvester Stallone,71,Richard Donner,Action,Silver Pictures,FR
-en,17,Gaspard Ulliel,19,Peter Webber,Crime,Ingenious Film Partners,GB
-en,17,Bruce Willis,29,Rob Reiner,Comedy,Universal Pictures,US
-en,36,Saoirse Ronan,19,Andrew Niccol,Action,Nick Wechsler Productions,US
-en,17,John Travolta,58,John McTiernan,Action,Intermedia Films,US
-en,18,Clint Eastwood,33,Clint Eastwood,Crime,Malpaso Productions,US
-en,36,Clive Owen,8,Tom Tykwer,Drama,Studio Babelsberg,DE
-en,17,Kurt Russell,33,John Carpenter,Action,Paramount Pictures,US
-en,29,Eli Marienthal,45,Brad Bird,Adventure,Warner Bros. Animation,US
-en,16,Bill Murray,21,Wes Anderson,Adventure,Touchstone Pictures,US
-en,38,Matthew McConaughey,71,Gary Ross,War,Larger Than Life Productions,US
-en,125,Kevin Spacey,52,Alan Parker,Drama,Mikona Productions GmbH & Co. KG,DE
-en,21,Tommy Lee Jones,3,Stephen Herek,Comedy,Revolution Studios,US
-en,18,Liam Neeson,60,Jaume Collet-Serra,Action,Vertigo Entertainment,US
-en,19,Naomi Watts,51,David Cronenberg,Thriller,BBC Films,GB
-en,9,Paul Walker,9,John Stockwell,Action,Columbia Pictures Corporation,US
-fr,32,Milla Jovovich,14,Luc Besson,Adventure,Columbia Pictures,FR
-en,27,Danny McBride,11,David Gordon Green,Comedy,Universal Pictures,US
-en,20,Daniel Craig,85,Jim Sheridan,Drama,Cliffjack Motion Pictures,CA
-en,15,John Travolta,8,Costa-Gavras,Action,Warner Bros.,US
-en,8,Joe Mantegna,8,Patrick Read Johnson,Action,Twentieth Century Fox Film Corporation,US
-en,11,Demi Moore,10,Roland Joffé,Drama,Hollywood Pictures,US
-en,18,Naomi Watts,3,Doug Liman,Drama,River Road Entertainment,US
-en,26,Keira Knightley,29,Tony Scott,Action,New Line Cinema,FR
-en,21,David Caruso,6,William Friedkin,Action,Paramount Pictures,US
-en,29,Gerard Butler,98,Brian Taylor,Action,Lakeshore Entertainment,US
-en,47,Alden Ehrenreich,21,Richard LaGravenese,Fantasy,Alcon Entertainment,US
-en,10,Robin Williams,9,Danny DeVito,Comedy,Senator Film Produktion,DE
-en,124,Ben Stiller,17,Ben Stiller,Comedy,Scott Rudin Productions,US
-en,15,Owen Wilson,12,George Armitage,Comedy,Shangri-La Entertainment,US
-en,12,Garry Shandling,9,Mike Nichols,Comedy,Columbia Pictures,US
-en,51,Nicolas Cage,70,Patrick Lussier,Fantasy,Summit Entertainment,US
-en,7,Kristin Kreuk,6,Andrzej Bartkowiak,Action,Twentieth Century Fox Film Corporation,CA
-en,19,Jet Li,77,James Wong,Action,Columbia Pictures,US
-en,55,Andrew Dice Clay,32,Renny Harlin,Action,Twentieth Century Fox Film Corporation,US
-en,30,Tom Sturridge,14,Richard Curtis,Drama,Universal Pictures,DE
-en,29,Michael Douglas,25,Steven Soderbergh,Thriller,USA Films,DE
-en,51,Harrison Ford,46,Steven Spielberg,Adventure,Lucasfilm,US
-en,54,Keira Knightley,25,Joe Wright,Drama,Universal Pictures,FR
-en,45,Sharlto Copley,50,Neill Blomkamp,Crime,Columbia Pictures,MX
-en,21,Denzel Washington,120,Phillip Noyce,Drama,Universal Pictures,US
-en,16,Jodie Foster,67,David Fincher,Crime,Hofflund/Polone,US
-de,15,Lochlyn Munro,1,Chuck Bowman,Horror,,
-en,17,George Clooney,18,David O. Russell,Action,Village Roadshow Pictures,US
-en,24,Tom Hardy,64,Daniel Espinosa,Crime,Summit Entertainment,GB
-en,20,Cuba Gooding Jr.,14,Jerry Zucker,Adventure,Paramount Pictures,CA
-en,30,Jeff Bridges,58,Iain Softley,Drama,Intermedia Films,DE
-en,16,Meg Ryan,23,James Mangold,Comedy,Miramax Films,US
-en,11,Elizabeth Hurley,19,Harold Ramis,Fantasy,Twentieth Century Fox Film Corporation,US
-en,32,Richard Gere,17,Francis Ford Coppola,Music,Orion Pictures,US
-en,44,Russell Crowe,94,James Mangold,Western,Tree Line Films,US
-en,56,Liam Neeson,100,Olivier Megaton,Thriller,Twentieth Century Fox Film Corporation,FR
-en,16,George Clooney,12,Steven Soderbergh,Romance,Universal Pictures,US
-en,17,Jim Carrey,11,Ben Stiller,Comedy,Columbia Pictures Corporation,US
-hi,10,Aamir Khan,7,Deepa Mehta,Drama,Cracking the Earth Films,CA
-en,25,Warren Beatty,9,Warren Beatty,Adventure,Touchstone Pictures,US
-en,13,Pierce Brosnan,16,John McTiernan,Drama,Irish Dreamtime,US
-en,17,Drew Barrymore,6,Penny Marshall,Comedy,Columbia Pictures,US
-en,23,Sylvester Stallone,59,Ted Kotcheff,Action,Orion Pictures,US
-ru,10,Donatas Banionis,21,Andrei Tarkovsky,Drama,Mosfilm,RU
-en,17,George Carlin,38,Yvette Kaplan,Animation,Vanguard Films,DE
-en,11,Julia Roberts,14,Stephen Frears,Drama,TriStar Pictures,US
-en,23,Julia Roberts,10,P.J. Hogan,Comedy,TriStar Pictures,US
-en,38,Julia Roberts,9,Joe Roth,Comedy,Columbia Pictures,US
-en,25,Al Pacino,40,Christopher Nolan,Crime,Section Eight,US
-en,14,Patrick Stewart,18,Jonathan Frakes,Science Fiction,Paramount Pictures,US
-en,26,Josh Brolin,32,Jimmy Hayward,Action,Warner Bros.,US
-en,20,Denzel Washington,11,Edward Zwick,Drama,Fox 2000 Pictures,US
-en,13,Jim Carrey,81,Tom Shadyac,Comedy,Imagine Entertainment,US
-en,21,Bryan Cranston,48,Brad Furman,Crime,Good Films,GB
-en,14,Laurence Olivier,17,Terence Young,Drama,Metro-Goldwyn-Mayer (MGM),KR
-en,15,John Goodman,31,Brian Levant,Fantasy,Universal Pictures,US
-en,31,Liam Neeson,28,Olivier Megaton,Action,Twentieth Century Fox Film Corporation,FR
-en,17,Pamela Anderson,118,David Zucker,Comedy,Dimension Films,US
-en,17,Sandra Bullock,31,Donald Petrie,Comedy,Village Roadshow Pictures,US
-en,10,Brendan Fraser,14,Eric Brevig,Action,New Line Cinema,US
-en,20,Anne Hathaway,9,Garry Marshall,Comedy,Walt Disney Pictures,US
-en,12,Julia Roberts,34,Alan J. Pakula,Drama,Warner Bros.,US
-en,15,Susan Sarandon,16,Joel Schumacher,Drama,Regency Enterprises,US
-en,22,Jack Nicholson,77,Rob Reiner,Drama,Two Ton Films,US
-en,26,Harrison Ford,10,Phillip Noyce,Drama,Paramount Pictures,US
-en,18,Jennifer Lopez,15,Robert Luketic,Romance,New Line Cinema,US
-en,34,Hugh Jackman,37,Denis Villeneuve,Drama,Alcon Entertainment,US
-en,14,Denzel Washington,20,Antoine Fuqua,Action,Village Roadshow Pictures,AU
-en,21,Tim Allen,46,Dean Parisot,Comedy,DreamWorks SKG,US
-en,15,Anna Faris,127,Keenen Ivory Wayans,Comedy,Gold/Miller Productions,CA
-en,47,Amy Adams,3,James Bobin,Comedy,Walt Disney Pictures,US
-en,48,Wesley Snipes,147,Stephen Norrington,Horror,New Line Cinema,US
-en,10,Samuel L. Jackson,18,Thomas Carter,Drama,Paramount Pictures,DE
-en,11,Ben Affleck,8,Roger Michell,Action,Paramount Pictures,US
-en,10,Jennifer Lopez,87,Luis Llosa,Adventure,Columbia Pictures Corporation,BR
-en,20,Piper Perabo,31,David McNally,Comedy,Jerry Bruckheimer Films,US
-en,39,Keira Knightley,16,Richard Curtis,Comedy,Universal Pictures,GB
-en,16,Kevin Spacey,19,Andrew Stanton,Adventure,Walt Disney Pictures,US
-en,26,Johnny Depp,65,Albert Hughes,Horror,Twentieth Century Fox Film Corporation,CZ
-en,12,Sylvester Stallone,14,Luis Llosa,Action,Jerry Weintraub Productions,PE
-en,12,Kevin Costner,32,Ron Shelton,Comedy,Regency Enterprises,US
-en,9,Lucille Ball,8,Melville Shavelson,Comedy,Desilu Productions,US
-en,20,Will Ferrell,27,Jesse Dylan,Romance,Universal Pictures,US
-en,20,Martin Freeman,19,Garth Jennings,Adventure,Spyglass Entertainment,US
-en,13,Kenan Thompson,25,Joel Zwick,Comedy,Twentieth Century Fox Film Corporation,US
-en,14,Milla Jovovich,21,Russell Mulcahy,Horror,Impact Pictures,AU
-en,31,Drew Barrymore,9,Frank Coraci,Comedy,Happy Madison Productions,US
-en,7,Queen Latifah,5,Wayne Wang,Adventure,Paramount Pictures,US
-en,10,Meryl Streep,7,Curtis Hanson,Action,Universal Pictures,US
-en,10,Hal Scardino,10,Frank Oz,Adventure,Paramount Pictures,US
-en,15,Blake Lively,21,Oliver Stone,Crime,Ixtlan,US
-en,19,Chris Evans,38,David R. Ellis,Action,New Line Cinema,DE
-en,17,Rowan Atkinson,11,Peter Howitt,Adventure,Universal Pictures,FR
-en,20,Julia Roberts,23,John A. Davis,Fantasy,Playtone,US
-en,21,Kyle MacLachlan,46,David Lynch,Action,Dino De Laurentiis Company,US
-en,27,Evan Rachel Wood,10,Julie Taymor,Adventure,Revolution Studios,US
-en,19,Leonardo DiCaprio,36,Sam Mendes,Drama,DreamWorks SKG,GB
-en,21,Bruce Willis,13,Richard Donner,Action,Donners' Company,US
-en,19,Vin Diesel,72,Mathieu Kassovitz,Action,StudioCanal,FR
-en,12,Steven Seagal,8,John Gray,Action,Warner Bros.,US
-en,29,Michael Keaton,19,Harold Ramis,Comedy,Columbia Pictures Corporation,US
-en,18,Carter Jenkins,14,John Schultz,Adventure,Twentieth Century Fox Film Corporation,CA
-en,16,Jack Nicholson,17,Sean Penn,Crime,Epsilon Motion Pictures,US
-en,21,Matthew Broderick,16,Susan Stroman,Comedy,Sony Pictures,US
-en,15,Billy Zane,6,Simon Wincer,Adventure,Paramount Pictures,AU
-en,8,Matt Damon,4,Billy Bob Thornton,Drama,Columbia Pictures,US
-en,34,Anthony Hopkins,8,Oliver Stone,History,Hollywood Pictures,US
-en,33,Ewan McGregor,28,Roman Polanski,Thriller,Studio Babelsberg,DE
-en,15,Treat Williams,82,Stephen Sommers,Adventure,Hollywood Pictures,CA
-en,25,Derek Luke,12,Spike Lee,Drama,Rai Cinema,IT
-zh,8,Chow Yun-fat,15,Zhang Yimou,Action,Beijing New Picture Film Co. Ltd.,CN
-en,10,Nicolas Cage,22,Danny Pang,Action,Virtual Studios,US
-en,33,Tim Allen,6,Barry Sonnenfeld,Action,Touchstone Pictures,US
-en,14,Javier Bardem,16,Mike Newell,Drama,New Line Cinema,US
-en,15,Charlie Sheen,3,George P. Cosmatos,Action,Hollywood Pictures,US
-en,32,Rowan Atkinson,3,Oliver Parker,Crime,Universal Pictures,GB
-en,21,Charlie Sheen,7,Lawrence Kasanoff,Animation,Threshold Entertainment,US
-en,61,Ben Affleck,58,Ben Affleck,Drama,GK Films,US
-en,62,Harrison Ford,31,Andrew Davis,Adventure,Warner Bros.,US
-en,18,Gerard Butler,13,Andy Tennant,Action,Columbia Pictures,US
-en,21,Robert De Niro,16,Barry Levinson,Crime,Propaganda Films,US
-en,19,Sylvester Stallone,26,George P. Cosmatos,Action,TriStar Pictures,US
-en,15,Demi Moore,10,Brian Gibson,Drama,Columbia Pictures Corporation,US
-en,12,Mel Blanc,75,Ben Sharpsteen,Animation,RKO Radio Pictures,US
-en,23,Kris Kristofferson,12,Michael Cimino,Action,United Artists,US
-en,17,Kate Beckinsale,20,Len Wiseman,Fantasy,Lakeshore Entertainment,US
-en,16,James McAvoy,83,Paul McGuigan,Drama,Twentieth Century Fox Film Corporation,GB
-en,13,Sean Connery,10,Gus Van Sant,Drama,Fountainbridge Films,US
-en,27,Sandra Bullock,7,Betty Thomas,Comedy,Columbia Pictures,US
-en,23,Jet Li,27,Louis Leterrier,Action,Canal Plus,FR
-en,11,Cameron Diaz,57,Roger Kumble,Romance,Konrad Pictures,US
-en,22,Tom Cruise,19,Sydney Pollack,Drama,Paramount Pictures,US
-en,25,Zac Efron,8,Burr Steers,Drama,Universal Pictures,US
-en,17,Jason Statham,21,Simon West,Action,CBS Films,US
-en,19,Channing Tatum,49,Phil Lord,Action,Columbia Pictures,US
-en,27,Julia Roberts,11,Roger Michell,Romance,Bookshop Productions,GB
-en,14,Mel Gibson,76,Nick Park,Animation,DreamWorks SKG,GB
-en,26,Ben Stiller,89,John Hamburg,Comedy,Jersey Films,US
-en,13,Eddie Murphy,6,Reginald Hudlin,Comedy,Paramount Pictures,US
-en,23,Sandra Bullock,14,Paul Feig,Action,Ingenious Film Partners,US
-en,23,Elizabeth Taylor,37,Joseph L. Mankiewicz,Drama,Twentieth Century Fox Film Corporation,GB
-en,14,Salma Hayek,33,Frank Coraci,Comedy,Columbia Pictures,US
-en,36,Ashley Judd,14,Carl Franklin,Drama,Twentieth Century Fox Film Corporation,US
-en,8,Barbra Streisand,2,Barbra Streisand,Comedy,TriStar Pictures,US
-en,33,Richard Gere,19,Mark Pellington,Drama,Lakeshore Entertainment,US
-en,11,Sacha Baron Cohen,33,Larry Charles,Comedy,Universal Pictures,US
-en,19,Timothy Dalton,19,John Glen,Adventure,Eon Productions,GB
-en,22,Amanda Seyfried,46,Catherine Hardwicke,Fantasy,Appian Way,CA
-en,86,Robert De Niro,338,John Herzfeld,Action,New Line Cinema,DE
-en,10,Bob Hoskins,11,Annabel Jankel,Adventure,Hollywood Pictures,GB
-en,20,Nicolas Cage,16,Andrew Niccol,Crime,Saturn Films,FR
-zh,27,Jet Li,19,Zhang Yimou,Drama,Beijing New Picture Film Co. Ltd.,CN
-en,17,Katherine Heigl,19,Julie Anne Robinson,Action,Lakeshore Entertainment,US
-en,38,James Franco,24,Seth Rogen,Action,Columbia Pictures,US
-en,13,Kate Bosworth,22,Sngmoo Lee,Adventure,Boram Entertainment Inc.,NZ
-fr,12,Dany Boon,13,Jean-Pierre Jeunet,Action,France 2 Cinéma,FR
-en,19,Eminem,92,Curtis Hanson,Drama,Imagine Entertainment,US
-fr,17,Jamel Debbouze,3,Jamel Debbouze,Adventure,Pathé Films,FR
-en,16,Heath Ledger,95,Brian Helgeland,Adventure,Columbia Pictures Corporation,US
-en,23,Jackie Chan,15,Gordon Chan,Thriller,Living Films,HK
-en,51,Bruce Willis,89,M. Night Shyamalan,Mystery,Spyglass Entertainment,US
-en,56,Sam Worthington,27,Asger Leth,Action,Summit Entertainment,US
-en,18,Owen Wilson,9,David Frankel,Comedy,Ingenious Media,US
-en,10,Ralph Macchio,20,John G. Avildsen,Drama,Columbia Pictures Corporation,US
-en,31,Christian Bale,30,David O. Russell,Drama,Columbia Pictures,US
-en,71,Sandra Bullock,26,Anne Fletcher,Comedy,Touchstone Pictures,US
-en,8,Tommy Lee Jones,7,Bruce Beresford,Crime,Paramount Pictures,CA
-en,55,Michael J. Fox,29,Robert Zemeckis,Adventure,Universal Pictures,US
-en,59,Scarlett Johansson,75,Luc Besson,Action,Universal Pictures,FR
-en,17,Dakota Johnson,36,Sam Taylor-Johnson,Drama,Focus Features,US
-en,33,Antonio Banderas,10,Robert Rodriguez,Action,Dimension Films,US
-en,23,Matthew McConaughey,13,Joel Schumacher,Crime,Regency Enterprises,US
-en,17,Steve Martin,13,Shawn Levy,Comedy,Twentieth Century Fox Film Corporation,US
-en,47,Mark Wahlberg,48,Peter Berg,Action,Universal Pictures,US
-en,27,Tom Hanks,8,Penny Marshall,Comedy,Columbia Pictures Corporation,US
-en,30,Patrick Wilson,54,James Wan,Horror,New Line Cinema,CA
-en,99,Jesse Eisenberg,105,David Fincher,Drama,Columbia Pictures,US
-en,41,Ben Affleck,5,Ken Kwapis,Comedy,New Line Cinema,NL
-en,20,Anna Faris,10,David Zucker,Comedy,Dimension Films,US
-en,23,David Arquette,24,Wes Craven,Horror,Konrad Pictures,US
-en,54,Michael J. Fox,24,Robert Zemeckis,Adventure,Universal Pictures,US
-en,31,Will Ferrell,28,Etan Cohen,Comedy,Gary Sanchez Productions,US
-en,29,Gary Oldman,15,Francis Ford Coppola,Romance,American Zoetrope,US
-en,15,Meryl Streep,21,Nora Ephron,Romance,Columbia Pictures,US
-en,22,Chadwick Boseman,43,Brian Helgeland,Drama,Warner Bros.,US
-en,63,Matt Damon,58,Anthony Minghella,Thriller,Paramount Pictures,US
-en,82,Jim Carrey,26,Bobby Farrelly,Comedy,New Line Cinema,US
-en,7,Paul Walker,12,Frank Marshall,Adventure,Walt Disney Pictures,US
-en,25,Robert De Niro,23,Nancy Meyers,Comedy,Waverly Films,US
-en,72,Kevin Hart,23,Tim Story,Action,Universal Pictures,US
-en,15,Daniel Day-Lewis,59,Michael Mann,Action,Morgan Creek Productions,US
-en,24,Jamie Foxx,36,Taylor Hackford,Drama,Universal Pictures,US
-en,52,Jessica Alba,99,Robert Rodriguez,Action,Dimension Films,US
-en,29,Dennis Quaid,11,Pete Travis,Drama,Columbia Pictures,US
-en,46,Paul Rudd,82,John Hamburg,Comedy,The Montecito Picture Company,US
-en,19,Gwyneth Paltrow,14,Bobby Farrelly,Comedy,Twentieth Century Fox Film Corporation,US
-en,81,Kevin Costner,69,Oliver Stone,Drama,Camelot Productions,US
-en,8,Martin Lawrence,11,John Whitesell,Comedy,Twentieth Century Fox Film Corporation,US
-en,14,Brad Pitt,10,Gore Verbinski,Action,DreamWorks SKG,MX
-en,49,Zac Efron,54,Burr Steers,Comedy,New Line Cinema,US
-en,16,Cameron Diaz,4,Nick Cassavetes,Comedy,Twentieth Century Fox Film Corporation,US
-en,13,Bobby Campo,28,David R. Ellis,Horror,New Line Cinema,US
-en,66,Tom Hanks,92,Steven Spielberg,Thriller,DreamWorks SKG,IN
-en,19,Owen Wilson,52,John Moore,Action,Twentieth Century Fox Film Corporation,US
-en,25,Jonah Hill,19,Nicholas Stoller,Comedy,Universal Pictures,US
-en,18,Richard Gere,13,Peter Chelsom,Drama,Miramax Films,US
-en,23,Gregory Smith,41,Joe Dante,Comedy,Universal Pictures,US
-en,10,Michael Jai White,16,Mark A.Z. Dippé,Action,New Line Cinema,US
-en,10,Jim Caviezel,6,Kevin Reynolds,Action,Spyglass Entertainment,US
-en,21,Matthew McConaughey,27,Brad Furman,Crime,Lakeshore Entertainment,US
-en,18,Liam Neeson,30,Jaume Collet-Serra,Action,Studio Babelsberg,FR
-en,41,Hugh Jackman,58,Christopher Nolan,Drama,Warner Bros.,US
-en,19,Jason Bateman,33,Sean Anders,Comedy,New Line Cinema,US
-en,17,Brendan Fraser,13,Callan Brunker,Animation,Rainmaker Entertainment,CA
-en,39,Rudy Youngblood,78,Mel Gibson,Action,Icon Productions,US
-en,49,Timothy Dalton,18,John Glen,Action,United Artists,GB
-en,12,Topher Grace,63,Nimród Antal,Action,Twentieth Century Fox Film Corporation,US
-en,29,Robert Redford,17,Ivan Reitman,Comedy,Universal Pictures,US
-en,14,Johnny Depp,82,David Koepp,Thriller,Columbia Pictures Corporation,US
-en,20,Keanu Reeves,30,Alejandro Agresti,Romance,Village Roadshow Pictures,US
-en,20,Kate Hudson,99,Iain Softley,Drama,Universal Pictures,DE
-en,23,Jennifer Garner,4,Peter Hedges,Fantasy,Walt Disney Pictures,US
-en,22,Patrick Dempsey,24,Paul Weiland,Comedy,Columbia Pictures,GB
-en,71,Christopher Walken,27,Clint Eastwood,Music,Warner Bros.,US
-en,26,Matt Damon,43,Francis Ford Coppola,Drama,Paramount Pictures,US
-en,11,Halle Berry,117,Mathieu Kassovitz,Horror,Columbia Pictures Corporation,US
-en,24,Morgan Freeman,35,Steven Spielberg,Drama,DreamWorks SKG,US
-en,10,Sean Connery,19,John McTiernan,Adventure,Hollywood Pictures,US
-en,40,Steven Pasquale,67,Colin Strause,Fantasy,Twentieth Century Fox Film Corporation,US
-en,10,Macaulay Culkin,12,Donald Petrie,Comedy,Davis Entertainment,US
-en,11,Richard Gere,7,Joan Chen,Drama,Lakeshore Entertainment,US
-en,73,Drew Barrymore,26,Marc Lawrence,Comedy,Village Roadshow Pictures,US
-en,17,Seth Rogen,53,Greg Mottola,Adventure,Universal Pictures,US
-en,16,Seth Rogen,11,Anne Fletcher,Comedy,Paramount Pictures,US
-en,24,David Arquette,11,Wes Craven,Horror,Dimension Films,US
-en,16,Nicolas Cage,77,Joel Schumacher,Thriller,Columbia Pictures Corporation,US
-en,29,Val Kilmer,51,Oliver Stone,Drama,Imagine Entertainment,US
-en,28,Cameron Diaz,44,Jake Kasdan,Comedy,Escape Artists,US
-en,23,Meg Ryan,24,Diane Keaton,Comedy,Laurence Mark Productions,DE
-en,11,Emma Bell,43,Steven Quale,Horror,New Line Cinema,US
-en,14,Hugh Grant,8,Kelly Makin,Comedy,Castle Rock Entertainment,GB
-en,16,Kevin Spacey,6,Mimi Leder,Drama,Bel Air Entertainment,US
-en,30,Drew Barrymore,26,Bobby Farrelly,Comedy,Fox 2000 Pictures,DE
-en,41,Owen Wilson,19,Steven Brill,Comedy,Paramount Pictures,US
-en,44,Seth MacFarlane,22,Seth MacFarlane,Comedy,Media Rights Capital,US
-en,24,Alec Baldwin,7,Russell Mulcahy,Adventure,Universal Pictures,US
-en,21,Thomas Horn,4,Stephen Daldry,Drama,Paramount Pictures,US
-en,16,Rachel McAdams,5,Roger Michell,Comedy,Bad Robot,US
-en,21,50 Cent,26,Jim Sheridan,Drama,Paramount Pictures,US
-en,7,Wesley Snipes,8,Christian Duguay,Crime,Amen Ra Films,CA
-en,13,Anthony Rapp,25,Chris Columbus,Drama,Columbia Pictures,US
-en,15,Kim Basinger,55,Chuck Russell,Drama,Paramount Pictures,US
-en,11,Steve Martin,5,Sam Weisman,Comedy,Paramount Pictures,US
-en,17,Marlon Brando,15,John Frankenheimer,Fantasy,New Line Cinema,US
-en,15,Catherine Deneuve,116,Peter Hyams,Action,Crystal Sky Worldwide,GB
-en,28,Natalie Portman,24,Justin Chadwick,Drama,Columbia Pictures,GB
-en,15,Keanu Reeves,20,Pat O'Connor,Drama,Bel Air Entertainment,US
-en,15,Hilary Swank,17,Stephen Hopkins,Horror,Village Roadshow Pictures,US
-en,15,Harvey Keitel,9,Martin Scorsese,Drama,Scorsese Productions,US
-en,12,Danny DeVito,6,Penny Marshall,Comedy,Cinergi Pictures Entertainment,CA
-en,18,Zoe Saldana,91,Olivier Megaton,Action,TF1 Films Production,FR
-en,13,Jessalyn Gilsig,36,Frederik Du Chau,Fantasy,Warner Bros.,US
-en,8,Robert De Niro,2,Michael Caton-Jones,Crime,Warner Bros. Pictures,US
-en,12,Val Kilmer,15,Irwin Winkler,Drama,Metro-Goldwyn-Mayer (MGM),US
-en,31,Martin Henderson,98,Joseph Kahn,Action,Village Roadshow Pictures,AU
-en,7,Al Pacino,6,Harold Becker,Drama,Columbia Pictures,US
-en,23,Elizabeth Berkley,9,Paul Verhoeven,Drama,United Artists,FR
-en,22,Kirsten Dunst,20,Sofia Coppola,Drama,American Zoetrope,FR
-en,10,David Caruso,7,Barbet Schroeder,Action,Twentieth Century Fox Film Corporation,US
-en,15,Sylvester Stallone,10,Stephen T. Kay,Action,Franchise Pictures,US
-en,17,Naomi Watts,11,Juan Antonio Bayona,Thriller,Summit Entertainment,US
-en,11,Warren Beatty,9,Elaine May,Action,Columbia Pictures,US
-en,30,George Clooney,39,Wes Anderson,Adventure,Twentieth Century Fox Film Corporation,US
-en,12,Angelina Jolie,11,Stephen Herek,Comedy,Regency Enterprises,CA
-en,12,Chevy Chase,24,John Carpenter,Comedy,Regency Enterprises,FR
-fr,55,Audrey Tautou,80,Jean-Pierre Jeunet,Comedy,France 3 Cinéma,FR
-en,16,Ashley Olsen,14,Dennie Gordon,Comedy,DiNovi Pictures,US
-en,17,Jude Law,18,Charles Shyer,Comedy,Paramount Pictures,GB
-en,38,Drew Barrymore,10,Ken Kwapis,Adventure,Universal Pictures,GB
-en,15,Michelle Pfeiffer,6,Ulu Grosbard,Drama,Columbia Pictures Corporation,US
-en,20,Stephen Dorff,63,William Malone,Horror,Milagro Films,DE
-en,24,John C. Reilly,7,Paul Weitz,Adventure,Universal Pictures,US
-en,26,Ben Stiller,8,Danny DeVito,Action,Miramax Films,DE
-en,14,Samuel L. Jackson,3,Malcolm D. Lee,Comedy,Dimension Films,US
-en,9,M. Emmet Walsh,9,Jerry Jameson,Action,ITC Entertainment,GB
-en,12,Jean-Claude Van Damme,8,Mic Rodgers,Action,TriStar Pictures,US
-en,24,Ben Foster,15,Christian Alvart,Action,Impact Pictures,DE
-en,11,Gary Sinise,19,Gary Fleder,Action,Dimension Films,US
-en,10,Devon Sawa,17,Christian Duguay,Action,Paramount Pictures,US
-en,13,Jean Reno,26,Jean-Marie Poiré,Comedy,Gaumont,FR
-en,12,Cillian Murphy,13,Danny Boyle,Science Fiction,DNA Films,GB
-en,44,Eddie Murphy,36,Brian Robbins,Drama,Paramount Pictures,US
-en,15,Freddie Prinze Jr.,15,Marc F. Adler,Adventure,Fathom Studios,US
-en,28,Sean Penn,42,Pierre Morel,Action,StudioCanal,FR
-en,20,Alex Pettyfer,21,Geoffrey Sax,Adventure,Isle of Man Film,DE
-en,15,Shia LaBeouf,18,D.J. Caruso,Thriller,Paramount Pictures,US
-en,25,Jonny Lee Miller,29,Iain Softley,Action,United Artists,US
-en,11,Richard Gere,10,Richard Shepard,Action,Intermedia Films,BA
-en,24,Tim Robbins,10,Joel Coen,Comedy,PolyGram Filmed Entertainment,DE
-zh,21,Jet Li,30,Peter Chan,Action,Applause Pictures,CN
-en,9,Kuno Becker,3,Sergei Bodrov Jr.,Action,Wild Bunch,FR
-ko,45,Chris Evans,62,Bong Joon-ho,Action,CJ Entertainment,KR
-fr,9,Vanessa Paradis,53,Bibo Bergeron,Adventure,Europa Corp,FR
-en,43,Matthew Broderick,11,Jeff Nathanson,Action,Touchstone Pictures,US
-en,16,Brandon Lee,25,Alex Proyas,Fantasy,Miramax Films,US
-te,16,Prabhas,28,S.S. Rajamouli,Action,Arka Media Works,IN
-en,34,Eric Bana,25,Robert Schwentke,Drama,New Line Cinema,US
-en,16,Diane Keaton,14,Michael Lehmann,Comedy,Universal Pictures,US
-en,10,Charlie Tahan,83,Tim Burton,Animation,Tim Burton Productions,US
-en,44,Nathan Fillion,19,Joss Whedon,Science Fiction,Universal Pictures,US
-en,7,Meg Ryan,15,Charles S. Dutton,Romance,Paramount Pictures,DE
-en,10,Christopher Reeve,16,Richard Lester,Comedy,Warner Bros.,GB
-en,17,Robert De Niro,33,Peter Segal,Comedy,Gerber Pictures,US
-zh,28,Chang Chen,40,John Woo,Adventure,Metropolitan Filmexport,CN
-en,16,Reese Witherspoon,35,Andy Tennant,Comedy,Touchstone Pictures,US
-en,74,Katherine Heigl,17,Robert Luketic,Comedy,Lakeshore Entertainment,US
-en,14,Steve Martin,6,Jonathan Lynn,Comedy,Imagine Entertainment,US
-en,28,Antonio Banderas,64,Robert Rodriguez,Action,Dimension Films,US
-en,17,Patrick Stewart,15,David Carson,Science Fiction,Paramount Pictures,US
-zh,14,Tony Leung Chiu-Wai,10,Wong Kar-wai,Action,The Weinstein Company,CN
-en,20,Robert Pattinson,18,Francis Lawrence,Drama,Ingenious Media,US
-zh,9,Carrie-Anne Moss,2,Yuefeng Song,Adventure,Mili Pictures,CN
-en,79,Denzel Washington,20,Norman Jewison,Drama,Universal Pictures,US
-en,24,Jennifer Lopez,64,Michael Apted,Drama,Winkler Films,US
-en,15,Sigourney Weaver,40,David Mirkin,Crime,Davis Entertainment,US
-en,51,Kevin James,25,Andy Fickman,Action,Columbia Pictures,US
-en,27,Jennifer Lopez,21,Luis Mandoki,Drama,Epsilon Motion Pictures,US
-en,15,Tim Allen,40,John Pasquin,Comedy,Regency Enterprises,US
-en,23,Johnny Depp,23,Roman Polanski,Horror,Bac Films,FR
-en,55,Hugh Grant,7,Michael Apted,Drama,Columbia Pictures,US
-en,16,Mark Wahlberg,10,Stephen Herek,Music,Bel Air Entertainment,US
-en,22,Gabourey Sidibe,3,Lee Daniels,Drama,Smokewood Entertainment Group,US
-en,15,Jeff Bridges,10,Ridley Scott,Action,Hollywood Pictures,US
-en,12,Kurt Russell,41,John Carpenter,Horror,Universal Pictures,US
-en,16,Vin Diesel,16,David Twohy,Science Fiction,One Race Productions,US
-en,12,Dennis Quaid,7,Jeb Stuart,Action,Paramount Pictures,US
-en,16,James Van Der Beek,4,Steve Miner,Action,Dimension Films,US
-en,21,Saoirse Ronan,31,Gil Kenan,Adventure,Playtone,US
-en,28,Joaquin Phoenix,56,Paul Thomas Anderson,Drama,Ghoulardi Film Company,US
-en,12,Ryan Cartwright,9,David Leland,Adventure,Ingenious Film Partners,LU
-en,8,Rob Brown,13,Gary Fleder,Drama,Davis Entertainment,DE
-en,35,Chloë Grace Moretz,74,J Blakeson,Adventure,Columbia Pictures,US
-en,74,Michael B. Jordan,71,Ryan Coogler,Drama,New Line Cinema,US
-en,48,Ben Affleck,38,Ben Affleck,Crime,Legendary Pictures,US
-en,30,Cameron Diaz,19,Kirk Jones,Romance,Alcon Entertainment,US
-en,64,George Clooney,28,Joel Coen,Comedy,Mike Zoss Productions,US
-en,23,Abigail Breslin,19,Jennifer Flackett,Adventure,Walden Media,US
-en,25,Daniel Brühl,18,Ron Howard,Drama,Revolution Films,DE
-en,29,Julianne Moore,44,Paul Thomas Anderson,Drama,New Line Cinema,US
-en,23,Bruce Willis,11,Kevin Smith,Action,Warner Bros.,US
-en,21,Dakota Johnson,23,Christian Ditter,Comedy,New Line Cinema,US
-en,18,Morgan Freeman,18,Charles Martin Smith,Drama,Alcon Entertainment,US
-en,26,Kristen Stewart,3,Catherine Hardwicke,Adventure,Summit Entertainment,US
-en,15,Denzel Washington,118,Nick Cassavetes,Drama,New Line Cinema,US
-en,51,Martin Lawrence,9,Les Mayfield,Action,Columbia Pictures,DE
-en,17,Jason Sudeikis,43,Rawson Marshall Thurber,Comedy,New Line Cinema,US
-ru,15,Vasily Stepanov,50,Fyodor Bondarchuk,Action,Art Pictures Studio,RU
-en,15,Kurt Russell,16,Jonathan Mostow,Drama,Paramount Pictures,US
-en,37,Sean Connery,6,Irvin Kershner,Adventure,PSO International,DE
-en,18,John Cusack,22,Steve Pink,Science Fiction,United Artists,US
-en,62,Morgan Freeman,26,Charles Martin Smith,Family,Alcon Entertainment,US
-en,19,Ben Affleck,16,John Frankenheimer,Thriller,Dimension Films,US
-en,15,Vin Diesel,17,F. Gary Gray,Action,New Line Cinema,DE
-en,17,Bradley Cooper,81,Cameron Crowe,Drama,Scott Rudin Productions,US
-en,10,Alec Baldwin,2,Rob Reiner,History,Columbia Pictures,US
-en,23,Ethan Hawke,8,Scott Hicks,Drama,Universal Pictures,US
-en,12,Anthony Hopkins,17,Mikael Håfström,Drama,New Line Cinema,US
-en,12,Ethan Hawke,41,Andrew Niccol,Thriller,Columbia Pictures,US
-de,8,Bette Midler,9,Andrew Bergman,Drama,Universal Pictures,US
-en,17,Andy Samberg,8,Kirk De Micco,Animation,Starz Media,US
-en,28,Chris Rock,9,Chris Rock,Comedy,DreamWorks SKG,US
-en,87,Bradley Cooper,21,Todd Phillips,Comedy,Legendary Pictures,DE
-cn,16,Donnie Yen,17,Wilson Yip,Action,Mandarin Films Distribution Co.,HK
-en,18,Mike Myers,26,Jay Roach,Adventure,New Line Cinema,US
-en,19,Jack Nicholson,12,Tim Burton,Fantasy,PolyGram Filmed Entertainment,GB
-en,14,Charlie Cox,2,Roland Joffé,Drama,,
-en,11,Mel Gibson,20,Richard Donner,Adventure,Silver Pictures,US
-en,21,Sandra Bullock,42,John Lee Hancock,Drama,Alcon Entertainment,US
-en,16,Alexa PenaVega,55,Robert Rodriguez,Action,Dimension Films,US
-en,20,Jennifer Aniston,50,Seth Gordon,Comedy,New Line Cinema,US
-en,31,Jeff Bridges,17,Joel Coen,Drama,Paramount Pictures,US
-en,18,Meryl Streep,18,David Frankel,Comedy,Twentieth Century Fox Film Corporation,US
-en,16,William Shatner,17,Robert Wise,Science Fiction,Paramount Pictures,US
-en,38,Jason Bateman,37,Seth Gordon,Comedy,Stuber Productions,US
-en,27,Robert De Niro,39,Martin Scorsese,Crime,Universal Pictures,US
-en,13,Jim Sturgess,22,Robert Luketic,Drama,Columbia Pictures,US
-en,34,Amy Schumer,22,Judd Apatow,Comedy,Universal Pictures,US
-en,7,Bernie Mac,30,Kevin Rodney Sullivan,Comedy,Columbia Pictures,US
-en,40,Ralph Fiennes,19,Anthony Minghella,Drama,Miramax Films,GB
-en,62,Kevin Spacey,95,Curtis Hanson,Crime,Regency Enterprises,US
-en,20,Michael Angarano,40,Mike Mitchell,Adventure,Walt Disney Pictures,US
-en,19,Kevin Kline,13,Frank Oz,Comedy,Paramount Pictures,US
-en,53,Natasha Henstridge,43,Roger Donaldson,Science Fiction,Metro-Goldwyn-Mayer (MGM),US
-en,29,John Saxon,15,Wes Craven,Horror,New Line Cinema,US
-en,20,Jennifer Lopez,66,Tarsem Singh,Horror,New Line Cinema,DE
-en,31,Leonardo DiCaprio,12,Randall Wallace,Action,United Artists Corporation,GB
-en,26,Diane Lane,46,Randall Wallace,Drama,Walt Disney Pictures,US
-en,15,Chris Evans,11,Kevin Munroe,Adventure,The Weinstein Company,US
-en,6,Cuba Gooding Jr.,10,Mike Tollin,Drama,Revolution Studios,US
-en,16,Justin Timberlake,4,Will Gluck,Romance,Castle Rock Entertainment,US
-en,30,Seth Rogen,26,Nicholas Stoller,Comedy,Universal Pictures,US
-en,18,Emma Thompson,17,John Lee Hancock,Comedy,Walt Disney Pictures,AU
-en,69,Denzel Washington,17,Spike Lee,Drama,JVC Entertainment,US
-en,26,Paul Rudd,32,Judd Apatow,Comedy,Apatow Productions,US
-en,22,Robin Williams,89,Walt Becker,Comedy,Walt Disney Pictures,US
-en,19,Bill Nighy,24,Patrick Tatopoulos,Fantasy,Lakeshore Entertainment,US
-en,13,Robin Williams,18,Ken Kwapis,Comedy,Village Roadshow Pictures,AU
-en,21,Jon Heder,19,Dennis Dugan,Comedy,Columbia Pictures,US
-en,20,Diane Lane,14,Gary David Goldberg,Comedy,Team Todd,US
-en,12,Johnny Depp,13,Mike Newell,Crime,TriStar Pictures,US
-en,22,Milla Jovovich,92,Paul W.S. Anderson,Horror,Impact Pictures,FR
-en,16,Craig T. Nelson,26,Tobe Hooper,Horror,SLM Production Group,US
-en,17,Tom Hanks,30,Joel Coen,Comedy,Mike Zoss Productions,US
-en,17,Mark Wahlberg,17,John Moore,Action,Dune Entertainment,US
-en,26,Justin Timberlake,29,Andrew Niccol,Action,Regency Enterprises,US
-en,15,Jennifer Lopez,11,Alan Poul,Comedy,Escape Artists,US
-en,13,Kate Hudson,5,Luke Greenfield,Comedy,Alcon Entertainment,US
-en,10,Martin Lawrence,6,Gil Junger,Adventure,Twentieth Century Fox Film Corporation,US
-en,17,Walter Matthau,2,Michael Ritchie,Comedy,Paramount Pictures,US
-en,14,Jean-Claude Van Damme,18,Steven E. de Souza,Action,Universal Pictures,JP
-en,74,Adrien Brody,45,Roman Polanski,Drama,Bac Films,FR
-en,43,Keisha Castle-Hughes,21,Catherine Hardwicke,Drama,New Line Cinema,US
-en,15,Elisha Cuthbert,96,Jaume Collet-Serra,Horror,Village Roadshow Pictures,US
-en,18,Julia Roberts,44,Mike Nichols,Drama,Columbia Pictures,US
-en,19,Leonardo DiCaprio,13,Clint Eastwood,Drama,Imagine Entertainment,US
-en,9,Kiefer Sutherland,13,Alexandre Aja,Horror,Regency Enterprises,RO
-en,12,Stuart Townsend,14,Michael Rymer,Drama,Village Roadshow Pictures,AU
-en,38,Kevin Peter Hall,83,Stephen Hopkins,Science Fiction,Twentieth Century Fox Film Corporation,US
-en,18,Diane Lane,25,Gregory Hoblit,Drama,Lakeshore Entertainment,US
-en,14,Brendan Fraser,20,Hugh Wilson,Comedy,New Line Cinema,US
-en,19,Sam J. Jones,14,Mike Hodges,Science Fiction,Dino De Laurentiis Company,US
-en,14,Ben Affleck,23,Kevin Smith,Comedy,Miramax Films,US
-en,12,Tyler Perry,31,Rob Cohen,Action,Summit Entertainment,US
-en,17,John Cusack,10,Clint Eastwood,Crime,Warner Bros.,US
-en,37,Jeffrey Dean Morgan,38,Scott Mann,Crime,Emmett/Furla Films,US
-en,17,Emma Thompson,15,Susanna White,Comedy,Universal Pictures,US
-en,106,Jack Nicholson,43,Danny DeVito,Crime,Jersey Films,US
-en,42,David Duchovny,200,Chris Carter,Drama,Twentieth Century Fox Film Corporation,CA
-en,17,Anne Hathaway,75,Tommy O'Haver,Family,World 2000 Entertainment,IE
-en,72,Will Smith,69,Peter Landesman,Drama,Columbia Pictures,AU
-en,34,Taylor Lautner,48,John Singleton,Thriller,Lions Gate Films,US
-en,15,Ewan McGregor,4,Gary Chapman,Animation,Vanguard Films,GB
-en,15,Michael Douglas,8,Curtis Hanson,Comedy,Paramount Pictures,DE
-en,16,Drake Bell,18,Craig Mazin,Action,Dimension Films,US
-en,22,Mark Wahlberg,65,Allen Hughes,Thriller,Regency Enterprises,US
-en,16,Portia de Rossi,163,Wes Craven,Horror,Craven-Maddalena Films,DE
-en,10,Joseph Gordon-Levitt,4,David Koepp,Crime,Pariah Entertainment Group,US
-en,114,Reese Witherspoon,18,Anne Fletcher,Action,New Line Cinema,US
-en,49,Heath Ledger,15,Shekhar Kapur,War,Paramount Pictures,GB
-en,31,Jason Statham,32,Taylor Hackford,Action,SND,US
-en,10,Kirsten Dunst,12,Richard Loncraine,Comedy,Universal Pictures,FR
-en,16,Brendan Fraser,11,Roger Kumble,Comedy,Summit Entertainment,AE
-en,17,Sharni Vinson,52,Kimble Rendall,Action,Pictures in Paradise,SG
-en,25,Ken Marshall,15,Peter Yates,Fantasy,Columbia Pictures Corporation,ES
-en,8,Robert Redford,17,Robert Redford,Action,Cruise/Wagner Productions,US
-en,5,Danny Glover,3,John Milius,Action,Paramount Pictures,US
-en,39,John C. Reilly,13,Jake Kasdan,Comedy,Columbia Pictures Corporation,US
-en,12,Kevin Spacey,24,Lasse Hallström,Drama,Miramax Films,US
-en,15,Colin Farrell,11,Les Mayfield,Action,Morgan Creek Productions,US
-en,21,Emily Blunt,18,Jean-Marc Vallée,Drama,GK Films,GB
-en,17,Kate Beckinsale,29,Dominic Sena,Action,StudioCanal,CA
-en,18,Brad Pitt,31,Terrence Malick,Drama,Fox Searchlight Pictures,US
-en,6,Jean-Claude Van Damme,11,Tsui Hark,Action,TriStar Pictures,AW
-en,57,Arnold Schwarzenegger,50,David Ayer,Action,Open Road Films,US
-en,10,Heath Ledger,85,Brian Helgeland,Drama,Twentieth Century Fox Film Corporation,DE
-en,17,Ray Stevenson,96,Lexi Alexander,Action,Lionsgate,CA
-en,15,Tim Allen,28,Peter Hewitt,Family,Columbia Pictures,US
-en,65,Joseph Gordon-Levitt,47,Robert Zemeckis,Adventure,TriStar Pictures,US
-en,4,Angus Macfadyen,4,Ronny Yu,Fantasy,China Film Co-Production Corporation,CN
-en,63,Russell Crowe,19,Ridley Scott,Comedy,Fox 2000 Pictures,US
-en,19,Elijah Wood,26,Richard Donner,Drama,Columbia Pictures,US
-en,15,Damian Chapa,16,Taylor Hackford,Action,Hollywood Pictures,US
-en,19,Julia Ormond,9,Bille August,Action,Fox Searchlight Pictures,DE
-en,19,Rebecca Romijn,20,Brian De Palma,Thriller,Epsilon Motion Pictures,CH
-en,15,Anthony Quinn,3,Moustapha Akkad,Action,Falcon International Productions,LY
-en,29,Juliette Binoche,9,Jean-Paul Rappeneau,War,France 2 Cinéma,FR
-en,11,Tobey Maguire,20,Ang Lee,Drama,Universal Pictures,US
-es,52,Javier Bardem,17,Alejandro González Iñárritu,Drama,Ikiru Films,MX
-es,17,Penélope Cruz,15,Joachim Rønning,Action,Ultra Films,US
-en,9,Laurence Fishburne,8,Tony Kaye,Drama,Capitol Films,US
-en,37,Dylan O'Brien,81,Wes Ball,Action,Ingenious Media,US
-en,16,Vince Vaughn,5,Ken Scott,Comedy,Studio Babelsberg,US
-en,24,Daniel Day-Lewis,8,Martin Scorsese,Drama,Columbia Pictures,US
-en,14,Hugh Jackman,83,Darren Aronofsky,Drama,Regency Enterprises,US
-en,9,Cuba Gooding Jr.,14,Hugh Johnson,Action,Warner Bros.,US
-en,13,Nicolas Cage,13,Simon West,Action,Saturn Films,US
-ja,24,Yuria Nara,14,Hayao Miyazaki,Animation,Studio Ghibli,JP
-en,19,Scott Eastwood,28,"George Tillman, Jr.",Drama,Fox 2000 Pictures,US
-en,36,Johnny Depp,48,Rand Ravich,Drama,New Line Cinema,US
-en,8,Kim Basinger,3,Hugh Hudson,Romance,Columbia Pictures,US
-en,21,Gerard Butler,13,Gabriele Muccino,Comedy,Evil Twins,US
-en,15,Idris Elba,10,Justin Chadwick,Drama,Distant Horizons,GB
-en,36,Warren Beatty,16,Warren Beatty,Drama,Barclays Mercantile Industrial Finance,US
-en,16,Tom Cruise,52,Rob Reiner,Drama,David Brown Productions,US
-en,27,Steven Seagal,70,Andrzej Bartkowiak,Action,Village Roadshow Pictures,CA
-en,6,Martin Lawrence,11,Raja Gosnell,Crime,Twentieth Century Fox Film Corporation,DE
-en,22,Brianne Siddall,16,Ben Stassen,Family,StudioCanal,BE
-en,15,Emile Hirsch,66,Chris Gorak,Horror,Summit Entertainment,US
-en,12,Kathryn McCormick,11,Scott Speer,Music,Summit Entertainment,US
-en,19,Samuel L. Jackson,19,David R. Ellis,Action,New Line Cinema,US
-en,15,James Spader,6,Joe Charbanic,Mystery,Universal Pictures,US
-en,33,Thomas Jane,112,Jonathan Hensleigh,Action,Lions Gate Films,DE
-en,17,Kuno Becker,20,Danny Cannon,Drama,Touchstone Pictures,GB
-en,15,Jason Statham,34,Boaz Yakin,Action,Lawrence Bender Productions,US
-en,5,John Cusack,10,Mike Newell,Comedy,Regency Enterprises,DE
-en,128,Mark Hamill,12,Richard Marquand,Adventure,Lucasfilm,US
-en,56,Rhona Mitra,93,Neil Marshall,Action,Rogue Pictures,DE
-en,26,Kate Winslet,29,Stephen Daldry,Drama,Studio Babelsberg,DE
-en,31,Paul Rudd,14,David Wain,Comedy,Relativity Media,US
-en,24,Will Ferrell,53,Jon Favreau,Comedy,New Line Cinema,US
-en,16,John Travolta,10,Jon Turteltaub,Drama,Touchstone Pictures,US
-en,9,Jim Belushi,10,Brian Levant,Adventure,Walt Disney Pictures,CA
-en,34,Bill Murray,10,Richard Donner,Fantasy,Paramount Pictures,US
-en,11,Jack Black,13,Jared Hess,Comedy,Paramount Pictures,US
-en,27,Kristen Wiig,39,Paul Feig,Comedy,Universal Pictures,US
-en,27,James Franco,43,Seth Rogen,Action,Columbia Pictures,US
-en,15,Patricia Arquette,17,Rupert Wainwright,Horror,FGM Entertainment,US
-en,11,Robert De Niro,11,"George Tillman, Jr.",Drama,Fox 2000 Pictures,US
-en,18,Chris Brown,9,John Luessenhop,Action,Rainforest Films,US
-en,24,Robert De Niro,12,Justin Zackham,Comedy,Millenium Films,US
-en,67,Martin Lawrence,41,John Whitesell,Crime,Twentieth Century Fox Film Corporation,US
-en,24,Jake Gyllenhaal,20,Duncan Jones,Thriller,The Mark Gordon Company,CA
-en,40,Ethan Hawke,14,Frank Marshall,Action,Paramount Pictures,US
-en,17,Jim Carrey,12,Joel Schumacher,Thriller,New Line Cinema,DE
-en,35,Kyle Catlett,13,Jean-Pierre Jeunet,Adventure,Epithète Films,CA
-en,36,Dan Aykroyd,10,Steven Spielberg,Action,Columbia Pictures,US
-en,7,Kurt Russell,4,John Gatins,Drama,DreamWorks SKG,
-en,15,Viggo Mortensen,35,David Cronenberg,Drama,New Line Cinema,US
-en,10,Jason Statham,17,Louis Leterrier,Action,Canal Plus,FR
-en,16,Sharon Stone,10,Sam Raimi,Action,TriStar Pictures,JP
-en,7,Pierce Brosnan,37,Peter Howitt,Action,New Line Cinema,DE
-en,18,Nicolas Cage,92,Martin Scorsese,Drama,Paramount Pictures,US
-en,15,Jude Law,14,Miguel Sapochnik,Action,Universal Pictures,CA
-ko,22,Jason Behr,14,Shim Hyung-Rae,Fantasy,Younggu-Art Movies,KR
-en,9,Whoopi Goldberg,12,Norman Jewison,Fantasy,Regency Enterprises,US
-en,15,Steve Carell,29,Don Scardino,Comedy,New Line Cinema,US
-en,5,Scott Bakula,27,Mark Dindal,Animation,Warner Bros. Pictures,US
-en,20,Hank Azaria,16,Tim Robbins,Drama,Touchstone Pictures,US
-en,15,George Clooney,53,Steven Soderbergh,War,Warner Bros.,US
-en,16,James Purefoy,10,Tom Reeve,Adventure,Carousel Picture Company,DE
-en,36,Martin Sheen,49,Francis Ford Coppola,Drama,United Artists,US
-en,26,Drew Barrymore,19,Nanette Burstein,Comedy,New Line Cinema,US
-en,16,Richard Dreyfuss,57,Stephen Herek,Music,Hollywood Pictures,US
-en,62,Kevin Costner,35,Ariel Vromen,Action,Lionsgate,GB
-en,17,Meryl Streep,21,Sydney Pollack,Drama,Universal Pictures,US
-en,18,Denzel Washington,72,Robert Zemeckis,Drama,Paramount Pictures,US
-en,19,Roger Moore,18,Lewis Gilbert,Action,United Artists,FR
-en,99,Ralph Fiennes,46,Wes Anderson,Comedy,Fox Searchlight Pictures,GB
-en,14,Anthony Hopkins,7,Scott Hicks,Drama,Castle Rock Entertainment,AU
-en,32,Jeff Daniels,14,Frank Marshall,Comedy,Amblin Entertainment,US
-en,20,Dennis Quaid,88,Gregory Hoblit,Crime,New Line Cinema,US
-en,45,Ed Helms,39,John Francis Daley,Comedy,New Line Cinema,US
-en,16,John Travolta,26,Barry Sonnenfeld,Comedy,Jersey Films,US
-en,20,Catherine Zeta-Jones,13,Rob Marshall,Action,Miramax Films,US
-en,20,Adam Sandler,38,Dennis Dugan,Comedy,Columbia Pictures,US
-en,89,Jason Biggs,109,J.B. Rogers,Comedy,Universal Pictures,US
-en,13,Tom Hanks,106,John Lasseter,Animation,Pixar Animation Studios,US
-en,58,Keanu Reeves,10,Jan de Bont,Action,Twentieth Century Fox Film Corporation,US
-en,14,Rachel McAdams,4,Michael Sucsy,Drama,Spyglass Entertainment,US
-en,25,Harrison Ford,16,Tom Vaughan,Drama,Double Feature Films,US
-en,67,Denzel Washington,21,Boaz Yakin,Drama,Walt Disney Pictures,US
-en,32,Alec Baldwin,13,John McTiernan,Action,Paramount Pictures,US
-en,28,Forest Whitaker,74,Lee Daniels,Drama,Laura Ziskin Productions,US
-en,19,Vince Vaughn,109,Rawson Marshall Thurber,Comedy,Twentieth Century Fox Film Corporation,DE
-en,19,Raúl Juliá,13,Barry Sonnenfeld,Horror,Paramount Pictures,US
-en,15,Jim Carrey,11,Steve Oedekerk,Crime,O Entertainment,US
-en,85,Anne Hathaway,10,Garry Marshall,Comedy,Walt Disney Pictures,US
-en,24,Goldie Hawn,72,Hugh Wilson,Comedy,Scott Rudin Productions,US
-en,49,Brad Pitt,91,David Fincher,Crime,New Line Cinema,US
-en,43,Sharlto Copley,78,Neill Blomkamp,Science Fiction,WingNut Films,US
-en,10,Tom Kenny,31,Stephen Hillenburg,Animation,Paramount Pictures,US
-en,24,Sean Penn,13,Clint Eastwood,Thriller,Village Roadshow Pictures,US
-en,49,Clint Eastwood,81,Clint Eastwood,Drama,Lakeshore Entertainment,US
-en,21,Robert De Niro,13,Harold Ramis,Comedy,Spring Creek Productions,AU
-en,39,Rachel McAdams,45,Nick Cassavetes,Romance,New Line Cinema,US
-en,31,Katherine Heigl,52,Anne Fletcher,Comedy,Spyglass Entertainment,US
-en,15,Miley Cyrus,41,Peter Chelsom,Comedy,Walt Disney Pictures,US
-it,19,E.G. Daily,21,Stig Bergqvist,Adventure,Paramount Pictures,DE
-en,9,Nick Nolte,11,Barbra Streisand,Drama,Columbia Pictures,US
-en,25,Brad Pitt,17,Edward Zwick,Adventure,Bedford Falls Productions,US
-en,15,George Clooney,35,Jason Reitman,Drama,Paramount Pictures,US
-en,14,Jack Nicholson,25,Alexander Payne,Drama,New Line Cinema,US
-en,36,Nicholas Hoult,19,Jonathan Levine,Horror,Summit Entertainment,CA
-en,34,Joseph Gordon-Levitt,42,Rian Johnson,Action,Endgame Entertainment,CN
-en,15,Chris Rock,6,Chris Weitz,Fantasy,Paramount Pictures,US
-en,18,Christine Cavanaugh,11,Chris Noonan,Fantasy,Universal Pictures,AU
-en,15,Meryl Streep,17,David Frankel,Drama,Columbia Pictures,US
-en,26,Jason Segel,9,Nicholas Stoller,Comedy,Universal Pictures,US
-en,21,Mark Wahlberg,57,John Singleton,Action,Paramount Pictures,US
-en,19,Tina Fey,10,Michael McCullers,Comedy,Relativity Media,US
-en,15,Sandra Bullock,5,Forest Whitaker,Drama,Twentieth Century Fox Film Corporation,US
-en,28,Anne Hathaway,4,Gary Winick,Comedy,Dune Entertainment,US
-en,22,Seth Green,94,Steven Brill,Action,Paramount Pictures,US
-en,50,Jennifer Garner,45,Gary Winick,Comedy,Columbia Pictures,US
-en,43,Owen Wilson,66,Woody Allen,Fantasy,Gravier Productions,ES
-en,19,Will Arnett,5,Peter Lepeniotis,Animation,Open Road Films,CA
-en,34,Johnny Depp,39,Ted Demme,Crime,New Line Cinema,US
-en,19,Kevin Costner,11,Luis Mandoki,Romance,Bel Air Entertainment,US
-en,14,William Shatner,10,William Shatner,Science Fiction,Paramount Pictures,US
-en,13,Shad Moss,19,John Schultz,Comedy,Twentieth Century Fox Film Corporation,US
-en,31,Leslie Nielsen,13,Peter Segal,Comedy,Paramount Pictures,US
-en,42,Roger Moore,16,John Glen,Adventure,Eon Productions,FR
-en,20,Peter Sallis,69,Nick Park,Adventure,Aardman Animations,GB
-en,23,Hilary Swank,18,Richard LaGravenese,Drama,Wendy Finerman Productions,US
-en,26,Frankie Muniz,8,Frederik Du Chau,Comedy,Alcon Entertainment,US
-en,47,Keira Knightley,31,Joe Wright,Drama,Universal Pictures,GB
-en,17,Amanda Seyfried,25,Gary Winick,Comedy,Summit Entertainment,US
-en,53,Michael Douglas,43,Ridley Scott,Action,Paramount Pictures,US
-en,28,Sean Hayes,11,Bobby Farrelly,Comedy,Wessler Entertainment,US
-en,16,Johnny Depp,77,Tim Burton,Romance,Tim Burton Animation Company,US
-en,20,Josh Lucas,22,James Gartner,Drama,Walt Disney Pictures,US
+language,cast_0,director,genre_0,company_0,country,cast_num,crew_num
+0,0,0,0,0,0,3,3
+0,1,1,1,1,0,1,2
+0,2,2,0,2,1,3,3
+0,3,3,0,3,0,3,3
+0,4,4,0,1,0,1,3
+0,5,5,2,2,0,3,3
+0,6,6,3,1,0,0,3
+0,7,7,0,4,0,2,3
+0,8,8,1,5,1,1,2
+0,9,9,0,6,0,3,3
+0,10,10,1,6,0,0,2
+0,2,11,1,7,1,1,3
+0,1,1,1,1,2,1,2
+0,1,1,0,1,0,2,3
+0,11,9,0,3,1,1,3
+0,12,12,1,8,3,0,3
+0,7,7,4,9,0,3,3
+0,1,13,1,1,0,1,3
+0,13,14,0,10,0,0,2
+0,14,15,0,11,4,1,3
+0,15,16,0,2,0,2,3
+0,16,17,0,12,1,1,2
+0,14,15,1,11,4,1,3
+0,17,18,1,13,1,1,2
+0,18,15,1,11,4,1,3
+0,19,0,5,9,0,3,3
+0,20,19,1,14,0,3,3
+0,4,20,6,15,0,1,3
+0,21,21,0,16,0,1,3
+0,2,2,0,2,1,0,2
+0,5,5,0,2,0,3,3
+0,7,22,0,4,5,3,2
+0,22,23,7,1,0,1,2
+0,23,24,1,0,6,1,3
+0,24,25,3,1,0,0,1
+0,25,26,4,9,0,1,3
+0,26,26,4,9,0,1,3
+0,27,5,2,1,0,3,2
+0,15,16,0,2,0,2,3
+0,28,27,1,1,0,0,2
+0,29,28,3,1,0,1,3
+0,30,29,1,17,0,0,3
+0,31,30,3,1,0,1,3
+0,3,31,0,2,7,0,3
+0,32,32,0,15,8,2,3
+0,33,11,0,9,0,0,2
+0,23,10,0,18,1,2,3
+0,34,33,0,9,0,3,3
+0,35,10,0,13,0,0,3
+0,36,34,5,19,0,1,2
+0,37,35,1,1,0,0,3
+0,38,36,0,3,0,1,2
+0,25,26,0,9,0,1,2
+0,39,37,1,20,0,1,1
+0,40,38,1,1,0,0,1
+0,41,39,3,1,0,0,3
+0,34,40,0,9,0,1,3
+0,42,4,3,1,0,1,3
+0,43,24,0,13,0,0,2
+0,44,41,0,2,6,2,3
+0,45,42,3,8,0,0,1
+0,46,43,4,19,0,2,3
+0,47,8,0,19,6,1,1
+0,48,12,1,8,1,0,2
+0,49,10,4,18,0,3,3
+0,3,3,5,6,1,3,3
+0,50,44,3,21,0,0,3
+0,51,45,3,22,0,1,1
+0,7,46,0,4,0,3,2
+0,52,47,1,9,9,1,3
+0,13,14,0,23,0,1,1
+0,53,48,1,15,7,0,3
+0,13,49,0,6,0,3,3
+0,54,50,2,2,0,0,2
+0,55,51,0,19,10,1,3
+0,56,52,1,15,0,0,3
+0,57,53,1,9,3,0,2
+0,58,44,5,1,0,2,3
+0,59,46,7,1,1,1,2
+0,7,46,1,4,0,3,3
+0,60,54,1,15,0,1,3
+0,61,55,2,1,0,3,1
+0,62,56,4,24,0,1,3
+0,63,57,0,25,10,0,3
+0,64,58,5,26,0,0,3
+0,20,19,0,4,0,2,3
+0,65,59,8,22,0,1,0
+0,66,60,1,1,0,2,3
+0,67,61,1,1,0,1,3
+0,68,62,7,27,0,2,3
+0,31,42,1,28,0,0,3
+0,69,41,0,18,0,2,3
+0,70,63,2,22,0,0,3
+0,71,64,0,2,7,0,3
+0,21,65,0,4,1,3,3
+0,72,3,1,9,6,1,3
+0,36,3,0,3,1,1,2
+1,73,66,0,29,8,1,2
+0,74,15,1,11,4,1,3
+0,75,48,0,15,7,1,3
+0,76,67,2,9,0,1,3
+0,49,68,0,0,0,1,3
+0,77,69,0,14,7,2,3
+0,78,70,2,1,0,0,0
+0,79,71,1,30,0,0,2
+0,1,72,2,1,1,3,3
+0,65,73,2,31,0,1,1
+0,80,74,0,15,6,1,3
+0,71,75,4,9,0,1,3
+0,81,76,1,32,0,0,2
+0,9,26,9,33,0,3,3
+0,25,26,1,9,0,1,3
+0,82,77,10,34,9,2,3
+0,8,8,1,5,1,3,2
+0,8,35,1,35,1,2,2
+0,13,20,2,2,0,1,2
+0,13,69,5,19,0,0,2
+0,1,23,1,19,10,1,3
+0,83,78,3,1,0,0,3
+0,3,3,0,6,1,3,3
+0,84,79,7,22,0,1,0
+0,84,80,1,18,0,1,1
+0,23,81,1,0,0,2,0
+0,64,43,1,19,0,0,2
+0,85,82,3,1,0,2,2
+0,64,43,1,19,10,2,2
+0,86,75,0,4,0,1,3
+0,87,83,0,19,10,2,3
+0,31,84,6,2,11,1,3
+0,86,85,1,4,0,1,2
+0,88,61,3,27,0,0,3
+0,89,86,2,1,0,0,1
+0,0,87,1,3,12,0,2
+0,1,23,8,19,10,1,2
+0,55,88,0,9,5,3,3
+0,90,89,5,15,0,0,3
+0,91,90,7,36,0,1,2
+0,92,91,3,22,0,1,2
+0,93,92,0,9,0,0,0
+0,55,33,1,9,5,0,2
+0,94,41,0,2,0,0,2
+0,95,93,1,27,0,0,0
+0,23,94,1,37,1,0,3
+0,96,95,1,5,0,0,2
+0,97,96,3,36,0,2,1
+0,33,71,1,38,0,0,3
+0,84,45,3,22,0,0,1
+0,98,97,1,7,1,0,0
+0,99,98,0,2,0,3,3
+0,100,26,0,33,0,2,3
+0,101,14,0,2,0,0,3
+0,102,42,1,9,0,1,3
+0,92,91,0,18,5,1,3
+0,55,60,0,9,3,0,2
+0,34,99,2,22,0,0,1
+0,103,100,8,12,0,0,3
+0,55,101,5,39,8,1,2
+0,3,17,1,40,12,0,3
+0,34,33,4,9,7,3,2
+0,5,5,2,2,0,2,3
+0,70,102,2,22,0,0,2
+0,104,103,2,41,10,1,3
+0,105,48,0,42,0,0,2
+0,106,9,0,9,0,1,2
+0,107,104,0,43,0,0,3
+0,108,105,5,15,0,0,3
+0,109,106,1,9,0,0,2
+0,72,107,0,9,7,0,3
+0,110,108,1,2,8,0,3
+0,20,89,0,4,0,2,3
+0,98,76,1,7,1,0,2
+0,16,109,1,15,0,1,3
+0,60,110,1,41,0,2,3
+0,111,83,3,19,10,1,2
+0,112,111,4,15,0,2,2
+0,113,37,1,1,13,0,3
+0,36,112,11,44,6,0,3
+0,30,113,3,22,0,0,1
+0,1,1,3,9,0,0,1
+0,114,79,7,22,0,0,0
+0,115,114,0,15,7,1,3
+0,92,115,1,22,0,1,1
+0,116,116,4,4,0,2,3
+0,77,69,1,45,0,2,3
+0,117,117,2,18,0,0,3
+0,55,37,1,9,0,1,3
+0,118,26,1,46,0,0,3
+0,119,73,0,47,0,1,2
+0,61,118,0,2,0,1,1
+0,16,119,5,9,0,0,3
+0,120,37,1,9,4,0,3
+0,8,120,1,48,1,2,3
+0,121,34,5,49,10,1,3
+0,122,92,4,2,0,0,3
+0,123,121,3,1,0,0,2
+0,84,80,1,18,1,1,3
+0,124,122,3,22,0,0,1
+0,8,123,1,48,1,2,3
+0,125,124,2,15,0,1,3
+0,1,1,1,1,0,2,3
+0,77,69,4,45,0,2,3
+0,31,84,6,2,0,0,3
+0,126,125,3,50,0,0,2
+0,127,10,1,18,0,1,2
+0,32,40,0,15,0,1,3
+0,7,126,1,19,0,1,3
+0,0,111,1,51,0,1,3
+0,71,127,0,52,0,0,2
+0,119,128,1,53,0,0,3
+0,128,129,0,15,0,1,3
+0,129,130,0,54,1,0,3
+0,103,84,7,12,7,0,2
+0,57,41,0,55,0,1,3
+0,55,131,1,9,7,0,3
+0,129,71,5,5,0,1,1
+0,130,132,1,0,7,0,2
+0,131,105,1,0,0,0,2
+0,78,133,6,46,0,0,3
+0,115,114,0,56,1,3,3
+0,132,31,0,2,0,0,1
+0,133,17,4,18,1,1,3
+0,134,96,7,2,0,0,1
+0,115,134,4,52,0,0,3
+0,32,135,0,57,0,0,3
+0,135,136,0,2,6,0,2
+0,136,43,0,19,10,1,2
+0,137,137,8,2,0,0,2
+0,55,138,0,58,0,0,3
+0,55,27,0,15,0,0,2
+0,138,139,4,20,0,2,1
+0,138,139,1,20,0,1,2
+0,139,44,3,1,0,2,3
+0,23,138,0,18,1,0,3
+0,140,139,1,20,0,2,1
+0,78,63,1,22,0,0,1
+2,141,140,2,59,14,1,2
+0,78,131,5,60,0,0,3
+0,86,141,0,15,0,1,0
+0,142,87,4,9,0,1,3
+0,143,120,4,5,1,0,3
+0,98,142,0,15,0,0,3
+0,142,143,2,9,5,1,1
+0,144,144,0,18,0,1,3
+0,84,80,0,0,0,0,2
+0,109,145,0,13,6,1,3
+0,98,146,1,7,1,1,2
+0,107,41,5,61,7,0,3
+0,129,147,6,19,0,1,3
+0,61,51,0,62,0,0,2
+0,145,124,1,41,0,0,3
+0,36,47,5,63,0,2,3
+0,92,148,8,18,0,0,2
+0,51,149,0,64,0,0,1
+0,146,150,0,3,0,1,3
+0,147,151,3,2,0,1,2
+0,148,152,3,1,0,0,3
+0,145,124,1,41,0,1,3
+0,23,80,0,31,13,3,3
+0,147,151,2,2,0,1,1
+0,143,153,0,18,0,0,3
+0,149,81,4,41,0,0,3
+0,100,154,0,0,1,0,3
+0,111,15,1,11,4,1,2
+0,150,155,0,14,7,1,3
+0,13,156,5,46,0,2,2
+0,65,157,8,12,0,0,1
+0,13,103,0,18,0,0,3
+0,151,17,5,14,7,0,3
+0,134,96,3,46,7,0,1
+0,152,158,12,1,0,0,3
+0,115,17,5,18,0,2,3
+0,138,26,0,31,0,1,3
+0,153,159,8,13,15,0,0
+0,78,160,0,33,0,0,3
+0,16,17,0,31,1,1,3
+0,55,37,0,31,0,0,3
+0,8,123,1,48,7,2,3
+0,2,29,1,7,11,3,3
+0,26,23,6,18,0,0,2
+0,71,0,0,65,9,1,3
+0,3,156,9,15,0,1,3
+0,154,17,5,12,1,3,3
+0,71,0,0,18,0,0,2
+0,154,161,6,2,0,0,2
+0,155,162,8,9,0,0,1
+0,124,163,0,2,0,1,1
+0,71,164,0,66,6,0,3
+0,156,165,5,2,0,3,3
+0,157,166,5,1,0,0,3
+0,158,167,1,1,0,0,2
+0,159,168,0,67,0,0,3
+0,78,70,1,1,0,1,3
+0,160,169,2,0,1,0,2
+0,161,170,7,19,0,0,1
+0,162,171,3,50,0,1,2
+0,1,172,0,2,1,1,2
+0,71,173,0,68,0,0,3
+0,36,101,5,69,7,0,3
+0,36,47,13,9,0,3,3
+0,163,130,0,5,1,0,2
+0,164,127,1,52,0,0,3
+0,31,174,5,70,7,1,3
+0,165,9,3,19,10,0,1
+0,166,175,0,19,0,2,3
+0,109,24,0,9,0,1,3
+0,167,158,1,1,0,1,3
+0,124,176,1,15,0,0,2
+0,159,177,0,71,9,1,3
+0,168,178,0,14,7,0,3
+0,169,179,2,13,7,0,1
+0,86,84,6,12,0,1,3
+0,170,180,0,19,10,0,1
+0,115,114,10,15,12,3,3
+0,171,181,3,50,0,0,1
+0,172,182,13,72,0,0,2
+0,53,53,1,15,0,0,1
+0,36,47,5,63,0,1,3
+3,3,183,5,73,5,0,3
+0,25,184,3,2,0,0,2
+0,121,185,0,9,0,0,2
+0,63,17,0,33,1,1,3
+0,124,186,8,74,0,0,1
+0,100,187,1,2,9,3,3
+0,173,188,8,13,0,1,1
+0,174,189,1,31,0,0,3
+0,175,181,3,50,0,1,1
+0,176,85,12,1,1,3,3
+0,177,15,2,11,1,0,2
+0,178,4,3,21,0,0,3
+0,111,15,1,11,4,1,2
+0,111,15,1,11,4,1,3
+0,125,190,1,3,5,1,3
+0,61,168,1,9,0,0,3
+0,1,191,6,75,5,1,3
+0,179,89,1,16,0,0,3
+0,27,192,6,0,0,1,3
+0,180,193,1,9,0,0,3
+0,100,194,0,24,0,0,3
+0,57,195,11,12,0,0,3
+0,181,60,0,1,0,1,3
+0,182,196,0,76,9,1,1
+0,183,123,1,0,6,3,3
+0,101,14,0,10,0,0,3
+0,31,28,3,21,0,0,3
+0,154,161,0,18,0,0,2
+0,43,24,0,13,0,0,1
+0,39,42,5,31,0,0,3
+0,184,197,3,2,0,1,2
+0,185,125,3,50,0,1,0
+0,84,198,1,13,0,0,2
+0,132,31,0,2,0,0,3
+0,36,47,5,77,16,2,3
+0,170,199,3,1,0,0,2
+0,84,198,0,31,0,2,3
+0,2,67,6,2,17,2,3
+0,100,128,0,18,0,0,3
+0,7,126,0,19,7,2,2
+0,186,200,5,9,0,0,0
+0,134,166,3,1,0,0,3
+0,187,201,1,44,0,1,1
+0,55,10,5,78,7,1,2
+0,188,202,8,2,0,3,3
+0,188,123,0,2,0,2,3
+0,189,37,5,31,0,0,3
+0,170,96,6,1,0,1,1
+0,190,42,5,5,0,3,3
+0,191,127,0,46,7,0,1
+0,121,203,13,15,9,0,3
+0,183,204,1,48,0,0,2
+0,61,153,0,9,0,0,1
+0,126,106,0,41,6,3,3
+0,163,118,6,9,0,1,2
+0,192,161,0,15,1,0,2
+0,193,205,4,79,0,0,3
+0,126,125,3,50,0,0,1
+0,194,123,8,80,7,0,1
+0,101,206,4,18,0,0,1
+0,39,207,13,2,0,0,3
+0,39,208,5,9,6,1,1
+0,71,209,1,15,0,0,3
+0,16,84,12,63,0,2,3
+0,195,210,2,81,1,0,0
+0,125,211,5,15,0,0,3
+0,196,153,0,15,0,0,3
+0,31,42,1,31,0,0,1
+0,111,83,3,82,10,0,3
+0,115,114,0,15,7,1,3
+0,39,71,0,46,7,1,3
+0,129,147,6,19,0,0,3
+0,197,212,1,83,0,0,2
+0,188,213,3,2,0,0,1
+0,198,214,8,1,0,0,2
+0,154,215,0,15,0,0,2
+0,199,214,8,1,0,0,1
+0,84,24,0,15,0,2,2
+0,132,216,8,2,1,0,1
+0,13,161,0,33,0,1,2
+0,200,216,8,15,0,1,1
+0,129,147,13,19,0,1,3
+0,118,217,1,84,0,0,1
+0,145,218,1,41,0,0,3
+0,201,219,10,9,18,0,3
+0,109,20,1,2,0,0,3
+0,71,128,1,46,0,0,3
+0,202,13,5,31,0,0,1
+0,203,40,0,15,8,2,3
+0,49,220,5,2,0,1,2
+0,33,221,2,15,0,0,3
+0,71,222,0,85,0,0,3
+0,204,223,5,18,0,0,1
+0,205,224,1,86,0,1,3
+0,206,225,0,15,0,1,0
+0,207,226,0,9,0,2,3
+0,170,227,2,12,0,0,1
+0,208,151,14,87,0,0,3
+0,209,228,0,88,19,0,3
+0,188,155,8,64,0,0,1
+0,210,229,15,5,0,0,1
+0,211,145,8,19,0,0,1
+0,212,51,1,32,6,0,3
+0,213,36,1,15,7,0,1
+0,37,67,13,9,0,1,3
+0,71,146,4,89,0,0,3
+0,103,50,2,15,0,0,3
+0,159,230,6,90,0,0,3
+0,55,205,1,9,0,1,3
+0,77,211,4,45,0,1,3
+0,214,231,8,3,0,0,0
+0,215,23,0,54,1,0,1
+0,100,232,8,36,0,0,1
+0,216,63,3,1,0,0,3
+0,205,233,8,9,7,1,2
+0,217,234,0,9,0,1,3
+0,100,100,0,6,6,2,1
+0,188,227,8,9,0,1,2
+0,187,59,8,91,0,0,1
+0,188,202,8,2,0,2,3
+0,54,227,0,19,6,0,1
+0,218,216,5,46,0,0,0
+0,36,47,5,9,0,1,2
+0,219,235,8,13,0,1,2
+0,194,171,3,50,0,0,3
+0,88,131,0,9,0,0,3
+0,188,236,2,1,0,2,0
+0,31,2,6,31,0,1,3
+0,188,202,12,2,0,0,3
+0,78,168,0,33,0,1,3
+0,25,237,14,31,0,0,3
+0,201,238,5,63,0,0,3
+0,154,239,0,75,0,1,3
+0,194,240,8,1,0,0,1
+0,140,153,15,47,0,0,3
+0,220,241,3,92,0,1,3
+0,172,80,0,2,0,0,2
+0,64,242,5,18,6,0,3
+0,107,104,0,43,0,0,3
+0,33,49,10,2,1,0,3
+0,39,243,0,93,0,2,3
+0,221,244,8,17,0,0,0
+0,115,245,11,31,0,0,2
+0,222,155,8,2,0,0,0
+0,45,246,1,13,0,0,3
+0,154,247,5,9,0,1,3
+0,223,248,12,94,0,0,0
+0,188,213,3,2,0,0,1
+0,172,249,3,1,0,0,3
+0,224,93,4,31,0,1,2
+0,225,180,0,1,0,0,2
+0,88,160,0,19,10,2,1
+0,119,29,0,10,20,0,2
+0,194,250,5,54,4,0,1
+0,188,251,8,13,0,0,1
+0,226,252,1,95,3,0,3
+0,218,23,8,96,0,0,2
+2,227,253,14,97,14,0,2
+0,228,97,0,98,0,0,0
+0,100,64,0,53,0,1,2
+0,56,142,5,13,0,0,3
+0,159,48,0,15,0,0,3
+0,229,220,3,99,10,0,1
+0,88,254,0,100,0,0,1
+0,53,255,3,101,7,2,3
+0,230,13,5,95,11,0,0
+0,75,104,0,9,0,0,3
+0,56,256,5,102,0,1,1
+0,231,83,1,82,10,0,1
+0,32,107,2,41,0,0,3
+0,163,257,6,19,10,0,3
+0,180,187,1,103,9,1,2
+0,98,258,16,104,9,0,2
+0,232,173,6,105,3,0,2
+0,233,212,0,83,6,1,3
+4,234,259,8,106,13,0,0
+0,16,84,5,12,0,1,3
+0,235,260,7,1,0,1,3
+0,109,145,1,13,0,0,3
+0,184,261,3,2,0,0,2
+0,236,24,13,15,7,0,1
+0,237,89,11,107,0,0,3
+0,188,202,8,2,0,0,1
+0,75,262,0,108,0,1,3
+0,125,115,1,109,9,0,0
+0,121,263,4,19,0,0,2
+0,238,264,0,15,7,0,1
+0,239,265,3,15,0,1,3
+0,240,266,2,18,3,1,3
+0,54,267,3,15,0,1,2
+0,13,41,0,18,0,2,3
+0,241,37,1,15,0,0,3
+0,84,79,7,31,0,0,3
+0,242,120,5,15,1,2,3
+0,127,10,1,18,0,0,2
+0,61,200,0,15,7,0,2
+0,240,26,0,110,0,1,2
+0,185,125,3,50,0,1,1
+0,188,227,8,46,0,2,3
+0,88,236,7,13,1,3,2
+0,243,196,15,111,0,1,1
+0,244,268,0,1,0,0,0
+0,126,111,6,41,0,0,3
+0,188,202,8,2,0,0,0
+0,31,37,8,31,0,0,3
+0,245,204,8,31,0,0,0
+0,246,29,0,46,4,0,2
+0,31,269,8,15,0,0,1
+0,13,270,3,31,0,0,3
+0,156,110,5,9,0,0,3
+0,88,271,8,112,0,2,2
+0,108,37,5,31,6,0,2
+0,100,272,0,2,0,1,3
+0,247,273,0,113,0,1,3
+0,11,126,8,114,0,1,3
+0,188,137,8,115,0,0,3
+0,248,274,3,2,0,0,3
+0,100,275,0,116,0,0,3
+0,240,276,0,46,0,0,1
+0,190,277,5,91,21,1,1
+0,249,224,2,117,0,1,2
+0,100,278,14,63,7,0,2
+0,115,279,3,18,0,0,3
+0,39,280,0,2,0,1,1
+0,79,212,0,83,0,0,3
+0,250,281,0,118,0,0,1
+0,53,282,1,18,0,3,2
+0,57,194,0,18,0,0,3
+0,100,92,4,119,0,1,3
+0,143,283,7,15,0,0,1
+0,251,9,0,3,0,1,3
+0,78,205,13,9,6,0,3
+0,252,275,4,120,0,0,3
+0,253,284,7,2,22,1,0
+0,72,277,12,17,0,0,2
+0,188,285,8,2,0,3,3
+0,156,20,6,15,7,0,2
+0,124,163,8,2,0,0,1
+0,170,286,8,18,0,1,3
+0,107,287,0,121,0,2,3
+0,156,2,5,15,7,0,1
+0,254,288,3,115,0,0,3
+0,103,289,5,19,0,0,2
+0,255,196,0,105,10,0,1
+0,256,219,1,122,9,0,1
+0,257,92,5,123,0,0,3
+0,170,290,8,18,0,0,1
+0,107,92,5,124,0,0,3
+0,65,12,1,31,0,1,3
+0,29,28,3,1,0,1,3
+0,205,291,8,9,0,0,2
+0,32,48,0,2,0,0,3
+0,258,292,3,9,0,2,3
+0,107,84,0,53,0,1,1
+0,33,165,5,15,7,2,3
+0,194,37,1,10,0,1,2
+0,100,196,0,18,0,1,3
+0,259,293,0,64,0,0,3
+0,55,294,5,9,0,0,1
+0,260,92,5,3,0,0,3
+0,261,212,1,83,6,1,3
+0,6,290,8,44,0,0,1
+0,107,295,0,121,7,2,3
+0,262,272,0,67,0,0,2
+0,127,296,4,9,0,0,2
+0,207,87,0,2,0,2,3
+0,138,23,1,2,0,1,3
+0,218,269,2,2,0,0,3
+0,263,37,5,31,0,1,3
+0,115,297,10,2,7,0,2
+0,264,0,1,18,0,0,3
+0,265,77,5,18,0,0,0
+0,266,298,15,15,0,0,3
+0,154,101,5,18,0,0,3
+0,267,68,1,9,23,1,3
+0,33,219,1,52,0,0,1
+0,222,84,8,12,0,3,3
+0,236,130,0,33,0,0,2
+0,109,299,1,125,3,0,3
+0,170,290,0,46,0,0,1
+0,268,300,2,126,0,1,3
+0,269,236,8,13,0,3,1
+0,100,301,5,85,0,0,2
+0,270,302,0,127,10,0,2
+0,271,128,0,87,7,3,1
+0,119,303,0,105,7,0,1
+0,272,304,6,9,24,0,3
+0,273,305,1,128,0,0,3
+0,274,306,3,129,13,0,2
+0,86,156,13,15,0,0,3
+0,201,307,14,9,1,0,3
+0,275,308,13,130,7,1,1
+0,159,309,0,41,0,1,3
+0,276,196,0,90,0,0,3
+0,9,310,6,9,0,0,3
+0,60,311,1,41,0,1,3
+0,155,185,0,9,7,0,1
+0,54,267,3,15,0,1,2
+0,277,312,0,2,0,0,3
+0,26,313,8,15,0,3,3
+0,177,314,1,131,12,2,3
+0,84,315,1,15,0,1,1
+0,29,305,8,13,0,0,3
+0,278,156,5,79,0,2,3
+0,34,316,0,1,0,0,3
+0,36,17,0,40,0,0,3
+0,54,186,8,9,0,0,0
+0,279,200,0,18,0,1,2
+0,240,226,12,132,1,0,3
+0,280,317,14,18,6,1,3
+0,281,318,0,0,1,0,1
+0,31,37,5,9,0,1,3
+0,282,319,0,31,25,1,3
+0,196,216,8,9,0,3,3
+0,185,171,3,18,0,0,3
+0,272,320,5,19,0,0,3
+0,283,37,9,47,13,2,2
+0,64,43,0,19,10,1,3
+0,31,84,5,12,0,1,3
+0,284,321,2,1,0,0,3
+0,23,322,5,15,1,3,3
+0,31,323,8,5,0,0,2
+0,124,163,8,2,0,0,2
+0,119,29,0,10,0,0,1
+0,7,231,8,3,0,0,3
+0,285,324,5,3,0,3,3
+0,286,325,0,19,0,0,2
+0,159,196,0,52,9,0,2
+0,88,131,0,18,0,0,3
+0,100,70,2,1,0,2,2
+0,78,77,5,9,0,0,2
+0,205,35,5,2,0,0,2
+0,287,326,8,9,0,0,1
+0,55,327,14,133,1,0,2
+0,288,328,8,2,0,1,3
+0,13,329,12,134,0,1,3
+0,137,31,0,32,0,1,3
+0,277,330,4,13,0,0,3
+0,289,209,0,78,0,0,1
+0,88,269,8,15,9,0,0
+0,197,212,0,71,6,1,2
+0,270,212,0,15,1,0,3
+0,182,196,13,13,0,0,1
+0,290,331,0,135,0,0,1
+0,291,46,7,46,0,0,2
+0,112,67,5,44,7,3,3
+0,72,31,5,3,0,0,1
+0,100,332,0,52,0,0,1
+0,88,323,0,9,9,0,0
+0,207,333,15,126,0,0,3
+0,292,334,13,136,3,1,1
+0,293,317,0,18,6,0,3
+0,249,335,13,63,0,2,3
+0,39,203,5,2,0,0,1
+0,294,336,1,15,23,1,3
+0,295,174,13,71,12,0,2
+0,65,186,8,13,0,3,3
+0,78,94,3,95,16,0,1
+0,179,37,1,15,0,1,3
+0,56,320,5,102,0,0,2
+0,39,118,0,9,0,0,1
+3,150,337,0,137,16,1,1
+0,296,338,8,138,0,0,3
+0,72,64,0,15,9,0,2
+0,265,339,8,2,0,0,0
+0,65,340,8,9,0,0,3
+0,79,341,0,100,0,0,1
+0,259,165,13,112,0,0,3
+0,124,342,0,47,0,1,2
+0,297,343,3,15,1,0,2
+0,262,9,0,30,0,3,3
+0,84,186,8,31,0,0,3
+0,29,344,8,139,0,1,3
+0,31,289,2,135,0,1,3
+0,284,201,0,140,0,0,1
+0,298,167,3,1,0,0,3
+0,9,67,14,18,0,2,3
+0,115,51,0,15,0,2,3
+0,98,29,1,78,1,0,3
+0,88,168,13,9,7,0,2
+0,103,109,8,9,0,1,2
+0,163,93,1,31,0,0,2
+0,170,286,8,2,0,2,2
+0,154,336,0,16,0,1,3
+0,241,179,8,19,0,0,1
+0,26,271,0,17,1,0,3
+0,143,345,12,19,10,1,0
+0,299,79,1,31,0,0,3
+0,219,346,8,15,0,0,0
+0,55,161,1,9,0,0,3
+0,172,236,8,18,0,0,1
+0,300,347,0,141,0,1,3
+0,205,348,5,2,0,0,1
+0,78,24,8,15,0,0,1
+0,100,124,0,6,0,1,1
+0,278,77,5,142,0,2,3
+0,192,349,5,143,0,0,2
+0,55,156,5,9,0,0,3
+0,109,164,0,15,0,0,2
+0,301,350,5,107,0,0,3
+0,55,88,13,9,0,1,3
+0,302,196,0,19,10,0,3
+0,303,351,17,2,0,0,0
+0,115,147,5,112,0,0,3
+0,304,352,8,135,10,0,2
+0,305,282,3,144,0,0,3
+0,26,92,6,79,0,0,2
+0,154,161,0,44,1,0,3
+0,284,353,8,1,0,0,2
+0,84,231,8,62,0,3,3
+0,71,354,7,18,0,0,1
+0,213,36,2,138,0,0,3
+0,88,355,5,9,0,0,1
+0,306,356,7,144,0,0,3
+0,100,308,0,15,0,2,3
+0,9,131,0,9,6,1,3
+0,192,357,5,145,0,0,0
+0,244,358,1,146,1,0,3
+0,150,359,6,31,0,0,3
+0,307,360,0,44,0,0,2
+0,34,85,0,9,26,1,2
+0,77,361,5,91,0,2,3
+0,262,362,0,90,27,1,3
+0,308,363,4,18,0,1,3
+0,26,272,0,9,0,0,1
+0,52,364,3,147,0,0,3
+0,143,365,5,19,0,0,3
+0,21,197,1,19,0,1,3
+0,143,366,0,19,0,0,1
+0,3,317,1,51,18,0,3
+0,309,367,13,19,0,1,3
+0,92,368,8,2,0,0,1
+0,272,325,5,79,0,1,3
+0,16,369,0,15,9,0,2
+0,242,129,12,15,7,1,0
+0,310,370,8,1,0,0,0
+0,265,293,0,18,0,0,2
+0,109,371,4,52,12,0,1
+0,127,372,4,9,0,0,2
+0,129,373,13,12,0,1,3
+0,286,374,5,148,0,1,2
+0,107,29,13,149,1,0,3
+0,311,173,15,9,7,1,3
+0,155,368,8,19,10,0,1
+0,155,357,0,150,0,1,0
+0,100,375,0,12,0,1,3
+0,7,95,5,47,0,0,2
+0,115,349,2,31,0,0,3
+0,312,294,5,2,0,1,1
+0,313,343,3,18,1,0,1
+0,314,97,0,64,0,0,3
+0,315,376,0,151,0,0,3
+0,33,117,7,22,0,0,2
+0,316,212,15,9,1,0,3
+0,56,50,5,15,7,0,3
+0,63,205,5,15,9,0,3
+0,27,377,0,0,1,0,3
+0,192,378,0,31,0,0,1
+0,317,379,15,78,28,0,3
+0,82,380,5,19,0,1,1
+0,318,381,0,152,0,0,1
+0,170,353,8,18,0,0,3
+0,319,382,5,77,0,0,3
+0,72,84,8,12,0,2,1
+0,53,383,1,13,7,0,2
+0,320,384,0,6,0,0,2
+0,1,385,8,45,0,0,3
+0,270,386,1,153,6,0,2
+0,61,29,5,154,7,2,2
+3,321,387,0,155,16,0,0
+0,322,388,0,156,0,2,3
+0,30,389,0,18,0,1,3
+0,170,390,5,93,0,0,0
+0,214,325,10,19,0,3,3
+0,92,148,1,2,10,2,2
+0,137,193,8,31,0,1,3
+0,323,354,4,15,0,0,2
+0,159,391,0,52,0,0,2
+0,129,297,8,15,7,0,2
+0,188,155,8,157,0,2,1
+0,324,345,8,2,0,0,1
+0,29,80,8,18,0,3,2
+0,197,212,0,83,7,0,3
+0,325,392,5,20,0,0,3
+0,64,331,5,44,7,1,3
+0,188,393,8,2,0,1,0
+0,57,48,2,15,0,0,2
+0,98,24,0,13,0,1,2
+0,78,394,0,2,29,0,3
+0,78,395,5,63,1,0,1
+0,32,236,0,1,6,3,1
+0,109,396,1,158,0,1,3
+0,31,42,8,9,0,2,3
+0,187,343,8,32,0,0,2
+0,84,186,8,31,0,0,3
+0,326,397,1,1,0,0,2
+0,327,104,0,5,1,3,2
+0,170,50,2,12,0,0,1
+0,13,277,8,46,0,0,0
+0,53,398,1,1,0,1,1
+0,328,399,8,15,0,0,3
+0,31,114,0,2,0,0,3
+0,329,80,8,18,0,1,2
+0,330,176,2,15,0,1,2
+0,154,272,6,2,0,1,3
+0,331,400,8,159,0,0,3
+0,154,161,0,110,0,0,2
+0,13,401,5,46,0,1,3
+0,190,124,6,12,0,0,1
+0,265,275,5,5,0,0,0
+0,78,176,5,87,0,0,1
+0,332,165,0,63,0,1,3
+0,172,185,8,15,0,1,3
+0,332,165,0,63,0,1,3
+0,159,210,0,5,0,0,0
+0,200,42,2,15,0,0,0
+0,150,402,1,79,16,0,1
+0,79,372,0,43,0,0,2
+0,103,193,8,18,0,0,1
+0,150,96,0,107,5,0,2
+0,29,403,3,160,0,0,1
+0,308,67,4,18,1,1,3
+0,333,404,9,110,0,0,1
+0,155,405,0,78,9,1,3
+0,265,246,1,161,7,0,1
+0,121,406,7,95,1,2,0
+0,84,407,8,0,0,0,1
+0,101,408,5,126,0,0,3
+0,236,70,5,79,0,1,3
+0,115,305,8,18,0,1,1
+0,124,409,8,13,0,0,0
+0,324,410,3,2,1,0,3
+0,61,325,13,12,0,2,2
+0,64,222,0,18,0,3,2
+0,155,161,5,52,0,0,2
+0,262,130,6,162,1,0,2
+0,76,411,5,15,1,0,3
+0,225,412,0,9,0,2,2
+0,334,413,5,163,0,0,3
+0,335,414,0,158,0,1,2
+0,170,232,8,9,0,0,1
+0,336,72,8,164,0,2,0
+0,337,296,0,165,1,1,2
+0,338,415,5,69,0,1,2
+2,339,363,5,166,9,2,0
+0,340,327,5,167,1,0,1
+0,159,416,0,15,0,0,1
+0,277,36,2,13,7,1,3
+0,13,401,5,2,0,0,2
+0,159,379,0,168,28,0,3
+0,278,417,13,9,11,1,2
+0,151,294,8,9,0,0,0
+0,312,19,8,15,0,0,3
+0,341,418,0,5,1,2,3
+0,9,221,5,169,0,0,2
+0,342,355,5,46,0,0,2
+0,259,262,0,9,7,0,1
+0,290,279,3,18,0,0,3
+0,121,34,5,49,10,3,2
+0,88,375,14,9,0,0,0
+0,1,419,13,170,1,2,3
+0,343,325,10,31,0,1,3
+0,156,271,5,171,0,0,3
+0,79,335,6,172,0,1,3
+0,344,247,5,173,0,0,1
+0,108,420,5,19,0,0,3
+0,36,37,5,174,0,3,3
+0,345,208,6,2,0,1,2
+0,219,116,12,15,0,0,2
+0,200,421,8,15,7,1,1
+0,346,291,8,13,0,0,1
+0,347,422,0,19,0,0,3
+0,342,423,5,91,6,1,2
+0,348,424,8,15,0,0,3
+0,103,425,8,175,0,0,2
+0,155,47,5,15,9,1,1
+0,88,426,0,176,1,1,3
+0,349,427,0,158,0,0,1
+0,103,305,8,18,0,0,3
+0,350,428,3,9,7,0,2
+0,351,429,8,44,0,0,2
+0,60,18,1,41,0,1,2
+0,65,12,1,31,0,1,3
+0,115,430,4,15,0,0,3
+0,56,52,1,5,0,1,1
+0,55,294,8,115,0,0,1
+0,26,313,8,15,0,2,3
+0,218,137,8,115,0,2,3
+0,194,50,8,15,0,1,3
+0,124,163,8,9,0,1,0
+0,188,251,8,13,0,0,1
+0,352,33,6,9,0,0,2
+0,205,147,5,177,0,0,3
+0,312,370,8,9,7,0,1
+0,353,197,13,2,0,1,3
+0,33,431,15,178,0,0,2
+0,103,116,8,19,0,0,3
+0,109,432,0,13,0,1,3
+0,205,123,5,2,0,0,3
+0,124,393,8,9,0,0,2
+0,200,13,2,1,0,0,3
+0,154,433,13,12,0,2,2
+0,107,434,5,9,0,0,3
+0,354,435,0,9,0,0,1
+0,115,294,5,18,0,0,0
+0,78,103,0,41,1,0,2
+0,72,402,8,9,0,0,0
+0,18,436,5,47,0,0,3
+0,54,329,8,5,0,1,3
+0,313,437,3,18,0,0,1
+0,284,438,8,2,0,0,1
+0,33,439,5,2,0,2,3
+0,252,71,0,66,0,0,1
+0,140,440,0,179,9,1,3
+0,109,441,1,1,0,1,1
+0,355,442,0,14,7,3,3
+0,150,424,0,79,16,1,1
+0,124,443,1,12,0,0,3
+0,356,444,8,1,0,0,3
+0,265,445,6,19,10,0,3
+0,128,446,2,9,0,0,2
+0,357,447,6,44,0,0,2
+0,358,237,0,31,0,1,2
+0,129,448,5,180,0,1,3
+0,359,26,0,9,30,1,3
+0,360,449,12,18,20,1,1
+0,39,450,6,19,0,0,1
+0,286,325,13,2,0,0,2
+0,361,17,0,93,0,0,1
+0,265,67,5,54,0,1,1
+0,362,451,15,181,6,0,3
+0,64,452,8,5,0,0,0
+0,328,453,8,15,0,0,1
+0,259,271,0,44,7,1,2
+0,363,454,0,13,0,3,3
+0,170,455,0,9,0,0,1
+0,364,255,8,10,0,1,3
+0,217,424,5,19,0,0,3
+0,129,234,0,31,0,0,3
+0,197,456,15,83,1,3,3
+0,365,457,8,63,9,1,3
+0,154,458,6,64,0,0,3
+0,307,459,0,5,0,0,1
+0,366,335,1,182,0,0,3
+0,36,460,5,183,1,0,1
+0,312,291,5,53,0,1,3
+0,367,442,0,14,7,1,2
+0,56,5,5,15,0,0,0
+0,361,461,5,2,0,0,2
+0,29,402,7,18,0,0,2
+0,115,325,5,10,0,1,0
+0,143,462,13,135,0,1,2
+0,159,104,0,43,9,0,3
+0,368,463,13,0,1,0,2
+0,100,339,8,15,0,0,2
+0,369,464,0,184,0,1,2
+0,88,128,0,130,0,0,3
+0,286,325,13,148,0,0,3
+0,242,174,5,14,7,1,0
+0,79,465,0,9,0,0,3
+0,370,60,1,185,0,1,3
+0,313,466,1,53,0,0,2
+0,72,211,10,146,0,1,3
+0,371,404,5,108,7,3,3
+0,101,390,8,138,0,0,0
+0,140,440,0,77,0,0,3
+0,18,467,6,186,1,0,3
+0,75,468,0,46,0,0,1
+2,197,187,1,2,9,1,1
+0,372,469,8,15,0,1,1
+0,2,470,5,187,6,0,3
+0,88,471,0,5,0,0,0
+0,373,472,0,18,0,0,0
+0,361,57,5,110,0,0,1
+0,18,51,5,188,0,0,0
+0,374,161,0,13,9,1,2
+0,375,408,0,9,0,0,0
+0,262,394,0,126,0,1,3
+0,376,473,2,75,0,1,2
+0,194,474,8,189,7,0,1
+0,84,198,8,123,0,3,3
+0,29,475,8,190,0,0,1
+0,377,269,8,2,0,0,1
+0,78,476,2,41,0,2,3
+0,378,299,0,18,6,0,0
+0,379,477,0,2,0,0,3
+0,380,196,0,18,0,2,2
+0,381,478,5,15,7,1,1
+0,265,147,6,191,7,1,2
+0,39,37,1,20,0,2,3
+0,374,95,5,15,9,2,2
+0,382,134,13,2,20,1,3
+0,154,118,5,15,0,0,3
+0,190,67,13,192,0,0,3
+5,383,479,15,193,15,0,0
+0,129,361,0,19,0,0,2
+0,87,215,13,41,1,0,3
+0,384,276,1,9,6,0,1
+0,125,383,5,130,7,1,3
+0,290,138,8,63,0,0,2
+0,385,368,2,18,0,0,2
+0,357,417,17,194,0,1,3
+0,16,138,11,58,0,1,3
+0,140,480,6,18,9,2,3
+0,129,147,12,15,0,0,1
+0,103,198,8,46,0,0,1
+6,386,481,5,195,6,0,0
+0,153,482,1,53,0,1,1
+0,98,128,5,196,0,0,1
+0,387,483,8,2,0,0,0
+0,159,484,0,194,0,0,3
+7,388,485,5,197,26,0,2
+0,389,486,3,198,7,0,3
+0,205,487,5,52,0,0,1
+0,205,488,8,52,0,0,1
+0,205,438,8,2,0,1,1
+0,278,3,13,180,0,1,3
+0,127,296,4,9,0,0,2
+0,309,403,0,5,0,1,2
+0,154,101,5,91,0,0,1
+0,103,50,8,12,0,0,3
+0,325,489,13,199,1,0,3
+0,390,490,5,158,31,0,3
+0,139,354,2,15,0,0,2
+0,140,480,0,18,9,1,2
+0,391,491,8,200,0,0,3
+0,143,370,8,19,0,0,2
+0,53,244,0,13,0,0,1
+0,392,291,8,1,0,0,1
+0,205,207,5,5,0,0,3
+0,393,130,5,44,0,0,1
+0,218,339,5,201,0,0,3
+0,39,118,5,9,0,1,1
+0,331,273,12,13,0,0,1
+0,23,492,5,75,0,1,3
+0,154,272,0,19,10,0,2
+0,284,100,8,31,0,0,3
+0,394,338,8,202,6,0,3
+0,198,72,8,1,0,1,0
+0,277,266,15,13,0,1,3
+0,259,493,5,9,7,0,2
+0,9,494,0,9,0,0,0
+0,331,495,1,46,32,0,3
+0,395,352,8,33,0,0,2
+0,374,478,8,15,1,1,1
+0,371,4,1,1,0,0,2
+0,1,239,15,18,3,1,3
+0,159,495,0,203,33,0,1
+0,56,280,8,44,0,0,2
+0,396,496,8,204,0,0,0
+0,124,399,12,15,0,0,2
+0,14,497,1,79,0,0,2
+0,397,498,8,18,0,0,2
+0,197,499,15,83,10,0,2
+0,387,155,8,157,0,1,1
+0,398,400,1,9,0,0,0
+0,200,420,0,15,0,0,0
+0,399,185,1,9,0,0,1
+0,400,77,13,205,0,0,2
+0,20,500,0,13,7,0,3
+0,401,501,1,15,9,0,1
+0,205,502,2,206,0,0,2
+0,402,503,0,207,0,0,3
+0,403,504,1,138,0,1,1
+0,36,2,5,31,1,0,3
+0,100,104,0,142,0,0,1
+0,32,505,0,179,9,0,3
+0,307,506,0,5,0,0,0
+0,215,368,8,46,0,1,2
+0,404,507,1,18,6,0,1
+0,218,508,13,105,0,0,3
+0,244,509,8,208,0,0,1
+0,405,510,1,9,10,0,0
+0,115,511,5,2,0,0,0
+0,236,77,9,110,0,1,0
+0,138,334,6,14,7,1,2
+0,406,53,1,110,6,0,3
+0,407,433,5,209,11,1,1
+3,408,183,0,73,5,0,1
+0,78,512,0,30,0,0,2
+0,284,14,0,53,0,1,0
+0,409,35,5,13,0,0,1
+0,410,513,0,110,0,0,0
+0,401,514,13,15,1,1,0
+0,410,515,3,210,0,0,0
+0,9,516,5,211,0,2,3
+0,39,222,1,5,0,2,2
+0,262,277,0,2,0,0,1
+0,155,275,13,212,0,0,1
+0,159,513,0,52,0,0,2
+0,361,517,5,46,0,0,1
+0,411,518,3,213,0,0,3
+0,412,519,0,78,0,0,1
+0,268,154,2,126,0,0,2
+0,49,520,5,18,1,0,3
+0,240,521,5,132,0,0,1
+0,143,290,8,2,0,1,0
+0,379,111,0,103,9,0,2
+0,132,522,12,214,0,0,3
+0,55,203,5,9,0,0,2
+0,413,523,5,15,0,1,0
+0,270,168,0,215,0,0,2
+0,94,197,0,2,0,0,3
+0,205,494,12,216,1,1,1
+0,107,524,3,31,1,0,3
+0,84,525,8,177,0,1,3
+0,170,526,8,9,0,0,0
+0,143,98,0,0,0,0,1
+0,414,527,5,18,1,0,3
+0,415,155,8,2,0,0,3
+0,416,458,5,18,0,1,1
+0,417,528,8,52,0,0,0
+0,357,529,5,126,0,1,2
+0,287,326,8,15,0,0,3
+0,418,530,1,7,1,0,2
+0,419,531,2,217,6,0,3
+0,155,532,0,13,7,3,3
+0,420,533,1,110,1,0,1
+0,78,464,13,218,9,0,1
+3,379,183,5,73,5,1,2
+0,247,534,0,126,0,0,2
+0,27,535,0,2,0,1,2
+0,421,536,1,219,4,0,2
+2,422,363,0,220,9,0,1
+0,423,420,5,12,0,0,3
+2,424,537,1,104,9,0,0
+0,226,434,1,46,0,0,3
+0,150,538,6,221,16,0,1
+0,100,92,14,79,0,2,3
+0,0,539,0,41,0,2,2
+0,29,344,8,24,0,0,1
+0,425,540,5,46,0,0,2
+0,3,361,5,2,0,1,2
+0,143,541,8,53,0,2,2
+0,101,542,13,9,6,0,0
+0,134,42,1,15,0,2,2
+0,426,187,0,15,9,2,3
+0,427,543,5,144,0,0,3
+0,119,335,0,200,0,1,1
+0,72,130,13,44,0,0,1
+0,172,80,8,18,0,0,1
+0,26,20,0,15,0,1,3
+0,31,483,8,46,0,1,0
+0,428,32,15,13,6,1,3
+0,126,67,5,2,0,3,3
+0,9,544,8,13,34,1,0
+0,394,491,8,200,0,0,1
+0,429,545,15,214,0,0,2
+0,134,42,1,15,0,2,2
+0,124,546,8,222,0,1,2
+0,45,417,12,223,0,1,1
+0,200,323,12,2,0,0,2
+0,430,434,5,5,0,0,3
+0,115,238,6,9,0,2,3
+0,103,305,8,13,0,3,2
+0,75,435,1,1,0,0,1
+0,155,216,8,224,0,1,2
+0,431,132,0,15,0,2,2
+0,283,156,0,111,0,0,3
+0,156,331,5,15,0,0,3
+0,346,335,0,200,0,2,3
+0,57,228,5,2,0,1,1
+0,116,525,8,225,0,1,3
+0,432,305,8,18,0,0,1
+0,56,77,5,226,0,3,3
+0,118,429,8,18,0,0,1
+0,33,1,0,31,20,0,1
+0,413,523,8,13,0,1,3
+0,132,547,8,18,0,0,0
+0,433,500,15,13,0,0,2
+0,31,37,6,31,13,2,3
+0,29,194,0,18,0,0,3
+0,353,548,8,15,0,1,2
+0,357,159,5,63,0,0,1
+0,434,255,8,15,0,0,3
+0,435,549,0,13,0,0,1
+0,436,52,0,79,0,0,0
+0,72,489,13,126,0,0,2
+0,140,440,0,14,9,0,2
+0,23,3,5,5,0,1,3
+0,437,393,8,13,0,0,3
+0,53,550,3,227,6,0,1
+0,438,287,0,149,0,1,3
+0,418,530,0,78,1,1,2
+0,439,551,0,18,0,0,3
+0,192,243,8,15,0,1,3
+0,1,385,6,46,0,0,3
+0,64,552,12,19,0,0,2
+0,312,383,5,15,7,0,3
+0,293,553,2,1,0,0,0
+0,440,554,8,2,1,0,2
+0,441,325,17,5,0,2,2
+0,115,417,5,9,0,1,3
+0,166,505,15,46,0,0,3
+0,272,37,5,31,0,0,3
+0,240,128,1,110,0,0,2
+0,442,555,2,18,0,1,3
+0,443,370,8,114,0,0,1
+0,357,556,5,126,0,0,0
+0,387,345,8,19,0,2,2
+0,51,557,1,15,0,0,3
+0,51,541,8,9,0,0,1
+0,429,545,15,200,0,0,1
+0,78,130,6,46,0,0,3
+0,163,77,5,12,0,1,3
+0,132,558,8,228,0,1,3
+0,290,559,8,80,7,0,2
+0,444,454,15,13,0,0,3
+0,324,560,8,135,1,0,0
+0,371,234,5,229,0,0,0
+0,387,305,8,91,7,1,2
+0,29,251,8,9,0,1,2
+0,445,313,8,230,0,1,2
+0,228,499,1,15,0,0,0
+0,446,561,5,9,0,0,0
+0,447,494,8,231,0,0,0
+0,448,470,5,9,0,0,2
+0,277,562,13,232,6,0,0
+0,449,123,5,2,0,0,2
+0,450,164,5,9,0,0,3
+0,172,398,8,9,0,0,0
+0,451,405,2,13,0,0,1
+0,452,173,0,233,1,0,3
+0,355,563,5,2,1,1,2
+0,64,564,5,229,0,0,2
+0,453,246,15,19,0,0,3
+0,454,47,5,234,0,0,1
+0,351,483,8,145,6,0,0
+0,455,480,0,235,9,0,3
+0,456,565,2,5,0,0,3
+0,155,308,13,163,0,0,0
+0,163,566,5,158,0,0,1
+0,457,567,0,19,10,1,3
+0,278,375,5,2,0,0,0
+0,458,127,5,78,9,0,1
+0,459,568,5,223,9,0,2
+0,375,462,0,18,0,0,0
+0,159,569,0,100,0,0,1
+0,18,570,6,41,0,0,1
+0,153,571,0,2,0,0,1
+0,129,466,1,18,0,1,3
+0,61,390,8,44,6,0,1
+0,460,465,8,44,9,0,2
+2,339,363,8,34,9,2,3
+0,461,572,8,236,0,0,1
+0,201,573,8,9,1,0,2
+0,387,544,1,15,1,1,1
+0,462,574,5,46,0,0,0
+0,463,575,15,237,7,0,3
+0,68,162,1,15,0,0,0
+0,84,474,0,63,7,1,0
+0,259,576,8,200,0,0,0
+0,464,577,0,238,1,0,1
+0,465,578,0,52,0,0,0
+0,466,579,0,83,7,0,1
+0,193,445,0,200,0,0,2
+0,467,562,0,9,0,0,3
+0,468,580,8,239,9,0,2
+0,469,460,4,88,1,0,1
+0,170,353,5,9,0,1,3
+0,208,581,1,240,0,0,1
+0,342,426,0,179,9,1,3
+0,358,582,1,241,7,0,2
+0,25,237,6,9,0,0,2
+0,470,383,0,78,0,1,2
+0,357,583,0,130,35,0,1
+0,471,373,8,54,7,0,1
+3,379,584,0,242,5,0,2
+0,472,585,0,243,9,0,0
+8,20,586,0,244,31,1,3
+2,473,587,1,245,9,0,3
+0,244,588,0,53,0,1,1
+0,474,103,2,63,0,0,2
+9,475,589,0,246,13,0,2
+0,108,124,5,13,0,1,2
+0,476,332,8,15,0,0,1
+0,477,23,3,96,0,0,3
+0,478,7,4,15,0,1,2
+0,290,590,12,9,7,0,1
+0,327,418,8,5,1,0,1
+0,155,227,8,166,0,0,3
+3,479,131,1,247,5,1,3
+0,137,277,8,53,0,0,3
+0,247,273,8,126,0,2,3
+0,172,591,8,12,0,0,0
+0,119,335,0,200,0,1,3
+0,127,592,4,9,0,0,1
+3,480,593,0,95,5,0,1
+0,481,69,5,24,0,0,2
+3,482,594,1,248,5,0,0
+0,154,595,5,15,0,3,2
+0,331,76,5,249,0,0,3
+0,308,596,13,114,0,0,3
+0,222,441,0,2,0,2,2
+0,331,597,5,105,0,1,2
+0,284,366,8,44,0,0,3
+0,1,334,15,250,9,0,2
+0,324,76,5,2,0,2,0
+0,26,390,17,229,0,0,1
+0,483,598,5,251,0,0,0
+0,125,17,0,110,0,0,1
+0,79,465,15,15,0,0,3
+0,32,135,4,252,0,0,1
+0,57,599,0,9,0,0,0
+0,484,600,0,200,0,0,0
+0,369,274,1,206,0,0,2
+0,301,601,5,253,0,1,3
+0,485,602,1,0,36,0,1
+0,486,445,5,114,7,0,1
+0,487,603,1,2,0,1,3
+0,488,604,5,13,0,2,3
+0,9,516,13,3,0,1,3
+0,132,605,12,75,0,1,2
+0,129,373,8,254,0,2,2
+0,489,606,1,255,0,0,2
+0,490,84,5,256,7,1,2
+0,491,601,5,13,0,1,3
+0,100,607,0,5,0,0,1
+0,427,608,8,13,0,0,2
+0,272,609,5,75,0,0,2
+0,60,531,1,41,0,1,0
+0,154,547,5,13,0,0,3
+0,118,240,0,2,7,2,1
+0,253,432,8,13,0,0,3
+7,492,610,0,257,26,0,3
+0,79,64,5,9,0,0,1
+0,240,611,1,258,7,1,0
+0,44,612,4,78,0,0,2
+0,272,609,7,75,0,2,2
+0,9,405,6,200,0,0,1
+0,32,271,0,13,7,0,3
+0,214,294,5,123,0,0,3
+0,228,339,9,2,0,0,0
+0,493,613,5,15,0,0,0
+0,236,309,5,13,0,0,3
+0,493,464,6,2,0,0,3
+5,494,461,5,15,0,0,1
+0,495,614,3,259,0,0,0
+0,273,615,8,31,0,1,1
+0,214,231,8,3,7,3,2
+10,496,616,0,260,16,0,3
+0,65,186,1,13,0,0,2
+0,218,23,2,54,1,0,1
+0,497,57,5,193,15,0,0
+0,107,104,1,43,0,0,2
+0,143,195,5,75,0,0,3
+0,498,335,0,200,0,0,3
+0,499,235,8,13,0,0,3
+0,125,373,5,9,0,1,3
+0,200,344,8,18,0,0,2
+0,500,617,4,9,0,0,3
+0,437,235,8,261,0,1,3
+0,155,47,13,15,0,1,3
+0,501,273,5,2,0,0,2
+0,502,285,8,15,0,1,2
+0,503,618,8,2,0,0,2
+0,504,238,5,63,1,1,2
+0,371,420,13,44,0,2,3
+0,505,59,1,1,0,0,3
+0,506,185,8,9,0,0,1
+0,507,142,4,158,0,2,3
+0,508,545,15,13,0,1,1
+0,331,224,15,13,7,0,3
+0,36,295,0,262,1,1,1
+0,509,295,5,1,0,1,3
+0,20,619,1,95,0,0,1
+0,384,620,5,138,0,0,1
+0,510,328,12,135,0,0,0
+0,51,548,8,15,0,1,2
+0,511,195,8,1,10,0,3
+0,154,433,5,263,0,2,3
+0,116,285,8,264,0,1,2
+0,194,201,8,1,0,0,3
+0,512,621,2,126,0,0,2
+0,194,544,8,19,10,0,2
+0,513,202,8,2,0,0,2
+0,509,622,8,265,0,0,1
+0,1,35,13,52,0,0,1
+0,197,212,15,83,9,0,3
+0,181,623,15,266,0,0,2
+0,31,373,8,254,0,0,2
+0,26,194,0,32,0,0,3
+0,510,464,0,44,0,1,2
+0,331,624,8,228,0,0,1
+0,312,625,8,75,0,0,0
+0,118,626,1,18,0,0,0
+0,514,627,8,9,0,0,0
+0,465,628,0,15,8,0,2
+0,515,334,5,250,9,2,3
+0,516,531,5,13,0,1,2
+0,517,440,15,19,0,0,3
+0,205,269,5,2,0,0,3
+0,36,325,5,12,0,0,1
+0,518,629,15,44,37,0,1
+0,519,630,5,19,10,0,1
+0,520,246,4,18,0,1,3
+0,509,301,5,126,0,0,2
+0,53,631,8,13,0,0,2
+0,521,632,4,207,0,0,1
+0,9,607,8,63,0,0,2
+0,522,48,0,41,0,0,2
+0,44,325,13,5,0,0,1
+0,523,633,13,267,0,1,3
+0,511,634,8,15,0,0,1
+0,218,474,13,177,0,3,3
+0,280,635,5,18,6,1,3
+0,392,636,7,268,18,0,3
+0,13,637,5,2,10,2,3
+0,366,262,6,55,0,1,3
+0,138,638,3,198,1,0,0
+0,265,420,8,9,7,0,0
+0,524,639,0,200,0,0,2
+0,26,640,6,44,0,0,3
+0,525,545,15,269,7,0,3
+0,167,385,13,270,0,0,0
+0,137,541,0,13,0,3,2
+0,226,411,10,9,1,1,1
+0,270,331,0,271,0,1,2
+0,459,450,8,15,9,0,1
+0,53,522,8,41,29,0,1
+0,526,641,0,272,38,0,3
+0,527,642,2,46,12,1,1
+0,192,349,0,39,0,0,3
+0,528,209,0,9,0,0,0
+0,68,558,8,46,0,1,1
+0,371,643,5,63,0,0,2
+0,82,240,0,111,0,0,1
+0,529,644,5,211,1,0,2
+0,268,160,0,179,6,0,2
+0,33,423,5,273,0,0,2
+0,465,645,0,52,39,0,1
+0,71,49,0,274,0,2,3
+0,226,434,5,18,7,0,3
+0,530,646,0,45,6,0,3
+0,284,437,7,2,0,0,2
+0,167,42,1,52,0,2,3
+0,531,647,2,275,5,0,0
+0,16,17,8,91,0,2,2
+0,111,104,5,2,0,0,2
+0,532,331,0,110,0,0,1
+0,533,648,0,273,7,0,1
+0,534,205,6,105,28,0,2
+0,535,649,0,276,40,0,0
+0,536,650,10,220,9,1,1
+0,5,105,5,15,0,0,2
+4,409,112,5,277,20,2,3
+4,537,651,0,278,0,0,1
+0,316,652,5,279,0,0,0
+0,300,347,0,24,0,1,3
+0,219,653,8,14,0,0,0
+0,283,47,5,2,0,0,0
+0,23,119,5,44,0,0,3
+0,384,654,0,5,0,0,1
+0,78,168,0,218,0,0,1
+1,538,655,3,280,8,0,1
+0,539,656,5,91,0,0,2
+0,1,657,5,13,0,1,3
+0,450,658,12,2,0,0,0
+0,262,401,8,281,0,0,1
+0,38,563,5,282,1,0,1
+0,153,482,5,283,0,1,1
+0,55,339,5,284,0,0,3
+0,307,299,0,19,6,1,3
+0,118,151,13,18,7,0,1
+0,540,659,7,179,14,0,1
+0,136,660,15,41,0,0,3
+0,541,661,17,41,0,0,1
+0,259,500,0,13,0,0,2
+0,317,662,14,15,0,0,0
+0,302,663,0,55,7,1,3
+0,472,664,5,53,1,0,2
+0,270,665,0,156,0,0,3
+0,44,35,8,44,7,0,1
+0,542,666,1,20,0,3,1
+0,543,667,0,285,7,2,3
+0,19,561,5,14,7,1,2
+0,116,668,8,86,0,1,1
+0,124,46,8,13,0,0,3
+0,88,70,5,53,0,0,1
+0,544,354,1,1,6,0,1
+0,313,104,2,9,0,1,1
+0,92,669,8,9,0,0,1
+0,545,98,8,15,0,1,3
+0,27,535,0,2,0,1,3
+0,546,670,15,286,0,0,3
+0,155,656,5,91,0,0,1
+0,547,671,0,287,0,0,1
+0,155,672,8,288,0,0,1
+0,118,429,13,18,0,2,3
+0,37,74,6,289,6,0,2
+0,493,435,0,9,0,1,1
+0,103,130,6,13,7,0,1
+0,548,363,1,290,6,1,1
+0,221,37,0,2,0,1,1
+0,79,673,5,31,15,0,0
+0,237,467,5,13,0,0,3
+0,270,111,0,103,9,0,3
+0,275,5,0,52,8,0,1
+0,98,501,0,13,7,0,3
+0,78,47,5,9,0,0,3
+0,201,674,0,15,6,0,1
+8,549,675,2,291,31,0,1
+0,550,595,2,44,0,0,1
+0,54,676,8,13,0,0,2
+0,551,167,3,163,0,0,2
+0,147,677,5,53,0,0,1
+0,129,147,10,5,0,0,3
+0,552,678,1,292,7,0,1
+0,553,417,5,78,0,1,3
+0,387,679,8,13,0,1,2
+0,554,390,17,110,0,0,3
+0,56,680,0,45,1,2,3
+0,200,203,5,15,0,0,2
+0,154,42,5,9,0,0,3
+0,555,681,0,78,9,0,2
+0,504,466,8,273,1,3,3
+0,236,613,5,135,10,0,0
+0,310,435,8,10,0,1,1
+0,57,301,13,13,0,0,3
+0,556,682,8,13,0,1,3
+0,88,14,8,177,0,0,2
+0,557,13,0,63,0,0,1
+0,188,202,8,2,0,0,3
+0,328,683,8,15,0,3,3
+0,31,28,3,21,0,0,3
+0,64,153,0,18,0,2,1
+0,447,684,5,79,0,0,0
+0,39,685,5,112,0,1,1
+0,154,665,5,1,0,2,2
+0,228,128,0,9,0,1,1
+0,558,598,5,42,0,1,3
+0,219,432,8,18,7,0,3
+0,559,14,15,9,0,0,1
+0,103,428,13,293,0,0,1
+0,392,291,8,1,0,3,1
+0,560,631,8,123,0,0,3
+0,33,67,13,13,0,1,3
+0,382,134,4,11,0,1,3
+0,258,686,3,9,0,0,2
+0,342,325,6,19,0,0,1
+0,286,325,5,126,0,1,3
+0,155,368,8,294,10,0,1
+0,447,547,12,13,0,1,3
+0,247,541,8,79,0,1,3
+0,561,159,8,1,0,0,3
+11,562,687,1,9,7,0,2
+0,563,528,5,2,0,0,1
+0,33,101,1,69,0,1,3
+0,129,688,5,9,0,0,3
+0,218,689,5,13,0,0,2
+0,35,690,15,41,6,1,2
+0,167,691,0,295,5,1,3
+0,273,18,2,9,0,0,0
+0,564,692,2,15,10,0,1
+0,200,344,5,2,0,0,3
+0,565,548,8,15,0,1,1
+0,26,262,0,9,0,0,3
+0,329,693,8,86,0,0,1
+0,143,694,5,18,0,0,0
+0,392,233,8,32,0,1,0
+0,95,251,0,9,0,0,3
+0,293,233,8,2,0,2,3
+0,29,695,2,296,12,1,3
+0,566,696,3,274,6,0,0
+0,1,697,13,13,0,1,3
+0,56,597,12,229,0,0,1
+0,500,698,4,9,0,0,1
+0,567,507,8,18,0,0,2
+0,568,227,8,9,0,1,1
+0,555,530,1,7,9,1,1
+0,569,524,1,37,1,0,3
+0,453,473,5,297,0,0,2
+0,570,565,8,75,0,1,0
+0,374,95,5,15,1,1,2
+0,419,233,8,41,0,0,2
+0,265,17,0,9,0,2,3
+0,571,305,8,298,0,1,1
+0,1,23,12,299,0,0,3
+0,105,699,5,1,0,0,2
