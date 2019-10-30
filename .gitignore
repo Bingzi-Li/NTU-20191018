@@ -1,2 +1,12 @@
 /.idea/
 /.ipynb_checkpoints/
+
+.DS_Store
+
+chp5_classifiers/.DS_Store
+
+output/dismatrix.csv
+
+ch7_clustering/dismatrix.csv
+
+ch7_clustering/simatrix.csv
