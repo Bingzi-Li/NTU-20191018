@@ -1,2 +1,8 @@
 
 .DS_Store
+
+output/dismatrix.csv
+
+ch7_clustering/dismatrix.csv
+
+ch7_clustering/simatrix.csv
