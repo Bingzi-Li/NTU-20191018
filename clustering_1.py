@@ -24,7 +24,7 @@ plt.ylabel("Vote Count")
 plt.scatter(f1, f2, c='black', s=3)
 plt.show()
 
-kmeans = KMeans(n_clusters=3, max_iter=100)
+kmeans = KMeans(n_clusters=3, max_iter=10000)
 kmeans = kmeans.fit(X)
 labels = kmeans.predict(X)
 C = kmeans.cluster_centers_
@@ -51,7 +51,7 @@ plt.ylabel("Vote Count")
 plt.scatter(f1, f2, c='black', s=3)
 plt.show()
 
-kmeans = KMeans(n_clusters=3, max_iter=100)
+kmeans = KMeans(n_clusters=3, max_iter=10000)
 kmeans = kmeans.fit(X)
 labels = kmeans.predict(X)
 C = kmeans.cluster_centers_
@@ -78,7 +78,7 @@ plt.ylabel("Vote Average")
 plt.scatter(f1, f2, c='black', s=3)
 plt.show()
 
-kmeans = KMeans(n_clusters=3, max_iter=100)
+kmeans = KMeans(n_clusters=3, max_iter=10000)
 kmeans = kmeans.fit(X)
 labels = kmeans.predict(X)
 C = kmeans.cluster_centers_
@@ -120,7 +120,7 @@ plt.ylabel("Vote Average")
 plt.scatter(f1, f2, c='black', s=3)
 plt.show()
 
-kmeans = KMeans(n_clusters=15, max_iter=100)
+kmeans = KMeans(n_clusters=15, max_iter=10000)
 kmeans = kmeans.fit(X)
 labels = kmeans.predict(X)
 C = kmeans.cluster_centers_
