@@ -8,7 +8,7 @@ plt.rcParams['figure.figsize'] = (10, 5)
 plt.style.use('ggplot')
 
 # Importing the dataset
-data = pd.read_csv('/Users/sherrysheng/Downloads/NTU-20191018-master/data/tmdb_5000_features.csv')
+data = pd.read_csv('data/tmdb_5000_features.csv')
 
 # popularity & vote_count
 data_1 = data[['popularity','vote_count']]
