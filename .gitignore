@@ -9,3 +9,6 @@ figure/.DS_Store
 .idea/inspectionProfiles/profiles_settings.xml
 .DS_Store
 figure/clustering_2/_DS_Store
+.ipynb_checkpoints/data_analytics-checkpoint.ipynb
+.ipynb_checkpoints/data_preprocessing-checkpoint.ipynb
+.ipynb_checkpoints/data_selection-checkpoint.ipynb
