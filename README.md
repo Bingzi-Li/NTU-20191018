@@ -2,7 +2,7 @@
 ## NTU CZ4032 Data Analytics & Mining Assignment
 ### Authors: Li Bingzi, Wu Ziang, Zhang Shengjing, and Zhang Yuehan
 
-### Data Set: Kaggle TMDb 5000 Movie Dataset
+### Dataset: Kaggle TMDb 5000 Movie Dataset
 https://www.kaggle.com/tmdb/tmdb-movie-metadata#tmdb_5000_movies.csv  
 
 Third party libraries (install via python pip):
