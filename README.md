@@ -51,6 +51,8 @@ The sample output are in the directory output and are explained below:
 
 3. figure directory contains all figures generated from the scripts and used in the report
 
-4. output directory contains all intermediate outputs, for example dataset after data intergration, training and test data after bucketization and vectorization
+4. notebook directory contains the html version of the jupyter notebook exported from the local server
+
+5. output directory contains all intermediate outputs, for example dataset after data intergration, training and test data after bucketization and vectorization
 
 
